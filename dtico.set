@@ -1,0 +1,11 @@
+[.ShellClassInfo]
+ConfirmFileOp=0
+NoSharing=1
+IconFile=image.ico
+IconIndex=0 
+InfoTip=
+IconResource=[LOC]\image.ico,0
+[ViewState]
+Mode=
+Vid=
+FolderType=Pictures 

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Emulators>
+  <Settings>
+    <Current>53</Current>
+    <MusicPath />
+    <Keys name="keyCode1" value="35" />
+    <Keys name="keyCode2" value="36" />
+    <Keys name="keyCode3" value="24" />
+    <Keys name="keyCode4" value="26" />
+    <Keys name="keyCode5" value="23" />
+    <Keys name="keyCode6" value="25" />
+    <Keys name="keyCode7" value="118" />
+    <Keys name="keyCode8" value="18" />
+    <Keys name="keyCode9" value="116" />
+    <Keys name="keyCode10" value="13" />
+    <Keys name="keyCode11" value="3" />
+    <Keys name="keyCode12" value="6" />
+    <Keys name="keyCode13" value="152" />
+    <Keys name="keyCode14" value="59" />
+    <Keys name="keyCode15" value="39" />
+    <Keys name="keyCode16" value="156" />
+    <Keys name="keyCode17" value="40" />
+    <Keys name="keyCode18" value="47" />
+    <Keys name="keyCode19" value="50" />
+    <Keys name="keyCode20" value="44" />
+    <Keys name="keyCode21" value="62" />
+    <Keys name="keyCode22" value="60" />
+    <Keys name="keyCode23" value="66" />
+    <Pad name="padCode1" value="22529" />
+    <Pad name="padCode2" value="22528" />
+    <Pad name="padCode3" value="22544" />
+    <Pad name="padCode4" value="22545" />
+    <Pad name="padCode5" value="22546" />
+    <Pad name="padCode6" value="22547" />
+    <Pad name="padCode7" value="22533" />
+    <Pad name="padCode8" value="22531" />
+    <Pad name="padCode9" value="22548" />
+    <Pad name="padCode10" value="22530" />
+    <Pad name="padCode11" value="22578" />
+    <Pad name="padCode12" value="22579" />
+    <Pad name="padCode13" value="22576" />
+    <Pad name="padCode14" value="22577" />
+    <Pad name="padCode15" value="22532" />
+    <Pad name="padCode16" value="22534" />
+    <Pad name="padCode17" value="22535" />
+    <Pad name="padCode18" value="0" />
+    <Pad name="padCode19" value="0" />
+    <Pad name="padCode20" value="0" />
+    <Pad name="padCode21" value="0" />
+    <Pad name="padCode22" value="0" />
+    <Pad name="padCode23" value="0" />
+    <Exclude />
+    <Theme selected="Base" />
+    <ListAlign selected="1">
+      <Align id="0" name="Left" />
+      <Align id="1" name="Center" />
+      <Align id="2" name="Right" />
+    </ListAlign>
+  </Settings>

@@ -1,0 +1,10 @@
+pushd "%GBC%\net\%EMST%"
+call "%GBC%\esremap.bat">>"%GBC%\logs\esremap.log"
+echo.-->>"%GBC%\logs\esremap.log"
+"%GBC%\fart.exe" "%CONSES%.tmp" [EXT] "%EMSEXT%"
+"%GBC%\fart.exe" "%CONSES%.tmp" [CONSPATH] "%CONSESPTH%"
+"%GBC%\fart.exe" "%CONSES%.tmp" [ESCONS] "%ESRMP%"
+"%GBC%\fart.exe" "%CONSES%.tmp" [CONS] "%CONSES%"
+"%GBC%\fart.exe" "%CONSES%.tmp" [BATCHL] "%GBE%\%EMUZ%\%BATCHL%\%BATCHL%.exe"
+popd
+type "%GBC%\net\%EMST%\%CONSES%.tmp">>"%GBC%\net\%EMST%\es_systems.cfg"

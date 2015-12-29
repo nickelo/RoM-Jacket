@@ -1,0 +1,100 @@
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <link rel="alternate stylesheet" type="text/css" href="resource://gre-resources/plaintext.css"
+      title="Wrap Long Lines">
+  </head>
+  <body>
+    <pre>@charset "utf-8";
+.MenuItems {
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	text-transform: capitalize;
+	color: #333;
+}
+.MenuItems {
+	font-size: 14px;
+	font-weight: bold;
+	color: #666;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	position: relative;
+}
+.HeadlineItems {
+	font-size: 18px;
+	font-weight: bold;
+	color: #999;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	position: relative;
+}.Caveats {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	color: #3FC;
+}
+.default {<br />	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	font-size: 11px;<br />        position: relative;
+	color: #FFF;
+	overflow:auto
+}
+	#defaultwrap {<br />
+-webkit-box-shadow: 0px 5px 3px 3px rgba(0,0,0,0.45);
+-moz-box-shadow: 0px 5px 3px 3px rgba(0,0,0,0.45);
+box-shadow: 0px 5px 3px 3px rgba(0,0,0,0.45);
+	border-radius: 25px;
+	background-color: #666;
+	height: auto;
+	overflow:auto;
+	padding-right: 15px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	width: 98%;
+	padding-left: 15px;
+	text-align: left;
+}
+.sectiontitle {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: bold;
+	color: #F60;
+	text-decoration: underline
+}
+.MainHeader {
+text-shadow: 0 0 0.02em silver, 0 0 0.02em black;<br />	font-family: Tahoma, Geneva, sans-serif;<br />	font-size: 17px;
+	font-weight: bold;
+	color: #09F;
+}
+.instruct {<br />	font-size: 14px;
+	font-weight: bold;
+	color: #3FC;<br />
+	font-family: Tahoma, Geneva, sans-serif
+}
+
+	&lt;style&gt;
+		* {
+			margin: 0;
+			padding: 0;
+		}
+		
+		body {
+			background: #CCC;
+			}
+		
+		body style {
+			display: block;
+			float: left;
+			background: #CCC;
+			padding: 20px;
+			width: 50%;
+			margin: 0 50px 0 0; 
+		}
+		
+		p { margin: 0 50px 50px 0; text-indent: 50px; }
+		h1 { margin: 0 0 30px 0; font-size: 40px; line-height: 1; }
+
+	&lt;/style&gt;
+</pre>
+  </body>
+</html>

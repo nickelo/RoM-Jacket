@@ -1,0 +1,1 @@
+WinHide, ahk_pid %1%

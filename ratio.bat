@@ -1,0 +1,5 @@
+echo.Set objFS=CreateObject("Scripting.FileSystemObject")>"%GBC%\ratio.vbs"
+echo.Set objArgs = WScript.Arguments>>"%GBC%\ratio.vbs"
+echo.x = objArgs(0)>>"%GBC%\ratio.vbs"
+echo.y = objArgs(1)>>"%GBC%\ratio.vbs"
+echo.WScript.Echo x / y>>"%GBC%\ratio.vbs"

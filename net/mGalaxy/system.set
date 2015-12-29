@@ -1,0 +1,16 @@
+
+  <System Type="[SYSTYPE]">
+    <Name>[CONS]</Name>
+    <AppPath />
+    <RomPath />
+    <SnapPath />
+    <VidPath />
+    <Emu selected="0">
+      <Cmd id="0" name="Application shortcut" value="&quot;%path\%file%ext&quot; /A" />
+    </Emu>
+    <Extensions>.lnk</Extensions>
+    <Active>True</Active>
+    <Script>False</Script>
+    <Database>False</Database>
+  </System>
+  

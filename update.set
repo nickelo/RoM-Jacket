@@ -1,0 +1,16 @@
+Const ForReading = 1
+Set objFSO = CreateObject("Scripting.FileSystemObject")
+Set objFile1 = objFSO.OpenTextFile("[CURRENTVERSION]", ForReading)
+strCurrentDevices = objFile1.ReadAll
+objFile1.Close
+Set objFile2 = objFSO.OpenTextFile("[UPDATEFILE]", ForReading)
+Do Until objFile2.AtEndOfStream
+    strAddress = objFile2.ReadLine
+    If InStr(strCurrentDevices, strAddress) = 0 Then
+        strNotCurrent = strNotCurrent & strAddress & vbCrLf
+    End If
+Loop
+objFile2.Close
+Set objFile3 = objFSO.CreateTextFile("[DOWNLOAD]")
+objFile3.WriteLine strNotCurrent
+objFile3.Close

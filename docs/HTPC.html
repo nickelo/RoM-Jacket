@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Considerations</title>
+    <!-- Bootstrap core CSS -->
+    <link href="web/css/bootstrap.min.css" rel="stylesheet">
+    <!-- SmartMenus jQuery Bootstrap Addon CSS -->
+    <link href="web/css/jquery.smartmenus.bootstrap.css " rel="stylesheet">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>    <![endif]-->
+  </head>
+  <body>
+    <!-- Static navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header"> <button type="button" class="navbar-toggle"
+            data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle
+              navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+            <span class="icon-bar"></span> </button> <a class="navbar-brand">HTPCs</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <!-- Left nav -->
+          <ul class="nav navbar-nav">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="DOWNLOADS.html">Download</a></li>
+            <li><a href="USAGE.html">Help &amp; Docs</a>
+              <ul class="dropdown-menu">
+                <li><a href="QUICKST.html">Quickstart</a></li>
+                <li><a href="USAGE.html">Usage</a></li>
+                <li><a href="KEYMAPPER.html">Keymapper</a></li>
+                <li><a href="QUESTIONS.html">F.A.Q's</a></li>
+                <li class="divider"><br>
+                </li>
+                <li class="dropdown-header">Documentation</li>
+                <li><a href="EMUPAGE.html">Emulators</a>
+                  <ul class="dropdown-menu">
+                    <li><a href="EMUPAGE.html#">Applications</a></li>
+                    <li><a href="EMUPAGE.html#Drivers">Drivers</a></li>
+                    <li><a href="EMUPAGE.html#BIOS">BIOS files</a></li>
+                    <li><a href="EMUPAGE.html#DWNL">ROMs</a></li>
+                  </ul>
+                </li>
+                <li><a href="CONFIG.html">Configure</a>
+                  <ul class="dropdown-menu">
+                    <li><a href="CONFIG.html"><b>Library</b></a></li>
+                    <li><a href="SORTING.html">Sorting</a></li>
+                    <li><a href="XPADR.html">XPadder</a></li>
+            <li><a href="AMICR.html">antiMicro</a></li>
+                    <li><a href="UTIL.html">Utilities</a></li>
+                    <li><a href="RST.html">Reset</a></li>
+                  </ul>
+                </li>
+                <li class="active"><a>HTPCs</a>
+                  <ul class="dropdown-menu">
+				    <li class="active"><a>Consider</a></li>
+                    <li><a href="METAD.html">MetaData</a></li>
+                    <li><a href="MEDIAB.html">Mediabrowser</a></li>
+                    <li><a href="EMUST.html">Emulationstation</a></li>
+                    <li><a href="KODI.html">XBMC/KODI</a></li>
+                    <li><a href="OBLY.html">Oblytile</a></li>
+                    <li><a href="CABR.html">Cabrio</a></li>
+                    <li><a href="VALVE.html">Steam</a></li>
+                    <li><a href="MIRROR.html">Mirror+</a></li>
+                    <li><a href="HYPER.html">Hyperspin</a>
+                      
+                    <li><a href="RTFE.html">retroFE</a>
+                    </li>
+                  </ul>
+                </li>
+                <li><a href="HOMECON.html">Systems</a>
+                  <ul class="dropdown-menu">
+                    <li><a href="HOMECON.html">Home Consoles</a></li>
+                    <li><a href="CPUCON.html">Computer Sytstems</a></li>
+                    <li><a href="ARCDCON.html">Arcade Machines</a></li>
+                    <li><a href="PORTCON.html">Handhelds</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          </ul>
+          <!-- Right nav -->
+          <ul class="nav navbar-nav navbar-right">
+            <li class="active"><a>Consider</a></li>
+            <li><a href="METAD.html">Metadata</a></li>
+            <li><a href="MEDIAB.html">Mediabrowser</a></li>
+            <li><a href="KODI.html">XBMC/KODI</a></li>
+            <li><a href="OBLY.html">Oblytile</a></li>
+            <li><a href="EMUST.html">Emulationstation</a></li>
+            <li><a href="CABR.html">Cabrio</a></li>
+            <li><a href="VALVE.html">Steam</a></li>
+            <li><a href="MIRROR.html">Mirror+</a></li>
+            <li><a href="HYPER.html">Hyperspin</a>
+              
+            </li>
+            <li><a href="RTFE.html">retroFE</a>
+          </ul>
+        </div>
+        <!--/.nav-collapse --> </div>
+      <!--/.container --> </div>
+    <div class="container" style="margin-top:70px;">
+      <div class="page-header">
+        <h1>Frontend Considerations</h1>
+        <p><br>
+          <a href="DOWNLOADS.html">RoM-Jacket's frontend MetaData should be downloaded</a>
+          and installed prior to frontend configuration</p>
+        <span class="alert-danger">The Paradigm:<br>
+        XBMC/KODI is a good comprimise for users who are looking to build a RoM-Jacket library and want to download box-art with other assets.<br>
+        Between Advanced Launcher and Rom Collection Browser, XBMC/KODI is a fast and functional browser for most systems</span>
+        <h2>What do I want and which option is best for me?</h2>
+        <p> Users of RoM-Jacket have different needs and so several HTPC
+          frontend options are available.<br>
+          Artwork such as box-covers, banners and backgrounds can be scraped to
+          your ROM jackets via some frontends however many enthusiasts may wish
+          to import or transfer existing assets.</p>
+        <h3>Advanced Users</h3>
+        <p> Advanced users have artwork migration tools available for each
+          frontend. A robust set of configuration options for Hyperspin enable
+          managing and creating a configuration easy.</p>
+        <h3>Enthusiasts</h3>
+        <p> Emulationstation, Advanced Launcher and Rom Collection Browser
+          plugins scrape artwork and metadata for games from the internet.</p>
+        <h3>Impulsive and recreational players</h3>
+        <p> Mediabrowser, retroFE and Emulationstation will populate any games added to a
+          library dynamically.</p>
+        <h3>Deployments</h3>
+        <p> Cabrio-FE, retroFE and Emulationstation are ideal frontends for older
+          computers or lightweight libraries. </p>
+        <h3>PC Gamers</h3>
+        <p> Steam users can browse their libraries easily. </p>
+        <h3>Windows™ Users</h3>
+        <p> Oblytile and Mirror+ are great for Windows™ users who don't want the
+          overhead of an HTPC frontend, but would like to be able browse using
+          box-art icons for their games. </p>
+        <span class="alert-danger">Caveats:<br>
+        Windows 8™ users who wish to use Mediabrowser must install Windows MediaCenter™.<br>
+        Oblytile is only available for Windows 8™ users
+        </span>
+        <hr style="color: black;">
+        <h2>Other Frontends...</h2>
+        <p>The BatchscriptLauncher.exe program should be used  as the &quot;Emulator&quot; and the extension to assign is &quot;.bat&quot; (or .lnk for mirrors)</p>
+        <h3>LaunchBox</h3>
+        <p>From the menu at the the top: </p>
+        <p class="text-danger">Tools&gt;Import Games&gt;From Files...&gt;ROM Files&gt;Add Files&gt;Select a System Folder&gt;</p>
+        <p>In the dialog box that opens, <a href="http://dl.dropboxusercontent.com/u/413403/web/searchfield.png" title="use the search field "
+                  class="lightbox">use the search field </a>for *.bat (or *.lnk for mirrors)</p>
+        <p class="text-danger">&gt; Select the platform&gt;Add Emulator&gt;Create Profile for Batchscriptlauncher.exe&gt;USE THE FILES IN THEIR CURRENT LOCATION&gt;&gt;&gt;&gt;... </p>
+      </div>
+    </div>
+    <!-- /container -->
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="web/js/jquery-1.10.2.min.js"></script>
+    <script src="web/libs/demo-assets/bootstrap/js/bootstrap.min.js"></script>
+    <!-- SmartMenus jQuery plugin -->
+    <script type="text/javascript" src="web/jquery.smartmenus.js"></script>
+    <!-- SmartMenus jQuery Bootstrap Addon -->
+    <script type="text/javascript" src="web/addons/bootstrap/jquery.smartmenus.bootstrap.js"></script>
+  </body>
+</html>

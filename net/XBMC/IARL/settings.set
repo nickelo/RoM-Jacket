@@ -1,0 +1,15 @@
+<settings>
+    <setting id="iarl_path_to_chdman" value="" />
+    <setting id="iarl_path_to_retroarch" value="[RAEXE]" />
+    <setting id="iarl_setting_cache_list" value="true" />
+    <setting id="iarl_setting_chd_warning" value="true" />
+    <setting id="iarl_setting_clean_list" value="true" />
+    <setting id="iarl_setting_clear_cache_value" value="false" />a
+    <setting id="iarl_setting_default_action" value="[LNCHTYP]" />
+    <setting id="iarl_setting_dl_cache" value="[LNCHSZ]" />
+    <setting id="iarl_setting_items_pp" value="250" />
+    <setting id="iarl_setting_naming" value="Title" />
+    <setting id="iarl_setting_warn_chd" value="true" />
+    <setting id="iarl_setting_warn_iso" value="true" />
+</settings>
+	

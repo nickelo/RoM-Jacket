@@ -1,0 +1,3153 @@
+1292apvs     quickload   (quik)     .pgm  .tvc
+             cartridge   (cart)     .rom  .bin
+1392apvs     quickload   (quik)     .pgm  .tvc
+             cartridge   (cart)     .rom  .bin
+32x          cartridge   (cart)     .32x  .bin
+32x_scd      cartridge   (cart)     .32x  .bin
+32xe         cartridge   (cart)     .32x  .bin
+32xj         cartridge   (cart)     .32x  .bin
+3b1          floppydisk  (flop)     .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+3do          cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+3do_pal      cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+990189       cassette    (cass)     .wav
+990189v      cassette    (cass)     .wav
+a1000        floppydisk  (flop)     .adf  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+a1000n       floppydisk  (flop)     .adf  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+a1200        floppydisk  (flop)     .adf  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+a1200n       floppydisk  (flop)     .adf  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+a1200xl      floppydisk1 (flop1)    .atr  .dsk  .xfd
+             cartridge   (cart)     .rom  .bin
+a130xe       floppydisk1 (flop1)    .atr  .dsk  .xfd
+             cartridge   (cart)     .rom  .bin
+a2600        cartridge   (cart)     .bin  .a26
+             cassette    (cass)     .wav  .a26
+a2600p       cartridge   (cart)     .bin  .a26
+             cassette    (cass)     .wav  .a26
+a3000        floppydisk  (flop)     .adf  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+a3000n       floppydisk  (flop)     .adf  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+a400         floppydisk1 (flop1)    .atr  .dsk  .xfd
+             cartridge   (cart)     .rom  .bin
+a400pal      floppydisk1 (flop1)    .atr  .dsk  .xfd
+             cartridge   (cart)     .rom  .bin
+a500         floppydisk  (flop)     .adf  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cartridge   (cart)     .rom  .bin
+a500n        floppydisk  (flop)     .adf  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cartridge   (cart)     .rom  .bin
+a500pl       floppydisk  (flop)     .adf  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cartridge   (cart)     .rom  .bin
+a500pln      floppydisk  (flop)     .adf  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cartridge   (cart)     .rom  .bin
+a5105        cassette    (cass)     .wav
+             floppydisk1 (flop1)    .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+a5200        cartridge   (cart)     .rom  .bin  .a52
+a600         floppydisk  (flop)     .adf  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cartridge   (cart)     .rom  .bin
+a600n        floppydisk  (flop)     .adf  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cartridge   (cart)     .rom  .bin
+a600xl       floppydisk1 (flop1)    .atr  .dsk  .xfd
+             cartridge   (cart)     .rom  .bin
+a65xe        floppydisk1 (flop1)    .atr  .dsk  .xfd
+             cartridge   (cart)     .rom  .bin
+a65xea       floppydisk1 (flop1)    .atr  .dsk  .xfd
+             cartridge   (cart)     .rom  .bin
+a6809        cassette    (cass)     .wav
+a7800        cartridge   (cart)     .bin  .a78
+a7800p       cartridge   (cart)     .bin  .a78
+a800         floppydisk1 (flop1)    .atr  .dsk  .xfd
+             cartridge1  (cart1)    .rom  .bin
+a800pal      floppydisk1 (flop1)    .atr  .dsk  .xfd
+             cartridge1  (cart1)    .rom  .bin
+a800xe       floppydisk1 (flop1)    .atr  .dsk  .xfd
+             cartridge   (cart)     .rom  .bin
+a800xl       floppydisk1 (flop1)    .atr  .dsk  .xfd
+             cartridge   (cart)     .rom  .bin
+a800xlp      floppydisk1 (flop1)    .atr  .dsk  .xfd
+             cartridge   (cart)     .rom  .bin
+abc1600      floppydisk  (flop)     .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+abc80        cassette    (cass)     .wav
+             floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+abc800c      cassette    (cass)     .wav
+             floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+abc800m      cassette    (cass)     .wav
+             floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+abc802       cassette    (cass)     .wav
+             floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+abc806       floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+ac1          cassette    (cass)     .wav
+ac1_32       cassette    (cass)     .wav
+ac1scch      cassette    (cass)     .wav
+ace100       floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette    (cass)     .wav
+acrnsys1     cassette    (cass)     .wav
+adam         cassette1   (cass1)    .wav  .ddp
+             floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cartridge1  (cart1)    .rom  .col  .bin
+advision     cartridge   (cart)     .bin
+advsnha      cartridge   (cart)     .bin
+aes          cartridge   (cart)     .bin
+agat7        floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette    (cass)     .wav
+agat9        floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette    (cass)     .wav
+ai1000       cartridge1  (cart1)    .bin
+aim65        cassette1   (cass1)    .wav
+             cartridge1  (cart1)    .z26
+al520ex      snapshot    (dump)     .sna
+             cassette    (cass)     .wav  .cdt
+             floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+al8800bt     quickload   (quik)     .bin
+alfa         cassette    (cass)     .wav  .pmd  .tap  .ptp
+alice        cassette    (cass)     .wav  .cas
+alice32      cassette    (cass)     .wav  .cas  .c10  .k7
+alice90      cassette    (cass)     .wav  .cas  .c10  .k7
+alphatro     cassette    (cass)     .wav
+altos5       floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+am64         floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette    (cass)     .wav
+ampro        floppydisk  (flop)     .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+amu880       cassette    (cass)     .wav
+apc          floppydisk1 (flop1)    .d77  .d88  .1dd  .imd  .mfi
+apexc        cylinder    (cyln)     .apc
+             punchtape1  (ptap1)    .tap
+apfimag      cassette    (cass)     .wav  .apt
+             floppydisk1 (flop1)    .apd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+apfm1000     cartridge   (cart)     .bin
+aplannb      floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+aplanst      floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+aplsbon      floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+aplscar      floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+apogee       cassette    (cass)     .wav  .rka
+apollo80     cartridge   (cart)     .st2  .bin  .rom
+apple1       snapshot    (dump)     .snp
+             cassette    (cass)     .wav
+apple2       floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette    (cass)     .wav
+apple2c      cassette    (cass)     .wav
+             floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+apple2c0     cassette    (cass)     .wav
+             floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+apple2c3     cassette    (cass)     .wav
+             floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+apple2c4     cassette    (cass)     .wav
+             floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+apple2cp     cassette    (cass)     .wav
+             floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+apple2e      floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette    (cass)     .wav
+apple2ee     floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette    (cass)     .wav
+apple2ep     floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette    (cass)     .wav
+apple2gs     floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+apple2gsr0   floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+apple2gsr0p  floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+apple2gsr1   floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+apple2gsr3lp floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+apple2gsr3p  floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+apple2jp     floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette    (cass)     .wav
+apple2p      floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette    (cass)     .wav
+apple3       floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+applix       cassette    (cass)     .wav
+             floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+aprfte       floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+apricot      floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+apricotxi    floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+aprpand      floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+apvxft       floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+apxena1      floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+apxeni       floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+apxenls3     floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+apxenp2      floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+apxlsam      floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+aquarius     cassette    (cass)     .wav
+             cartridge   (cart)     .bin
+arcadia      cartridge   (cart)     .bin
+asst128      cassette    (cass)     .wav
+             floppydisk1 (flop1)    .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+astrocde     cartridge   (cart)     .bin
+astrocdl     cartridge   (cart)     .bin
+astrocdw     cartridge   (cart)     .bin
+at           floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+at386        floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+at486        floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+at586        harddisk    (hard)     .chd  .hd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+at586x3      harddisk    (hard)     .chd  .hd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+ataripc3     floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+atm          snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .trd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+atmtb2       snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .trd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+atom         floppydisk1 (flop1)    .dsk  .40t  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap  .uef
+             quickload   (quik)     .atm
+             cartridge   (cart)     .bin  .rom
+atombb       cassette    (cass)     .wav  .tap  .uef
+atomeb       floppydisk1 (flop1)    .dsk  .40t  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap  .uef
+             quickload   (quik)     .atm
+             cartridge1  (cart1)    .bin  .rom
+attache      floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+attachef     floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+atvga        floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+avigo        quickload   (quik)     .app
+avigo_de     quickload   (quik)     .app
+avigo_es     quickload   (quik)     .app
+avigo_fr     quickload   (quik)     .app
+avigo_it     quickload   (quik)     .app
+ax170        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+ax20         floppydisk  (flop)     .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+ax350        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd             
+			 cartridge1  (cart1)    .mx1  .rom
+ax370        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+b128         floppydisk1 (flop1)    .d80  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .20   .40   .60
+             quickload   (quik)     .p00  .prg  .t64
+b128hp       floppydisk1 (flop1)    .d80  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .20   .40   .60
+             quickload   (quik)     .p00  .prg  .t64
+b256         floppydisk1 (flop1)    .d80  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .20   .40   .60
+             quickload   (quik)     .p00  .prg  .t64
+b256hp       floppydisk1 (flop1)    .d80  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .20   .40   .60
+             quickload   (quik)     .p00  .prg  .t64
+b2m          floppydisk1 (flop1)    .odi  .cpm  .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+b2mrom       floppydisk1 (flop1)    .odi  .cpm  .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+b500         floppydisk1 (flop1)    .d80  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .20   .40   .60
+             quickload   (quik)     .p00  .prg  .t64
+bbca         cassette    (cass)     .wav  .csw  .uef
+bbcb         cassette    (cass)     .wav  .csw  .uef
+             floppydisk1 (flop1)    .bbc  .img  .ssd  .dsd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge1  (cart1)    .rom
+bbcb_de      cassette    (cass)     .wav  .csw  .uef
+             floppydisk1 (flop1)    .bbc  .img  .ssd  .dsd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge1  (cart1)    .rom
+             floppydisk1 (flop1)    .bbc  .img  .ssd  .dsd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge1  (cart1)    .rom
+bbcbc        cartridge   (cart)     .bin
+bbcbp        cassette    (cass)     .wav  .csw  .uef
+             floppydisk1 (flop1)    .bbc  .img  .ssd  .dsd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge1  (cart1)    .rom
+bbcbp128     cassette    (cass)     .wav  .csw  .uef
+             floppydisk1 (flop1)    .bbc  .img  .ssd  .dsd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge1  (cart1)    .rom
+             cartridge3  (cart3)    .rom
+bbcm         cassette    (cass)     .wav  .csw  .uef
+             cartridge1  (cart1)    .bin
+             floppydisk1 (flop1)    .bbc  .img  .ssd  .dsd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+bbcm512      cassette    (cass)     .wav  .csw  .uef
+             cartridge1  (cart1)    .bin
+             floppydisk1 (flop1)    .bbc  .img  .ssd  .dsd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+bbcmaiv      cassette    (cass)     .wav  .csw  .uef
+             cartridge1  (cart1)    .bin
+             floppydisk1 (flop1)    .bbc  .img  .ssd  .dsd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+bbcmarm      cassette    (cass)     .wav  .csw  .uef
+             cartridge1  (cart1)    .bin
+             floppydisk1 (flop1)    .bbc  .img  .ssd  .dsd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+bbcmc        cassette    (cass)     .wav  .csw  .uef
+             cartridge1  (cart1)    .bin
+             floppydisk1 (flop1)    .bbc  .img  .ssd  .dsd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+bbcmc_ar     cassette    (cass)     .wav  .csw  .uef
+             cartridge1  (cart1)    .bin
+             floppydisk1 (flop1)    .bbc  .img  .ssd  .dsd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+bbcmet       cartridge1  (cart1)    .bin
+             floppydisk1 (flop1)    .bbc  .img  .ssd  .dsd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+bbcmt        cassette    (cass)     .wav  .csw  .uef
+             cartridge1  (cart1)    .bin
+             floppydisk1 (flop1)    .bbc  .img  .ssd  .dsd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+bebox        harddisk1   (hard1)    .chd  .hd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             floppydisk  (flop)     .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+bebox2       harddisk1   (hard1)    .chd  .hd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             floppydisk  (flop)     .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+bestzx       snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .trd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+beta         cartridge   (cart)     .bin  .rom
+bigboard     floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+bigbord2     floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+binbug       cassette    (cass)     .wav
+             quickload   (quik)     .pgm
+bk0010       cassette    (cass)     .wav
+bk001001     cassette    (cass)     .wav
+bk0010fd     cassette    (cass)     .wav
+bk0011m      cassette    (cass)     .wav
+bk8t         cassette    (cass)     .wav
+             floppydisk1 (flop1)    .kdi  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+blitzs       snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+bmjr         cassette    (cass)     .wav
+bml3         floppydisk1 (flop1)    .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+bml3mk2      floppydisk1 (flop1)    .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+bml3mk5      floppydisk1 (flop1)    .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+bndarc       cartridge   (cart)     .bin
+bob85        cassette    (cass)     .wav
+brailab4     cassette    (cass)     .wav
+             quickload   (quik)     .htp
+braiplus     cassette    (cass)     .wav
+             quickload   (quik)     .htp
+bruc100      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+bw12         floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+bw14         floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+bw2          floppydisk  (flop)     .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+bw230        floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+bx256hp      floppydisk1 (flop1)    .d80  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .20   .40   .60
+             quickload   (quik)     .p00  .prg  .t64
+byte         snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+c116         cassette    (cass)     .wav  .tap
+             cartridge1  (cart1)    .rom  .bin
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             quickload   (quik)     .p00  .prg
+c128         cassette    (cass)     .wav  .tap
+             cartridge1  (cart1)    .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg
+             floppydisk  (flop)     .g64  .g71  .d64  .d71  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+c128_de      cassette    (cass)     .wav  .tap
+             cartridge1  (cart1)    .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg
+             floppydisk  (flop)     .g64  .g71  .d64  .d71  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+c128_se      cassette    (cass)     .wav  .tap
+             cartridge1  (cart1)    .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg
+             floppydisk  (flop)     .g64  .g71  .d64  .d71  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+c128cr       cassette    (cass)     .wav  .tap
+             cartridge1  (cart1)    .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg
+             floppydisk  (flop)     .g64  .g71  .d64  .d71  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+c128d        cassette    (cass)     .wav  .tap
+             cartridge1  (cart1)    .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg
+             floppydisk  (flop)     .g64  .g71  .d64  .d71  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+c128d81      cassette    (cass)     .wav  .tap
+             cartridge1  (cart1)    .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg
+             floppydisk  (flop)     .d81  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+c128dcr      cassette    (cass)     .wav  .tap
+             cartridge1  (cart1)    .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg
+             floppydisk  (flop)     .g64  .g71  .d64  .d71  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+c128dcr_de   cassette    (cass)     .wav  .tap
+             cartridge1  (cart1)    .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg
+             floppydisk  (flop)     .g64  .g71  .d64  .d71  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+c128dcr_se   cassette    (cass)     .wav  .tap
+             cartridge1  (cart1)    .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg
+             floppydisk  (flop)     .g64  .g71  .d64  .d71  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+c128dcrp     cassette    (cass)     .wav  .tap
+             cartridge1  (cart1)    .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg
+             floppydisk  (flop)     .g64  .g71  .d64  .d71  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+c128dp       cassette    (cass)     .wav  .tap
+             cartridge1  (cart1)    .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg
+             floppydisk  (flop)     .g64  .g71  .d64  .d71  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+c128p        cassette    (cass)     .wav  .tap
+             cartridge1  (cart1)    .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg
+             floppydisk  (flop)     .g64  .g71  .d64  .d71  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+c16          cassette    (cass)     .wav  .tap
+             cartridge1  (cart1)    .rom  .bin
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             quickload   (quik)     .p00  .prg
+c16_hu       cassette    (cass)     .wav  .tap
+             cartridge1  (cart1)    .rom  .bin
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             quickload   (quik)     .p00  .prg
+c16p         cassette    (cass)     .wav  .tap
+             cartridge1  (cart1)    .rom  .bin
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             quickload   (quik)     .p00  .prg
+c1p          cassette    (cass)     .wav
+c1pmf        cassette    (cass)     .wav
+             floppydisk  (flop)     .img  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+c232         cassette    (cass)     .wav  .tap
+             cartridge1  (cart1)    .rom  .bin
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             quickload   (quik)     .p00  .prg
+c264         cassette    (cass)     .wav  .tap
+             cartridge1  (cart1)    .rom  .bin
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             quickload   (quik)     .p00  .prg
+c2717        cassette    (cass)     .wav  .pmd  .tap  .ptp
+c2717pmd     cassette    (cass)     .wav  .pmd  .tap  .ptp
+c386sx16     floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+c64          cassette    (cass)     .wav  .tap
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg  .t64
+c64_jp       cassette    (cass)     .wav  .tap
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg  .t64
+c64_se       cassette    (cass)     .wav  .tap
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg  .t64
+c64c         cassette    (cass)     .wav  .tap
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg  .t64
+c64c_es      cassette    (cass)     .wav  .tap
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg  .t64
+c64c_se      cassette    (cass)     .wav  .tap
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg  .t64
+c64cp        cassette    (cass)     .wav  .tap
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg  .t64
+c64dx        quickload   (quik)     .p00  .prg
+c64g         cassette    (cass)     .wav  .tap
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg  .t64
+c64gs        cartridge   (cart)     .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg  .t64
+c64p         cassette    (cass)     .wav  .tap
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg  .t64
+c65          quickload   (quik)     .p00  .prg
+c80          cassette    (cass)     .wav
+canonv10     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+canonv20     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+carmarty     floppydisk1 (flop1)    .bin  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             harddisk1   (hard1)    .chd  .hd
+casloopy     cartridge   (cart)     .ic1  .bin
+cbm3008      floppydisk1 (flop1)    .d64  .g64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+cbm3016      floppydisk1 (flop1)    .d64  .g64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+cbm3032      floppydisk1 (flop1)    .d64  .g64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+cbm3032b     floppydisk1 (flop1)    .d64  .g64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+cbm4016      floppydisk1 (flop1)    .d64  .g64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+cbm4032      floppydisk1 (flop1)    .d64  .g64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+cbm4032b     floppydisk1 (flop1)    .d64  .g64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+cbm610       floppydisk1 (flop1)    .d80  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .20   .40   .60
+             quickload   (quik)     .p00  .prg  .t64
+cbm620       floppydisk1 (flop1)    .d80  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .20   .40   .60
+             quickload   (quik)     .p00  .prg  .t64
+cbm620_hu    floppydisk1 (flop1)    .d80  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .20   .40   .60
+             quickload   (quik)     .p00  .prg  .t64
+cbm710       floppydisk1 (flop1)    .d80  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .20   .40   .60
+             quickload   (quik)     .p00  .prg  .t64
+cbm720       floppydisk1 (flop1)    .d80  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .20   .40   .60
+             quickload   (quik)     .p00  .prg  .t64
+cbm720_de    floppydisk1 (flop1)    .d80  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .20   .40   .60
+             quickload   (quik)     .p00  .prg  .t64
+cbm720_se    floppydisk1 (flop1)    .d80  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .20   .40   .60
+             quickload   (quik)     .p00  .prg  .t64
+cbm730       floppydisk1 (flop1)    .d80  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .20   .40   .60
+             quickload   (quik)     .p00  .prg  .t64
+cbm8032      floppydisk1 (flop1)    .d80  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+cbm8032_de   floppydisk1 (flop1)    .d80  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+cbm8032_se   floppydisk1 (flop1)    .d80  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+cbm8096      floppydisk1 (flop1)    .d80  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+cbm8296      floppydisk1 (flop1)    .d80  .d82  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+cbm8296d     floppydisk1 (flop1)    .d80  .d82  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+cbm8296d_de  floppydisk1 (flop1)    .d80  .d82  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+cbm8296ed    floppydisk1 (flop1)    .d80  .d82  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+cbm8296gd    floppydisk1 (flop1)    .d80  .d82  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+ccs2422      floppydisk  (flop)     .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+cd2650       quickload   (quik)     .pgm
+             cassette    (cass)     .wav
+cd32         cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+cdimono1     cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+cdtv         floppydisk  (flop)     .adf  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+cdx          cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+cf1200       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+cf2000       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+cf2700       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+cf2700g      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+cf3000       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+cf3300       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+cgenie       cassette    (cass)     .wav  .cas
+             floppydisk1 (flop1)    .cgd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .rom
+cgenienz     cassette    (cass)     .wav  .cas
+             floppydisk1 (flop1)    .cgd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .rom
+channelf     cartridge   (cart)     .bin  .chf
+channlf2     cartridge   (cart)     .bin  .chf
+cip01        snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+cip03        snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+cm1200       cartridge   (cart)     .st2  .bin  .rom
+cmdpc30      floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+cobra80      snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+cobrasp      snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+coco         cassette    (cass)     .wav  .cas
+             bitbngr     (bitb)     .
+             cartridge   (cart)     .ccc  .rom
+coco2        cassette    (cass)     .wav  .cas
+             bitbngr     (bitb)     .
+             cartridge   (cart)     .ccc  .rom
+             floppydisk1 (flop1)    .dsk  .os9  .vdk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             harddisk1   (hard1)    .vhd
+coco2b       cassette    (cass)     .wav  .cas
+             bitbngr     (bitb)     .
+             cartridge   (cart)     .ccc  .rom
+             floppydisk1 (flop1)    .dsk  .os9  .vdk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             harddisk1   (hard1)    .vhd
+coco3        cassette    (cass)     .wav  .cas
+             bitbngr     (bitb)     .
+             cartridge   (cart)     .ccc  .rom
+             floppydisk1 (flop1)    .dsk  .os9  .vdk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             harddisk1   (hard1)    .vhd
+coco3h       cassette    (cass)     .wav  .cas
+             bitbngr     (bitb)     .
+             cartridge   (cart)     .ccc  .rom
+             floppydisk1 (flop1)    .dsk  .os9  .vdk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             harddisk1   (hard1)    .vhd
+coco3p       cassette    (cass)     .wav  .cas
+             bitbngr     (bitb)     .
+             cartridge   (cart)     .ccc  .rom
+             floppydisk1 (flop1)    .dsk  .os9  .vdk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             harddisk1   (hard1)    .vhd
+cocoe        cassette    (cass)     .wav  .cas
+             bitbngr     (bitb)     .
+             cartridge   (cart)     .ccc  .rom
+             floppydisk1 (flop1)    .dsk  .os9  .vdk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             harddisk1   (hard1)    .vhd
+coleco       cartridge   (cart)     .rom  .col  .bin
+colecoa      cartridge   (cart)     .rom  .col  .bin
+colecob      cartridge   (cart)     .rom  .col  .bin
+compani1     snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+compc1       floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+compis       cassette    (cass)     .wav
+             floppydisk1 (flop1)    .dsk  .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+compis2      cassette    (cass)     .wav
+             floppydisk1 (flop1)    .dsk  .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+comx35n      quickload   (quik)     .comx
+             cassette    (cass)     .wav
+             floppydisk  (flop)     .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+comx35p      quickload   (quik)     .comx
+             cassette    (cass)     .wav
+             floppydisk  (flop)     .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+concept      floppydisk1 (flop1)    .img  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             harddisk    (hard)     .chd  .hd
+copera       cartridge   (cart)     .bin  .md
+cosmicos     quickload   (quik)     .bin
+             cassette    (cass)     .wav
+cp1          cassette    (cass)     .wav
+             quickload   (quik)     .obj
+cp400        cassette    (cass)     .wav  .cas
+             bitbngr     (bitb)     .
+             cartridge   (cart)     .ccc  .rom
+             floppydisk1 (flop1)    .dsk  .os9  .vdk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+cpc300       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+cpc300e      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+cpc400       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+cpc400s      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+cpc464       snapshot    (dump)     .sna
+             cassette    (cass)     .wav  .cdt
+             floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+cpc464p      snapshot    (dump)     .sna
+             cassette    (cass)     .wav  .cdt
+             floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cartridge   (cart)     .cpr  .bin
+cpc6128      snapshot    (dump)     .sna
+             cassette    (cass)     .wav  .cdt
+             floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+cpc6128f     snapshot    (dump)     .sna
+             cassette    (cass)     .wav  .cdt
+             floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+cpc6128p     snapshot    (dump)     .sna
+             cassette    (cass)     .wav  .cdt
+             floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cartridge   (cart)     .cpr  .bin
+cpc6128s     snapshot    (dump)     .sna
+             cassette    (cass)     .wav  .cdt
+             floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+cpc664       snapshot    (dump)     .sna
+             cassette    (cass)     .wav  .cdt
+             floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+cpu09        cassette    (cass)     .wav
+crvisio2     cassette    (cass)     .wav
+             cartridge   (cart)     .bin  .rom
+crvisioj     cassette    (cass)     .wav
+             cartridge   (cart)     .bin  .rom
+crvision     cassette    (cass)     .wav
+             cartridge   (cart)     .bin  .rom
+ct386sx      floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+ct486        floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+cx3000tc     quickload   (quik)     .pgm  .tvc
+             cartridge   (cart)     .rom  .bin
+cx5m         cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+cx5m128      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+cx5m2        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+cx7m         cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+cx7m128      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+cybikov1     quickload   (quik)     .bin  .nv
+cybikov2     quickload   (quik)     .bin  .nv
+cybikoxt     quickload   (quik)     .bin  .nv
+czz50        cartridge   (cart)     .rom  .col  .bin
+d64plus      cassette    (cass)     .wav  .cas
+             cartridge   (cart)     .ccc  .rom
+             floppydisk1 (flop1)    .dsk  .os9  .vdk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+d6800        cassette    (cass)     .wav
+             quickload   (quik)     .bin  .c8   .ch8
+dai          cassette    (cass)     .wav
+database     quickload   (quik)     .pgm  .tvc
+             cartridge   (cart)     .rom  .bin
+dc           cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+dcdev        cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+dceu         cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+dcjp         cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+dcprt        cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+dendy        cartridge   (cart)     .nes  .unf  .unif
+dg680        cassette    (cass)     .wav
+dgama87      snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+dgama88      snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+dgama89      snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+dgnalpha     cassette    (cass)     .wav  .cas
+             cartridge   (cart)     .ccc  .rom
+             floppydisk1 (flop1)    .dsk  .os9  .vdk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+dgnbeta      floppydisk1 (flop1)    .dsk  .os9  .vdk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+dgone        floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+didakm91     snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+didakm92     snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+didakm93     snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+didakt90     snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+didaktk      snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+dim68k       floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+dina         cartridge   (cart)     .rom  .col  .bin
+dmv          floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+dn3000       floppydisk  (flop)     .afd  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             disk1       (disk1)    .awd
+             ctape       (ct)       .act
+dn3000_19i   floppydisk  (flop)     .afd  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             disk1       (disk1)    .awd
+             ctape       (ct)       .act
+dn3500       floppydisk  (flop)     .afd  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             disk1       (disk1)    .awd
+             ctape       (ct)       .act
+dn3500_19i   floppydisk  (flop)     .afd  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             disk1       (disk1)    .awd
+             ctape       (ct)       .act
+dn5500       floppydisk  (flop)     .afd  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             disk1       (disk1)    .awd
+             ctape       (ct)       .act
+dn5500_19i   floppydisk  (flop)     .afd  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             disk1       (disk1)    .awd
+             ctape       (ct)       .act
+dolphunk     cassette    (cass)     .wav
+dpc100       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+dpc180       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+dpc200       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+dragon200    cassette    (cass)     .wav  .cas
+             cartridge   (cart)     .ccc  .rom
+             floppydisk1 (flop1)    .dsk  .os9  .vdk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+dragon200e   cassette    (cass)     .wav  .cas
+             cartridge   (cart)     .ccc  .rom
+             floppydisk1 (flop1)    .dsk  .os9  .vdk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+dragon32     cassette    (cass)     .wav  .cas
+             cartridge   (cart)     .ccc  .rom
+             floppydisk1 (flop1)    .dsk  .os9  .vdk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+dragon64     cassette    (cass)     .wav  .cas
+             cartridge   (cart)     .ccc  .rom
+             floppydisk1 (flop1)    .dsk  .os9  .vdk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+drpcjr       cartridge   (cart)     .nes  .unf  .unif
+             floppydisk  (flop)     .fds
+             cassette    (cass)     .wav
+ds2          quickload   (quik)     .rex  .ds2
+dsp3000      floppydisk  (flop)     .afd  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             disk1       (disk1)    .awd
+             ctape       (ct)       .act
+dsp3500      floppydisk  (flop)     .afd  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             disk1       (disk1)    .awd
+             ctape       (ct)       .act
+dsp5500      floppydisk  (flop)     .afd  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             disk1       (disk1)    .awd
+             ctape       (ct)       .act
+dw225        cartridge   (cart)     .crd  .card
+dx64         cassette    (cass)     .wav  .tap
+             floppydisk1 (flop1)    .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg  .t64
+dynavisn     cartridge   (cart)     .bin
+ec1840       cassette    (cass)     .wav
+             floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+ec1841       floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+ec1845       floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+ec1847       floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+ec1849       floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+edu64        cassette    (cass)     .wav  .tap
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg  .t64
+ehx20        cassette    (cass)     .wav
+             floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+ehx20e       cassette    (cass)     .wav
+             floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+einst256     floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+einstei2     floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+einstein     floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+ekusera      cartridge   (cart)     .bin
+electron     cassette    (cass)     .wav  .uef
+             cartridge   (cart)     .bin
+elektor      quickload   (quik)     .pgm  .tvc
+             cartridge   (cart)     .rom  .bin
+             cassette    (cass)     .wav
+elf2         cassette    (cass)     .wav
+             quickload   (quik)     .bin
+elwro800     floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+enmirage     floppydisk  (flop)     .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+ep128        cassette1   (cass1)    .wav
+             cartridge   (cart)     .rom  .bin
+ep64         cassette1   (cass1)    .wav
+             cartridge   (cart)     .rom  .bin
+eps          midiin      (min)      .mid
+             midiout     (mout)     .mid
+             floppydisk  (flop)     .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+eps16p       midiin      (min)      .mid
+             midiout     (mout)     .mid
+             floppydisk  (flop)     .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+erik         cassette    (cass)     .wav  .rks
+             floppydisk1 (flop1)    .odi  .cpm  .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+esq1         midiin      (min)      .mid
+             midiout     (mout)     .mid
+esqm         midiin      (min)      .mid
+             midiout     (mout)     .mid
+eti660       cassette    (cass)     .wav
+europc       floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+exp85        cassette    (cass)     .wav
+expert10     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+expert11     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+expert13     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+expert20     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+expert3i     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+expert3t     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+expertac     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+expertdp     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+expertdx     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+expertpl     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+f1           floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+f10          floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+f1392        quickload   (quik)     .pgm  .tvc
+             cartridge   (cart)     .rom  .bin
+f1e          floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+f2           floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+falcon30     floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+falcon40     floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+famicom      cartridge   (cart)     .nes  .unf  .unif
+             floppydisk  (flop)     .fds
+             cassette    (cass)     .wav
+famitwin     cartridge   (cart)     .nes  .unf  .unif
+             floppydisk  (flop)     .fds
+             cassette    (cass)     .wav
+fellow       snapshot    (dump)     .vz
+             cassette    (cass)     .wav  .cas
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .dsk
+fforce2      quickload   (quik)     .pgm  .tvc
+             cartridge   (cart)     .rom  .bin
+ficpio2      floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+ficvt503     harddisk    (hard)     .chd  .hd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cassette    (cass)     .wav  .t77
+             floppydisk1 (flop1)    .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .t77
+             floppydisk1 (flop1)    .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .t77
+             floppydisk1 (flop1)    .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .t77
+             floppydisk1 (flop1)    .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .t77
+             floppydisk1 (flop1)    .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .t77
+             floppydisk1 (flop1)    .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .t77
+             floppydisk1 (flop1)    .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             floppydisk1 (flop1)    .bin  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             harddisk1   (hard1)    .chd  .hd
+fmtowns      floppydisk1 (flop1)    .bin  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             harddisk1   (hard1)    .chd  .hd
+fmtownsa     floppydisk1 (flop1)    .bin  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             harddisk1   (hard1)    .chd  .hd
+fmtownshr    floppydisk1 (flop1)    .bin  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             harddisk1   (hard1)    .chd  .hd
+fmtownsmx    floppydisk1 (flop1)    .bin  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             harddisk1   (hard1)    .chd  .hd
+fmtownssj    floppydisk1 (flop1)    .bin  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             harddisk1   (hard1)    .chd  .hd
+fmtownsux    floppydisk1 (flop1)    .bin  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             harddisk1   (hard1)    .chd  .hd
+fnvision     cassette    (cass)     .wav
+             cartridge   (cart)     .bin  .rom
+fp           floppydisk  (flop)     .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+fs1300       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+fs4000       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+fs4500       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+fs4600       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+fs4700       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+fs5000       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+fs5500       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+fsa1         cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+fsa1a        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+fsa1f        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+fsa1fm       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+fsa1fx       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+fsa1gt       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+fsa1mk2      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+fsa1st       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+fsa1wsx      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+fsa1wx       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+fsa1wxa      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+ftsserv      floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+g7400        cartridge   (cart)     .bin  .rom
+galaxy       snapshot    (dump)     .gal
+             cassette    (cass)     .wav  .gtp
+galaxyp      snapshot    (dump)     .gal
+             cassette    (cass)     .wav  .gtp
+gameboy      cartridge   (cart)     .bin  .gb   .gbc
+gamecom      cartridge1  (cart1)    .bin  .tgc
+gamegeaj     cartridge   (cart)     .bin  .gg
+gamegear     cartridge   (cart)     .bin  .gg
+gamepock     cartridge   (cart)     .bin
+gba          cartridge   (cart)     .gba  .bin
+gbcolor      cartridge   (cart)     .bin  .gb   .gbc
+gblight      cartridge   (cart)     .bin  .gb   .gbc
+gbpocket     cartridge   (cart)     .bin  .gb   .gbc
+gchinatv     cartridge   (cart)     .nes  .unf  .unif
+genesis      cartridge   (cart)     .smd  .bin  .md   .gen
+geneve       floppydisk1 (flop1)    .dsk  .dtk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             harddisk1   (hard1)    .chd  .hd
+gl2000       cartridge   (cart)     .bin
+gl2000p      cartridge   (cart)     .bin
+gl3000s      cartridge   (cart)     .bin
+glmmc        cartridge   (cart)     .bin
+gln          cartridge   (cart)     .bin
+gmaster      cartridge   (cart)     .bin
+gp32         memcard     (memc)     .smc
+gsfc200      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+gx4000       cartridge   (cart)     .cpr  .bin
+h8           cassette    (cass)     .wav
+hanihac      cartridge   (cart)     .bin
+hb10p        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hb201        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hb201p       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hb20p        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hb501p       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hb55d        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hb55p        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hb75d        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hb75p        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hbf1         cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hbf12        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hbf1xd       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hbf1xdj      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hbf1xdm2     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hbf1xv       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hbf5         cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hbf500       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hbf500p      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hbf700d      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hbf700f      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hbf700p      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hbf700s      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hbf900       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hbf900a      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hbf9p        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hbf9pr       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hbf9s        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hbf9sp       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hbg900ap     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hbg900p      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hc128        snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+hc2000       snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+hc85         snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+hc88         snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+hc90         snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+hc91         snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+hec2hr       cassette    (cass)     .wav  .k7   .cin  .for
+hec2hrp      cassette    (cass)     .wav  .k7   .cin  .for
+hec2hrx      floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cassette    (cass)     .wav  .k7   .cin  .for
+hec2mdhrx    floppydisk  (flop)     .HMD  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .k7   .cin  .for
+hec2mx40     floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cassette    (cass)     .wav  .k7   .cin  .for
+hec2mx80     floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cassette    (cass)     .wav  .k7   .cin  .for
+hector1      cassette    (cass)     .wav  .k7   .cin  .for
+hisaturn     cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             cartridge   (cart)     .bin
+hmg1292      quickload   (quik)     .pgm  .tvc
+             cartridge   (cart)     .rom  .bin
+hmg1392      quickload   (quik)     .pgm  .tvc
+             cartridge   (cart)     .rom  .bin
+hmg2650      cartridge   (cart)     .bin
+hobby        cassette    (cass)     .wav  .tap  .cas
+homelab2     cassette    (cass)     .wav
+             quickload   (quik)     .htp
+homelab3     cassette    (cass)     .wav
+             quickload   (quik)     .htp
+homelab4     cassette    (cass)     .wav
+             quickload   (quik)     .htp
+hotbi13b     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hotbi13p     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hotbit11     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hotbit12     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hotbit20     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hp48gx       port1       (p1)       .crd
+hp48sx       port1       (p1)       .crd
+hr16         cassette    (cass)     .wav
+hr16b        cassette    (cass)     .wav
+ht108064     cassette    (cass)     .wav  .cas
+             quickload   (quik)     .cmd
+             floppydisk1 (flop1)    .dsk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+ht1080z      cassette    (cass)     .wav  .cas
+             quickload   (quik)     .cmd
+             floppydisk1 (flop1)    .dsk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+ht1080z2     cassette    (cass)     .wav  .cas
+             quickload   (quik)     .cmd
+             floppydisk1 (flop1)    .dsk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+ht68k        floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+hx10         cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hx10s        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hx20         cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hx23         cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+hx23f        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+i8530286     floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+i8530h31     floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+i8535043     floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+i8550021     floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+i8550061     floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+i8555081     floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+i8580071     floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+i8580111     floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+ibm5140      cassette    (cass)     .wav
+             floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk1   (hard1)    .chd  .hd
+ibm5150      cassette    (cass)     .wav
+             floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk1   (hard1)    .chd  .hd
+ibm5155      cassette    (cass)     .wav
+             floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk1   (hard1)    .chd  .hd
+ibm5160      floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk1   (hard1)    .chd  .hd
+ibm5162      floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+ibm5170      floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+ibm5170a     floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+ibm5550      floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+ibmpcjr      cassette    (cass)     .wav
+             floppydisk  (flop)     .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cartridge1  (cart1)    .jrc
+ibmpcjx      cassette    (cass)     .wav
+             floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cartridge1  (cart1)    .jrc
+ibmps1es     floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+ie15         bitbngr     (bitb)     .
+impuls03     cassette    (cass)     .wav  .rk   .rkr  .gam  .g16  .pki
+ingtelma     cartridge   (cart)     .bin  .chf
+instruct     quickload   (quik)     .pgm
+             cassette    (cass)     .wav
+interact     cassette    (cass)     .wav  .k7   .cin  .for
+intervsn     cartridge   (cart)     .bin
+intmpt03     cartridge   (cart)     .bin
+intv         cartridge   (cart)     .int  .rom  .bin  .itv
+intv2        cartridge   (cart)     .int  .rom  .bin  .itv
+intvecs      cartridge   (cart)     .int  .rom  .bin  .itv
+intvkbd      cartridge1  (cart1)    .int  .rom  .bin  .itv
+intvsrs      cartridge   (cart)     .int  .rom  .bin  .itv
+inves        snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+ip204415     cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+ip224613     harddisk    (hard)     .chd  .hd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+ip225015     harddisk    (hard)     .chd  .hd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+ip244415     harddisk    (hard)     .chd  .hd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+iq128        cartridge   (cart)     .bin
+iq128_fr     cartridge   (cart)     .bin
+iq151        cassette    (cass)     .wav
+             cartridge1  (cart1)    .bin  .rom
+iqtv512      cartridge   (cart)     .bin
+iqunlim      cartridge   (cart)     .bin
+isbc286      floppydisk  (flop)     .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk1   (hard1)    .chd  .hd
+isbc2861     floppydisk  (flop)     .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk1   (hard1)    .chd  .hd
+iskr1030m    floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+iskr1031     floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+iskr3104     floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+itmcmtp3     cartridge   (cart)     .bin
+itt3030      floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+itttelma     cartridge   (cart)     .bin  .chf
+itunlim      cartridge   (cart)     .bin
+ivelultr     floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette    (cass)     .wav
+ivg09        cassette    (cass)     .wav
+             floppydisk  (flop)     .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+ixl2000      cartridge   (cart)     .bin
+jaguar       quickload   (quik)     .abs  .bin  .cof  .jag  .prg
+             cartridge   (cart)     .j64  .rom
+jaguarcd     quickload   (quik)     .abs  .bin  .cof  .jag  .prg
+             cartridge   (cart)     .j64  .rom
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+jet          snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+jopac        cartridge   (cart)     .bin  .rom
+jr100        cassette    (cass)     .wav
+             quickload   (quik)     .prg
+jr100u       cassette    (cass)     .wav
+             quickload   (quik)     .prg
+jtc          cassette    (cass)     .wav
+jtces23      cassette    (cass)     .wav
+jtces40      cassette    (cass)     .wav
+jtces88      cassette    (cass)     .wav
+juicebox     memcard     (memc)     .smc
+jupace       cassette    (cass)     .wav  .tap
+             snapshot    (dump)     .ace
+jvchc7gb     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+k286i        floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+kay1024      snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .trd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+kaypro10     quickload   (quik)     .com  .cpm
+             floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+kaypro2x     quickload   (quik)     .com  .cpm
+             floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+kaypro4      quickload   (quik)     .com  .cpm
+             floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+kaypro4a     quickload   (quik)     .com  .cpm
+             floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+kaypro4p88   quickload   (quik)     .com  .cpm
+             floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+kayproii     quickload   (quik)     .com  .cpm
+             floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+kc85         cassette    (cass)     .wav
+             cartridge   (cart)     .rom  .bin
+kc85_111     cassette    (cass)     .wav
+kc85_2       quickload   (quik)     .kcc
+             cassette    (cass)     .wav  .kcc  .kcb  .tap  .853  .854  .855  .tp2  .kcm  .sss
+             cartridge1  (cart1)    .bin
+kc85_3       quickload   (quik)     .kcc
+             cassette    (cass)     .wav  .kcc  .kcb  .tap  .853  .854  .855  .tp2  .kcm  .sss
+             cartridge1  (cart1)    .bin
+kc85_4       quickload   (quik)     .kcc
+             cassette    (cass)     .wav  .kcc  .kcb  .tap  .853  .854  .855  .tp2  .kcm  .sss
+             cartridge1  (cart1)    .bin
+kc85_5       quickload   (quik)     .kcc
+             cassette    (cass)     .wav  .kcc  .kcb  .tap  .853  .854  .855  .tp2  .kcm  .sss
+             cartridge1  (cart1)    .bin
+kc87_10      cassette    (cass)     .wav
+kc87_11      cassette    (cass)     .wav
+kc87_20      cassette    (cass)     .wav
+kc87_21      cassette    (cass)     .wav
+kccomp       snapshot    (dump)     .sna
+             cassette    (cass)     .wav  .cdt
+             floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+kim1         cassette    (cass)     .wav  .kim  .kim1
+kontiki      floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cassette    (cass)     .wav
+kontur       cassette    (cass)     .wav
+             floppydisk1 (flop1)    .kdi  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+korvet       cassette    (cass)     .wav
+             floppydisk1 (flop1)    .kdi  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+kr03         cassette    (cass)     .wav  .rk   .rkr  .gam  .g16  .pki
+krista2      cassette    (cass)     .wav
+             floppydisk1 (flop1)    .fdd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .emr
+kristall2    cassette    (cass)     .wav  .rk8
+krvnjvtv     quickload   (quik)     .pgm  .tvc
+             cartridge   (cart)     .rom  .bin
+kt76         midiin      (min)      .mid
+             midiout     (mout)     .mid
+lambda       cassette    (cass)     .wav  .p    .81
+las110de     snapshot    (dump)     .vz
+             cassette    (cass)     .wav  .cas
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .dsk
+las128ex     cassette    (cass)     .wav
+             floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+las210de     snapshot    (dump)     .vz
+             cassette    (cass)     .wav  .cas
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .dsk
+las3000      floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette    (cass)     .wav
+laser110     snapshot    (dump)     .vz
+             cassette    (cass)     .wav  .cas
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .dsk
+laser128     cassette    (cass)     .wav
+             floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+laser200     snapshot    (dump)     .vz
+             cassette    (cass)     .wav  .cas
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .dsk
+laser210     snapshot    (dump)     .vz
+             cassette    (cass)     .wav  .cas
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .dsk
+laser310     snapshot    (dump)     .vz
+             cassette    (cass)     .wav  .cas
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .dsk
+laser310h    snapshot    (dump)     .vz
+             cassette    (cass)     .wav  .cas
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .dsk
+laser350     cassette    (cass)     .wav  .cas
+             cartridge   (cart)     .rom
+             floppydisk  (flop)     .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+laser500     cassette    (cass)     .wav  .cas
+             cartridge   (cart)     .rom
+             floppydisk  (flop)     .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+laser700     cassette    (cass)     .wav  .cas
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+laseract     cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+laseractj    cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+lc80         cassette    (cass)     .wav
+lc80_2       cassette    (cass)     .wav
+leonardo     cartridge   (cart)     .bin
+lik          cassette    (cass)     .wav  .rks
+lisa         floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+lisa2        floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+lisa210      floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+lnsy1392     quickload   (quik)     .pgm  .tvc
+             cartridge   (cart)     .rom  .bin
+lnw80        cassette    (cass)     .wav  .cas
+             quickload   (quik)     .cmd
+             floppydisk1 (flop1)    .dsk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+lola8a       cassette    (cass)     .wav
+luxorvec     cartridge   (cart)     .bin  .chf
+luxorves     cartridge   (cart)     .bin  .chf
+lvision      cartridge   (cart)     .bin
+lviv         snapshot    (dump)     .sav
+             cassette    (cass)     .wav  .lvt  .lvr  .lv0  .lv1  .lv2  .lv3
+lynx         quickload   (quik)     .o
+             cartridge   (cart)     .lnx  .lyx
+lzcolor64    cassette    (cass)     .wav  .cas
+             bitbngr     (bitb)     .
+             cartridge   (cart)     .ccc  .rom
+m10          cassette    (cass)     .wav
+             cartridge   (cart)     .rom  .bin
+m20          floppydisk1 (flop1)    .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+m24          floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+m240         floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+m40          floppydisk1 (flop1)    .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+m5           cassette    (cass)     .wav  .cas
+             floppydisk  (flop)     .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cartridge   (cart)     .bin  .rom
+m5p          cassette    (cass)     .wav  .cas
+             floppydisk  (flop)     .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cartridge   (cart)     .bin  .rom
+m82          cartridge   (cart)     .nes  .unf  .unif
+m86rk        cassette    (cass)     .wav  .rkm
+mac128k      floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+mac2fdhd     harddisk1   (hard1)    .chd  .hd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+mac512k      floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+mac512ke     floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+maccclas     harddisk1   (hard1)    .chd  .hd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+macclas2     harddisk1   (hard1)    .chd  .hd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+macclasc     floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             harddisk1   (hard1)    .chd  .hd
+macii        harddisk1   (hard1)    .chd  .hd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+maciici      harddisk1   (hard1)    .chd  .hd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+maciicx      harddisk1   (hard1)    .chd  .hd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+maciifx      harddisk1   (hard1)    .chd  .hd
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+maciihmu     harddisk1   (hard1)    .chd  .hd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+maciisi      harddisk1   (hard1)    .chd  .hd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+maciivi      harddisk1   (hard1)    .chd  .hd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+maciivx      harddisk1   (hard1)    .chd  .hd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+maciix       harddisk1   (hard1)    .chd  .hd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+maclc        harddisk1   (hard1)    .chd  .hd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+maclc2       harddisk1   (hard1)    .chd  .hd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+maclc3       harddisk1   (hard1)    .chd  .hd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+maclc520     harddisk1   (hard1)    .chd  .hd
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+macpb100     harddisk1   (hard1)    .chd  .hd
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+macpb140     harddisk1   (hard1)    .chd  .hd
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+macpb145     harddisk1   (hard1)    .chd  .hd
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+macpb145b    harddisk1   (hard1)    .chd  .hd
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+macpb160     harddisk1   (hard1)    .chd  .hd
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+macpb170     harddisk1   (hard1)    .chd  .hd
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+macpb180     harddisk1   (hard1)    .chd  .hd
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+macpb180c    harddisk1   (hard1)    .chd  .hd
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+macplus      floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             harddisk1   (hard1)    .chd  .hd
+macprtb      harddisk1   (hard1)    .chd  .hd
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+macqd700     floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             harddisk1   (hard1)    .chd  .hd
+macse        floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             harddisk1   (hard1)    .chd  .hd
+macse30      harddisk1   (hard1)    .chd  .hd
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+macsefd      floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             harddisk1   (hard1)    .chd  .hd
+macxl        floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+magic6       snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+manager      cassette    (cass)     .wav
+             cartridge   (cart)     .bin  .rom
+mato         cassette    (cass)     .wav  .pmd  .tap  .ptp
+mbc16        floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+mbc200       floppydisk1 (flop1)    .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+mbc55x       floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+mbee         quickload1  (quik1)    .mwb  .com
+             quickload2  (quik2)    .bin
+             cassette    (cass)     .wav
+mbee128      quickload1  (quik1)    .mwb  .com
+             quickload2  (quik2)    .bin
+             cassette    (cass)     .wav
+             floppydisk1 (flop1)    .ss80 .ds40 .ds80 .ds82 .ds84 .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+mbee256      quickload1  (quik1)    .mwb  .com
+             quickload2  (quik2)    .bin
+             cassette    (cass)     .wav
+             floppydisk1 (flop1)    .ss80 .ds40 .ds80 .ds82 .ds84 .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+mbee56       quickload1  (quik1)    .mwb  .com
+             quickload2  (quik2)    .bin
+             cassette    (cass)     .wav
+             floppydisk1 (flop1)    .ss80 .ds40 .ds80 .ds82 .ds84 .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+mbee64       quickload1  (quik1)    .mwb  .com
+             quickload2  (quik2)    .bin
+             cassette    (cass)     .wav
+             floppydisk1 (flop1)    .ss80 .ds40 .ds80 .ds82 .ds84 .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+mbeeic       quickload1  (quik1)    .mwb  .com
+             quickload2  (quik2)    .bin
+             cassette    (cass)     .wav
+mbeepc       quickload1  (quik1)    .mwb  .com
+             quickload2  (quik2)    .bin
+             cassette    (cass)     .wav
+mbeepc85     quickload1  (quik1)    .mwb  .com
+             quickload2  (quik2)    .bin
+             cassette    (cass)     .wav
+mbeepc85b    quickload1  (quik1)    .mwb  .com
+             quickload2  (quik2)    .bin
+             cassette    (cass)     .wav
+mbeepc85s    quickload1  (quik1)    .mwb  .com
+             quickload2  (quik2)    .bin
+             cassette    (cass)     .wav
+mbeeppc      quickload1  (quik1)    .mwb  .com
+             quickload2  (quik2)    .bin
+             cassette    (cass)     .wav
+mbeett       quickload1  (quik1)    .mwb  .com
+             quickload2  (quik2)    .bin
+             cassette    (cass)     .wav
+mc10         cassette    (cass)     .wav  .cas
+mc1000       cassette    (cass)     .wav
+mc1502       floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cassette    (cass)     .wav
+mc1702       floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+md2          floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+md3          floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+megacd       cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+megacd2      cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+megacd2j     cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+megacda      cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+megacdj      cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+megadrij     cartridge   (cart)     .smd  .bin  .md   .gen
+megadriv     cartridge   (cart)     .smd  .bin  .md   .gen
+megaduck     cartridge   (cart)     .bin
+megapc       floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+megapcpl     floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+megast       floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+megast_de    floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+megast_fr    floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+megast_se    floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+megast_sg    floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+megast_uk    floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+megaste      floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+megaste_de   floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+megaste_es   floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+megaste_fr   floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+megaste_it   floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+megaste_se   floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+megaste_uk   floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+mekd2        cassette    (cass)     .wav
+             cartridge   (cart)     .d2
+meritum      cassette    (cass)     .wav  .cas
+             quickload   (quik)     .cmd
+             floppydisk1 (flop1)    .dsk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+meritum_net  cassette    (cass)     .wav  .cas
+             quickload   (quik)     .cmd
+             floppydisk1 (flop1)    .dsk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+microtan     snapshot    (dump)     .m65
+             quickload   (quik)     .hex
+             cassette    (cass)     .wav
+microvsn     cartridge   (cart)     .bin
+mikro80      cassette    (cass)     .wav  .rk8
+mikron2      cassette    (cass)     .wav  .rk   .rkr  .gam  .g16  .pki
+mikrosha     cassette    (cass)     .wav  .rkm
+misterx      cartridge   (cart)     .bin
+mistrum      snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+mk82         floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+mk83         floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+mk88         floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+mkit09       cassette    (cass)     .wav
+mlf80        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+mlfx1        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+mlg30        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+mm1m6        floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+mm1m7        floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+mmf9000      floppydisk1 (flop1)    .d80  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+mmf9000_se   floppydisk1 (flop1)    .d80  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+mo5          cassette    (cass)     .wav  .k5   .k7
+             floppydisk1 (flop1)    .fd   .sap  .qd   .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .m5   .rom
+mo5e         cassette    (cass)     .wav  .k5   .k7
+             floppydisk1 (flop1)    .fd   .sap  .qd   .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .m5   .rom
+mo5nr        cassette    (cass)     .wav  .k7
+             floppydisk1 (flop1)    .fd   .sap  .qd   .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .m5   .rom
+mo6          cassette    (cass)     .wav  .k5   .k7
+             floppydisk1 (flop1)    .fd   .sap  .qd   .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .m5   .rom
+mpc10        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+mpc100       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+mpc2300      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+mpc25fd      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+mpc64        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+mpf1         cassette    (cass)     .wav
+mpf1b        cassette    (cass)     .wav
+mpf1p        cassette    (cass)     .wav
+mprof3       floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette    (cass)     .wav
+mpt02        cartridge   (cart)     .st2  .bin  .rom
+mpt02h       cartridge   (cart)     .st2  .bin  .rom
+mpt05        quickload   (quik)     .pgm  .tvc
+             cartridge   (cart)     .rom  .bin
+mpu1000      quickload   (quik)     .pgm  .tvc
+             cartridge   (cart)     .rom  .bin
+mpu2000      quickload   (quik)     .pgm  .tvc
+             cartridge   (cart)     .rom  .bin
+mpz80        floppydisk  (flop)     .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+mratlus      cartridge   (cart)     .bin
+ms0515       floppydisk  (flop)     .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+msx          cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+msx2         cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+msx2p        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+mtc9016      cartridge   (cart)     .st2  .bin  .rom
+mtx500       snapshot    (dump)     .mtx
+             cassette    (cass)     .wav
+mtx512       snapshot    (dump)     .mtx
+             cassette    (cass)     .wav
+multmega     cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+mx1600       cassette    (cass)     .wav  .cas
+             bitbngr     (bitb)     .
+             cartridge   (cart)     .ccc  .rom
+mx64         cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+myb3k        floppydisk1 (flop1)    .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+mycom        cassette    (cass)     .wav
+             floppydisk1 (flop1)    .fdd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+myvision     cartridge   (cart)     .bin
+mz1500       cassette    (cass)     .wav  .m12  .mzf  .mzt
+mz2000       floppydisk1 (flop1)    .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .m12  .mzf  .mzt
+mz2200       floppydisk1 (flop1)    .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .m12  .mzf  .mzt
+mz2500       floppydisk1 (flop1)    .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+mz2520       floppydisk1 (flop1)    .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+mz3500       floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+mz6500       floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+mz700        cassette    (cass)     .wav  .m12  .mzf  .mzt
+mz700j       cassette    (cass)     .wav  .m12  .mzf  .mzt
+mz800        cassette    (cass)     .wav  .m12  .mzf  .mzt
+mz80a        cassette    (cass)     .wav
+mz80b        cassette    (cass)     .wav
+mz80k        cassette    (cass)     .wav
+mz80kj       cassette    (cass)     .wav
+n64          cartridge   (cart)     .v64  .z64  .rom  .n64  .bin
+n64dd        cartridge   (cart)     .v64  .z64  .rom  .n64  .bin
+nano         quickload   (quik)     .bin
+             cassette    (cass)     .wav
+nanos        floppydisk  (flop)     .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+nascom1      snapshot    (dump)     .nas
+             cassette    (cass)     .wav
+nascom2      snapshot    (dump)     .nas
+             cassette    (cass)     .wav
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+nc100        cartridge   (cart)     .crd  .card
+nc150        cartridge   (cart)     .crd  .card
+nc200        cartridge   (cart)     .crd  .card
+             floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .mfi
+neat         floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+neiva        cassette    (cass)     .wav
+             floppydisk1 (flop1)    .kdi  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+neocd        cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+neocdz       cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+neocdzj      cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+nes          cartridge   (cart)     .nes  .unf  .unif
+nespal       cartridge   (cart)     .nes  .unf  .unif
+newbrain     cassette1   (cass1)    .wav
+newbraina    cassette1   (cass1)    .wav
+newbraineim  cassette1   (cass1)    .wav
+             floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+newbrainmd   cassette1   (cass1)    .wav
+next         cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             harddisk    (hard)     .chd  .hd
+nextct       cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             harddisk    (hard)     .chd  .hd
+             floppydisk  (flop)     .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+nextctc      cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             harddisk    (hard)     .chd  .hd
+             floppydisk  (flop)     .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+nexts        cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             harddisk    (hard)     .chd  .hd
+             floppydisk  (flop)     .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+nexts2       cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             harddisk    (hard)     .chd  .hd
+             floppydisk  (flop)     .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+nextsc       cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             harddisk    (hard)     .chd  .hd
+             floppydisk  (flop)     .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+nextst       cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             harddisk    (hard)     .chd  .hd
+             floppydisk  (flop)     .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+nextstc      cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             harddisk    (hard)     .chd  .hd
+             floppydisk  (flop)     .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+ngp          cartridge   (cart)     .bin  .ngp  .npc  .ngc
+ngpc         cartridge   (cart)     .bin  .ngp  .npc  .ngc
+nimbus       floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             harddisk1   (hard1)    .chd  .hd
+nms801       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+nms8220      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+nms8220a     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+nms8245      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+nms8245f     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+nms8250      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+nms8250j     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+nms8255      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+nms8280      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+nms8280g     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+npc8300      cassette    (cass)     .wav
+             cartridge1  (cart1)    .rom  .bin
+nshrz        floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+oc2000       quickload   (quik)     .pgm  .tvc
+             cartridge   (cart)     .rom  .bin
+odyssey2     cartridge   (cart)     .bin  .rom
+odyssey3     cartridge   (cart)     .bin  .rom
+olypeopl     floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+omni2        quickload   (quik)     .com  .cpm
+             floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+omv1000      cartridge   (cart)     .bin  .sg
+omv2000      cartridge   (cart)     .bin  .sg
+ondrat       cassette    (cass)     .wav
+ondrav       cassette    (cass)     .wav
+orao         cassette    (cass)     .wav  .tap
+orao103      cassette    (cass)     .wav  .tap
+orbituvi     cartridge   (cart)     .bin
+oric1        cassette    (cass)     .wav  .tap
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+orica        cassette    (cass)     .wav  .tap
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+orion128     cassette    (cass)     .wav  .rko
+             floppydisk1 (flop1)    .odi  .cpm  .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cartridge   (cart)     .bin
+orionide     cassette    (cass)     .wav  .rko
+             floppydisk1 (flop1)    .odi  .cpm  .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cartridge   (cart)     .bin
+orionidm     cassette    (cass)     .wav  .rko
+             floppydisk1 (flop1)    .odi  .cpm  .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cartridge   (cart)     .bin
+orionms      cassette    (cass)     .wav  .rko
+             floppydisk1 (flop1)    .odi  .cpm  .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cartridge   (cart)     .bin
+orionpro     cassette    (cass)     .wav  .rko
+             floppydisk1 (flop1)    .odi  .cpm  .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cartridge   (cart)     .bin
+orionz80     cassette    (cass)     .wav  .rko
+             floppydisk1 (flop1)    .odi  .cpm  .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cartridge   (cart)     .bin
+orionzms     cassette    (cass)     .wav  .rko
+             floppydisk1 (flop1)    .odi  .cpm  .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cartridge   (cart)     .bin
+orizon       snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+ormatu       cartridge   (cart)     .bin
+osbexec      floppydisk1 (flop1)    .img  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+osborne1     floppydisk1 (flop1)    .img  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+p500         floppydisk1 (flop1)    .d80  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .20   .40   .60
+             quickload   (quik)     .p00  .prg
+p500p        floppydisk1 (flop1)    .d80  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .20   .40   .60
+             quickload   (quik)     .p00  .prg
+p8000        floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+partner      cassette    (cass)     .wav  .rkp
+             floppydisk1 (flop1)    .cpm  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+pasogo       cartridge   (cart)     .bin
+pasopia7     floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pasopia7lcd  floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pb2000c      cartridge1  (cart1)    .bin
+pc           floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk1   (hard1)    .chd  .hd
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+pc100        floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pc10iii      floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pc1512       floppydisk  (flop)     .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pc1512dd     floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pc1512hd10   floppydisk  (flop)     .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk1   (hard1)    .chd  .hd
+pc1512hd20   floppydisk  (flop)     .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk1   (hard1)    .chd  .hd
+pc1640       floppydisk  (flop)     .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pc1640dd     floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pc1640hd20   floppydisk  (flop)     .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk1   (hard1)    .chd  .hd
+pc1640hd30   floppydisk  (flop)     .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk1   (hard1)    .chd  .hd
+pc20         floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .mfi
+pc200        floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .mfi
+pc2000       cartridge   (cart)     .bin
+pc2086       floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .mfi
+pc2386       floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+pc3086       floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .mfi
+pc486mu      harddisk    (hard)     .chd  .hd
+             floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .hdm  .fdi  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pc6001       cartridge1  (cart1)    .bin
+pc6001a      cartridge1  (cart1)    .bin
+pc6001mk2    cartridge1  (cart1)    .bin
+pc6001sr     cartridge1  (cart1)    .bin
+pc6601       cartridge1  (cart1)    .bin
+pc7000       floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pc8001       cassette    (cass)     .wav
+pc8001mk2    cassette    (cass)     .wav
+pc8201       cassette    (cass)     .wav
+             cartridge1  (cart1)    .rom  .bin
+pc8201a      cassette    (cass)     .wav
+             cartridge1  (cart1)    .rom  .bin
+pc8300       cassette    (cass)     .wav  .p    .81
+pc8500       cartridge1  (cart1)    .rom  .bin
+pc8801       floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cassette    (cass)     .wav
+pc8801fa     floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cassette    (cass)     .wav
+pc8801ma     floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cassette    (cass)     .wav
+pc8801ma2    floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cassette    (cass)     .wav
+pc8801mc     floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cassette    (cass)     .wav
+pc8801mh     floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cassette    (cass)     .wav
+pc8801mk2    floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cassette    (cass)     .wav
+pc8801mk2fr  floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cassette    (cass)     .wav
+pc8801mk2mr  floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cassette    (cass)     .wav
+pc8801mk2sr  floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cassette    (cass)     .wav
+pc88va       floppydisk1 (flop1)    .xdf  .hdm  .2hd  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pc88va2      floppydisk1 (flop1)    .xdf  .hdm  .2hd  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pc9801bx2    harddisk    (hard)     .chd  .hd
+             floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .hdm  .fdi  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pc9801f      harddisk    (hard)     .chd  .hd
+             floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .hdm  .fdi  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pc9801rs     harddisk    (hard)     .chd  .hd
+             floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .hdm  .fdi  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pc9801rx     harddisk    (hard)     .chd  .hd
+             floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .hdm  .fdi  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pc9801ux     harddisk    (hard)     .chd  .hd
+             floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .hdm  .fdi  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pc9801vm     harddisk    (hard)     .chd  .hd
+             floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .hdm  .fdi  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pc9821       harddisk    (hard)     .chd  .hd
+             floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .hdm  .fdi  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pc9821as     harddisk    (hard)     .chd  .hd
+             floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .hdm  .fdi  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pc9821ce2    harddisk    (hard)     .chd  .hd
+             floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .hdm  .fdi  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pc9821ne     harddisk    (hard)     .chd  .hd
+             floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .hdm  .fdi  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pc9821v13    harddisk    (hard)     .chd  .hd
+             floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .hdm  .fdi  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pc9821v20    harddisk    (hard)     .chd  .hd
+             floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .hdm  .fdi  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pc9821xs     harddisk    (hard)     .chd  .hd
+             floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .hdm  .fdi  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pcd          floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pce          cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             cartridge   (cart)     .pce  .bin
+pce220       serial      (serl)     .txt  .ihx
+pcega        floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk1   (hard1)    .chd  .hd
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+pcg850v      serial      (serl)     .txt  .ihx
+pcherc       floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk1   (hard1)    .chd  .hd
+pcm          cassette    (cass)     .wav
+pcmda        floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk1   (hard1)    .chd  .hd
+pcw10        floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pcw16        floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pcw8256      floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pcw8512      floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pcw9256      floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pcw9512      floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pdp1         punchtape1  (ptap1)    .tap  .rim
+             printer     (prin)     .typ
+             cylinder    (cyln)     .drm
+pdp11qb      floppydisk1 (flop1)    .img  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+pdp11ub      floppydisk1 (flop1)    .img  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+pdp11ub2     floppydisk1 (flop1)    .img  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+pecom64      cassette    (cass)     .wav
+pegasus      cartridge1  (cart1)    .bin
+             cassette    (cass)     .wav
+pegasusm     cartridge1  (cart1)    .bin
+             cassette    (cass)     .wav
+pencil2      cassette    (cass)     .wav
+pent1024     snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .trd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+pentagon     snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .trd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+pet2001      floppydisk1 (flop1)    .d64  .g64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+pet20018     floppydisk1 (flop1)    .d64  .g64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+pet2001b     floppydisk1 (flop1)    .d64  .g64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+pet2001b16   floppydisk1 (flop1)    .d64  .g64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+pet2001b32   floppydisk1 (flop1)    .d64  .g64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+pet2001n     floppydisk1 (flop1)    .d64  .g64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+pet2001n16   floppydisk1 (flop1)    .d64  .g64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+pet2001n32   floppydisk1 (flop1)    .d64  .g64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+pet4016      floppydisk1 (flop1)    .d64  .g64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+pet4032      floppydisk1 (flop1)    .d64  .g64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+pet4032b     floppydisk1 (flop1)    .d64  .g64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+pet64        cassette    (cass)     .wav  .tap
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg  .t64
+pet8032      floppydisk1 (flop1)    .d80  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+phc2         cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+phc23        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+phc25        cassette    (cass)     .wav
+phc25j       cassette    (cass)     .wav
+phc28        cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+phc28l       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+phc28s       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+phc35j       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+phc64        cassette1   (cass1)    .wav
+             cartridge   (cart)     .rom  .bin
+phc70fd      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+phc70fd2     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+phunsy       cassette    (cass)     .wav
+pico         cartridge   (cart)     .bin  .md
+picoj        cartridge   (cart)     .bin  .md
+picou        cartridge   (cart)     .bin  .md
+pioner       cassette    (cass)     .wav  .rks
+piopx7       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+pipbug       quickload   (quik)     .pgm
+pippin       cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+pk6128c      cassette    (cass)     .wav
+             floppydisk1 (flop1)    .fdd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .emr
+pk8002       cassette    (cass)     .wav  .tap  .cas
+pk88         floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cassette    (cass)     .wav
+plldium      cartridge   (cart)     .bin
+plus4        cassette    (cass)     .wav  .tap
+             cartridge1  (cart1)    .rom  .bin
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             quickload   (quik)     .p00  .prg
+plus4p       cassette    (cass)     .wav  .tap
+             cartridge1  (cart1)    .rom  .bin
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             quickload   (quik)     .p00  .prg
+pmac6100     harddisk1   (hard1)    .chd  .hd
+             floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+pmd851       cassette    (cass)     .wav  .pmd  .tap  .ptp
+pmd852       cassette    (cass)     .wav  .pmd  .tap  .ptp
+pmd852a      cassette    (cass)     .wav  .pmd  .tap  .ptp
+pmd852b      cassette    (cass)     .wav  .pmd  .tap  .ptp
+pmd853       cassette    (cass)     .wav  .pmd  .tap  .ptp
+pockstat     cartridge   (cart)     .gme
+pofo         cartridge   (cart)     .bin
+poisk1       floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cassette    (cass)     .wav
+poisk2       floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pokemini     cartridge   (cart)     .min  .bin
+poly88       cassette    (cass)     .wav
+             snapshot    (dump)     .img
+poly880      cassette    (cass)     .wav
+poly8813     cassette    (cass)     .wav
+             snapshot    (dump)     .img
+polyvcg      cartridge   (cart)     .bin
+poppympt     cartridge   (cart)     .bin
+pow3000      cassette    (cass)     .wav  .p    .81
+pp1292       quickload   (quik)     .pgm  .tvc
+             cartridge   (cart)     .rom  .bin
+pp1392       quickload   (quik)     .pgm  .tvc
+             cartridge   (cart)     .rom  .bin
+ppc512       floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .mfi
+ppc640       floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .mfi
+prav82       floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette    (cass)     .wav
+prav8c       cassette    (cass)     .wav
+             floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+prav8d       cassette    (cass)     .wav  .tap
+             floppydisk  (flop)     .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+prav8dd      cassette    (cass)     .wav  .tap
+             floppydisk  (flop)     .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+prav8m       floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette    (cass)     .wav
+prestige     cartridge   (cart)     .bin
+prestmpt     cartridge   (cart)     .bin
+primoa32     snapshot    (dump)     .pss
+             quickload   (quik)     .pp
+             cassette    (cass)     .wav  .ptp
+             cartridge1  (cart1)    .rom
+primoa48     snapshot    (dump)     .pss
+             quickload   (quik)     .pp
+             cassette    (cass)     .wav  .ptp
+             cartridge1  (cart1)    .rom
+primoa64     snapshot    (dump)     .pss
+             quickload   (quik)     .pp
+             cassette    (cass)     .wav  .ptp
+             cartridge1  (cart1)    .rom
+primob32     snapshot    (dump)     .pss
+             quickload   (quik)     .pp
+             cassette    (cass)     .wav  .ptp
+             cartridge1  (cart1)    .rom
+primob48     snapshot    (dump)     .pss
+             quickload   (quik)     .pp
+             cassette    (cass)     .wav  .ptp
+             cartridge1  (cart1)    .rom
+primob64     snapshot    (dump)     .pss
+             quickload   (quik)     .pp
+             cassette    (cass)     .wav  .ptp
+             cartridge1  (cart1)    .rom
+primoc64     snapshot    (dump)     .pss
+             quickload   (quik)     .pp
+             cassette    (cass)     .wav  .ptp
+             cartridge1  (cart1)    .rom
+pro128       cassette    (cass)     .wav  .k5   .k7
+             floppydisk1 (flop1)    .fd   .sap  .qd   .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .m5   .rom
+pro80        cassette    (cass)     .wav
+prof180x     floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+prof181x     floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+prof80       floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+profi        snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .trd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+profweis     cartridge   (cart)     .bin
+prsarcde     cartridge   (cart)     .rom  .col  .bin
+psa          memcard1    (mc1)      .mc
+             quickload   (quik)     .cpe  .exe  .psf  .psx
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+pse          memcard1    (mc1)      .mc
+             quickload   (quik)     .cpe  .exe  .psf  .psx
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+psioncm      cartridge1  (cart1)    .opk
+psionla      cartridge1  (cart1)    .opk
+psionlam     cartridge1  (cart1)    .opk
+psionlz      cartridge1  (cart1)    .opk
+psionlz64    cartridge1  (cart1)    .opk
+psionlz64s   cartridge1  (cart1)    .opk
+psionp350    cartridge1  (cart1)    .opk
+psionp464    cartridge1  (cart1)    .opk
+psj          memcard1    (mc1)      .mc
+             quickload   (quik)     .cpe  .exe  .psf  .psx
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+psu          memcard1    (mc1)      .mc
+             quickload   (quik)     .cpe  .exe  .psf  .psx
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+pv1000       cartridge   (cart)     .bin
+pv16         cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+pv2000       cassette    (cass)     .wav
+             cartridge   (cart)     .rom  .col  .bin
+px4          cassette    (cass)     .wav
+             cartridge1  (cart1)    .bin
+px4p         cassette    (cass)     .wav
+             cartridge1  (cart1)    .bin
+px8          cartridge1  (cart1)    .bin  .rom
+             cassette    (cass)     .wav
+pyl601       floppydisk1 (flop1)    .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pyl601a      floppydisk1 (flop1)    .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+pyuuta       cassette    (cass)     .wav
+             cartridge   (cart)     .bin
+pyuutajr     cassette    (cass)     .wav
+             cartridge   (cart)     .bin
+qi600        floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+qi900        floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+ql           floppydisk1 (flop1)    .dsk  .img  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette1   (cass1)    .mdv
+             cartridge   (cart)     .bin  .rom
+ql_de        floppydisk1 (flop1)    .dsk  .img  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette1   (cass1)    .mdv
+             cartridge   (cart)     .bin  .rom
+ql_dk        floppydisk1 (flop1)    .dsk  .img  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette1   (cass1)    .mdv
+             cartridge   (cart)     .bin  .rom
+ql_es        floppydisk1 (flop1)    .dsk  .img  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette1   (cass1)    .mdv
+             cartridge   (cart)     .bin  .rom
+ql_fr        floppydisk1 (flop1)    .dsk  .img  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette1   (cass1)    .mdv
+             cartridge   (cart)     .bin  .rom
+ql_gr        floppydisk1 (flop1)    .dsk  .img  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette1   (cass1)    .mdv
+             cartridge   (cart)     .bin  .rom
+ql_it        floppydisk1 (flop1)    .dsk  .img  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette1   (cass1)    .mdv
+             cartridge   (cart)     .bin  .rom
+ql_se        floppydisk1 (flop1)    .dsk  .img  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette1   (cass1)    .mdv
+             cartridge   (cart)     .bin  .rom
+ql_us        floppydisk1 (flop1)    .dsk  .img  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette1   (cass1)    .mdv
+             cartridge   (cart)     .bin  .rom
+quorum       snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .trd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+quorum48     snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+qx10         floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+radio16      cassette    (cass)     .wav  .rk   .rkr  .gam  .g16  .pki
+radio4k      cassette    (cass)     .wav  .rk   .rkr  .gam  .g16  .pki
+radio86      cassette    (cass)     .wav  .rk   .rkr  .gam  .g16  .pki
+radio99      cassette    (cass)     .wav  .rk8
+radionic     cassette    (cass)     .wav  .cas
+             quickload   (quik)     .cmd
+             floppydisk1 (flop1)    .dsk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+radioram     cassette    (cass)     .wav  .rk   .rkr  .gam  .g16  .pki
+radiorom     cassette    (cass)     .wav  .rk   .rkr  .gam  .g16  .pki
+             cartridge   (cart)     .bin  .rom
+rainb190     floppydisk1 (flop1)    .td0  .img  .fdi  .imd  .cqm  .dsk  .d77  .d88  .1dd
+rainbow      floppydisk1 (flop1)    .td0  .img  .fdi  .imd  .cqm  .dsk  .d77  .d88  .1dd
+rameses      cassette    (cass)     .wav
+             cartridge   (cart)     .bin  .rom
+ravens       quickload   (quik)     .pgm
+             cassette    (cass)     .wav
+ravens2      quickload   (quik)     .pgm
+             cassette    (cass)     .wav
+rex6000      quickload   (quik)     .rex  .ds2
+ringo470     cassette    (cass)     .wav  .p    .81
+rk7007       cassette    (cass)     .wav  .rk   .rkr  .gam  .g16  .pki
+rk700716     cassette    (cass)     .wav  .rk   .rkr  .gam  .g16  .pki
+rm380z       floppydisk1 (flop1)    .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+robie        quickload   (quik)     .com  .cpm
+             floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+rowtrn2k     cartridge   (cart)     .bin
+rs128        snapshot    (dump)     .mtx
+             cassette    (cass)     .wav
+rwtrntcs     quickload   (quik)     .pgm  .tvc
+             cartridge   (cart)     .rom  .bin
+rx78         cartridge   (cart)     .rom
+             cassette    (cass)     .wav
+sabavdpl     cartridge   (cart)     .bin  .chf
+sabavpl2     cartridge   (cart)     .bin  .chf
+sage2        floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+samcoupe     cassette    (cass)     .wav  .tzx  .tap  .blk
+             floppydisk1 (flop1)    .mgt  .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+saturn       cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             cartridge   (cart)     .bin
+saturneu     cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             cartridge   (cart)     .bin
+saturnjp     cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             cartridge   (cart)     .bin
+sb2m600b     cassette    (cass)     .wav
+sbrain       floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+sc3000       cassette    (cass)     .wav  .bit
+             cartridge   (cart)     .bin  .sg   .sc
+sc3000h      cassette    (cass)     .wav  .bit
+             cartridge   (cart)     .bin  .sg   .sc
+sc80         cassette    (cass)     .wav
+scorpio      snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .trd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+scv          cartridge   (cart)     .bin
+scv_pal      cartridge   (cart)     .bin
+sd1          midiin      (min)      .mid
+             midiout     (mout)     .mid
+             floppydisk  (flop)     .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+sd132        midiin      (min)      .mid
+             midiout     (mout)     .mid
+             floppydisk  (flop)     .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+segacd       cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+segacd2      cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+sf7000       floppydisk  (flop)     .sf7  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cassette    (cass)     .wav  .bit
+sg1000       cartridge   (cart)     .bin  .sg
+sg1000m2     cassette    (cass)     .wav  .bit
+             cartridge   (cart)     .bin  .sg   .sc
+sg1000m3     card        (card)     .bin
+             cartridge   (cart)     .bin  .sms  .sg
+sgx          cartridge   (cart)     .pce  .bin
+             cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+sheenhvc     cartridge   (cart)     .bin
+shmc1200     cartridge   (cart)     .st2  .bin  .rom
+smc777       floppydisk1 (flop1)    .img  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+sms          cartridge   (cart)     .bin  .sms
+sms1         cartridge   (cart)     .bin  .sms
+             card        (card)     .bin
+sms1000      floppydisk1 (flop1)    .img  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+sms1pal      cartridge   (cart)     .bin  .sms
+             card        (card)     .bin
+sms2kr       cartridge   (cart)     .bin  .sms
+smsj         cartridge   (cart)     .bin  .sms
+             card        (card)     .bin
+smspal       cartridge   (cart)     .bin  .sms
+smssdisp     cartridge1  (cart1)    .bin  .sms
+             card1       (card1)    .bin
+snes         cartridge   (cart)     .sfc
+snespal      cartridge   (cart)     .sfc
+socrates     cartridge   (cart)     .bin
+socratfc     cartridge   (cart)     .bin
+softbox      floppydisk1 (flop1)    .d80  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             harddisk1   (hard1)    .chd  .hd
+sol20        cassette1   (cass1)    .wav
+sorcerer     snapshot    (dump)     .snp
+             quickload   (quik)     .bin
+             cassette1   (cass1)    .wav
+             cartridge   (cart)     .rom  .bin
+sorcererd    snapshot    (dump)     .snp
+             quickload   (quik)     .bin
+             cassette1   (cass1)    .wav
+             cartridge   (cart)     .rom  .bin
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+soundic      cartridge   (cart)     .bin
+sp3e8bit     snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+sp3eata      snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+sp3ezcf      snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+space84      floppydisk1 (flop1)    .do   .dsk  .bin  .po   .nib  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette    (cass)     .wav
+spc1000      cassette    (cass)     .wav
+spc4000      quickload   (quik)     .pgm  .tvc
+             cartridge   (cart)     .rom  .bin
+spc800       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+spec128      snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+spec80k      snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+special      cassette    (cass)     .wav  .rks
+specialm     cassette    (cass)     .wav  .rks
+specialp     cassette    (cass)     .wav  .rks
+specide      snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+specimx      cassette    (cass)     .wav  .rks
+             floppydisk1 (flop1)    .odi  .cpm  .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+specpl2a     snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+specpl3e     snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+specpls2     snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+specpls3     snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+spectrum     snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+spektr01     cassette    (cass)     .wav  .rk   .rkr  .gam  .g16  .pki
+spektrbk     snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+sq1          midiin      (min)      .mid
+             midiout     (mout)     .mid
+sq80         midiin      (min)      .mid
+             midiout     (mout)     .mid
+sqrack       midiin      (min)      .mid
+             midiout     (mout)     .mid
+sr16         cassette    (cass)     .wav
+ssam88s      floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+ssem         cartridge   (cart)     .snp  .asm
+st           floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+st_de        floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+st_es        floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+st_fr        floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+st_nl        floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+st_se        floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+st_sg        floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+st_uk        floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+ste          floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+ste_de       floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+ste_es       floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+ste_fr       floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+ste_it       floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+ste_se       floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+ste_sg       floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+ste_uk       floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+studio2      cartridge   (cart)     .st2  .bin  .rom
+super6       floppydisk  (flop)     .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+super80      quickload   (quik)     .bin
+             cassette    (cass)     .wav
+super80d     quickload   (quik)     .bin
+             cassette    (cass)     .wav
+super80e     quickload   (quik)     .bin
+             cassette    (cass)     .wav
+super80m     quickload   (quik)     .bin
+             cassette    (cass)     .wav
+super80r     quickload   (quik)     .bin
+             cassette    (cass)     .wav
+super80v     quickload   (quik)     .bin
+             cassette    (cass)     .wav
+supergb      cartridge   (cart)     .bin  .gb   .gbc
+superpet     floppydisk1 (flop1)    .d80  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cassette    (cass)     .wav  .tap
+             quickload   (quik)     .p00  .prg
+             cartridge1  (cart1)    .bin  .rom
+supracan     cartridge   (cart)     .bin
+sv328n80     cassette    (cass)     .wav  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge   (cart)     .rom
+sv328p80     cassette    (cass)     .wav  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge   (cart)     .rom
+svi318       cassette    (cass)     .wav  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge   (cart)     .rom
+svi318n      cassette    (cass)     .wav  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge   (cart)     .rom
+svi328       cassette    (cass)     .wav  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge   (cart)     .rom
+svi328n      cassette    (cass)     .wav  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge   (cart)     .rom
+svi728       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+svi738       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+svi738pl     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+svi738sw     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+svision      cartridge   (cart)     .bin  .ws   .sv
+svisionn     cartridge   (cart)     .bin  .ws   .sv
+svisionp     cartridge   (cart)     .bin  .ws   .sv
+svisions     cartridge   (cart)     .bin  .ws   .sv
+svmu         quickload   (quik)     .vms  .bin
+sx16         floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+sx64         cassette    (cass)     .wav  .tap
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg  .t64
+sx64p        cassette    (cass)     .wav  .tap
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg  .t64
+sys80        cassette    (cass)     .wav  .cas
+             quickload   (quik)     .cmd
+             floppydisk1 (flop1)    .dsk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             t1000hx      floppydisk  (flop)     .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+t1000rl      floppydisk  (flop)     .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+t1000sl2     floppydisk  (flop)     .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+t1000sx      floppydisk  (flop)     .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+t1000tl2     floppydisk  (flop)     .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+t1000tx      floppydisk  (flop)     .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+t2000sx      floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+t9000        cassette    (cass)     .wav  .k7
+             floppydisk1 (flop1)    .fd   .sap  .qd   .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .m7   .rom
+tadpc200     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+tadpc20a     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+tandy102     cassette    (cass)     .wav
+             cartridge   (cart)     .rom  .bin
+tandy200     cassette    (cass)     .wav
+             cartridge   (cart)     .rom  .bin
+tandy2k      floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+tandy2khd    floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+tanodr64     cassette    (cass)     .wav  .cas
+             cartridge   (cart)     .ccc  .rom
+             floppydisk1 (flop1)    .dsk  .os9  .vdk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+tbbympt3     cartridge   (cart)     .bin
+tc2048       snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+tccosmos     cartridge   (cart)     .bin
+tdv2324      floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+tecjmon      cassette    (cass)     .wav
+tek4051      cartridge1  (cart1)    .bin
+tek4052a     cartridge1  (cart1)    .bin
+telefevr     cartridge   (cart)     .bin
+telngtcs     quickload   (quik)     .pgm  .tvc
+             cartridge   (cart)     .rom  .bin
+telstrat     cassette    (cass)     .wav  .tap
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+tempestm     cartridge   (cart)     .bin
+tg16         cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             cartridge   (cart)     .pce  .bin
+ti85         snapshot    (dump)     .sav
+ti86         snapshot    (dump)     .sav
+ti990_10     harddisk1   (hard1)    .chd  .hd
+             magtape1    (magt1)    .tap
+ti990_4      floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+ti99_4       cartridge   (cart)     .rpk
+             floppydisk1 (flop1)    .dsk  .dtk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             harddisk1   (hard1)    .chd  .hd
+             cassette1   (cass1)    .wav
+ti99_4a      cartridge   (cart)     .rpk
+             floppydisk1 (flop1)    .dsk  .dtk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             harddisk1   (hard1)    .chd  .hd
+             cassette1   (cass1)    .wav
+ti99_4ae     cartridge   (cart)     .rpk
+             floppydisk1 (flop1)    .dsk  .dtk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             harddisk1   (hard1)    .chd  .hd
+             cassette1   (cass1)    .wav
+ti99_4e      cartridge   (cart)     .rpk
+             floppydisk1 (flop1)    .dsk  .dtk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             harddisk1   (hard1)    .chd  .hd
+             cassette1   (cass1)    .wav
+ti99_4ev     cartridge   (cart)     .rpk
+             floppydisk1 (flop1)    .dsk  .dtk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             harddisk1   (hard1)    .chd  .hd
+             cassette1   (cass1)    .wav
+ti99_4p      floppydisk1 (flop1)    .dsk  .dtk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             harddisk1   (hard1)    .chd  .hd
+             cassette    (cass)     .wav
+ti99_4qe     cartridge   (cart)     .rpk
+             floppydisk1 (flop1)    .dsk  .dtk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             harddisk1   (hard1)    .chd  .hd
+             cassette1   (cass1)    .wav
+ti99_4qi     cartridge   (cart)     .rpk
+             floppydisk1 (flop1)    .dsk  .dtk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             harddisk1   (hard1)    .chd  .hd
+             cassette1   (cass1)    .wav
+ti99_8       cartridge   (cart)     .rpk
+             floppydisk1 (flop1)    .dsk  .dtk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             harddisk1   (hard1)    .chd  .hd
+             cassette    (cass)     .wav
+ti99_8e      cartridge   (cart)     .rpk
+             floppydisk1 (flop1)    .dsk  .dtk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             harddisk1   (hard1)    .chd  .hd
+             cassette    (cass)     .wav
+tiki100      floppydisk1 (flop1)    .dsk  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             cassette    (cass)     .wav
+tim011       floppydisk1 (flop1)    .imd  .mfi  .mfm
+tk2000       cassette    (cass)     .wav
+tk85         cassette    (cass)     .wav  .p    .81
+tk90x        snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+tk95         snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+tmc2000      quickload   (quik)     .bin
+             cassette    (cass)     .wav
+tmc2000e     cassette    (cass)     .wav
+tmc600s2     cassette    (cass)     .wav
+to7          cassette    (cass)     .wav  .k7
+             floppydisk1 (flop1)    .fd   .sap  .qd   .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .m7   .rom
+to770        cassette    (cass)     .wav  .k7
+             floppydisk1 (flop1)    .fd   .sap  .qd   .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .m7   .rom
+to770a       cassette    (cass)     .wav  .k7
+             floppydisk1 (flop1)    .fd   .sap  .qd   .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .m7   .rom
+to8          cassette    (cass)     .wav  .k7
+             floppydisk1 (flop1)    .fd   .sap  .qd   .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .m7   .rom
+to8d         cassette    (cass)     .wav  .k7
+             floppydisk1 (flop1)    .fd   .sap  .qd   .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .m7   .rom
+to9          cassette    (cass)     .wav  .k7
+             floppydisk1 (flop1)    .fd   .sap  .qd   .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .m7   .rom
+to9p         cassette    (cass)     .wav  .k7
+             floppydisk1 (flop1)    .fd   .sap  .qd   .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .m7   .rom
+tonto        floppydisk1 (flop1)    .dsk  .img  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cassette1   (cass1)    .mdv
+             cartridge   (cart)     .bin  .rom
+tpc310       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+tpp311       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+tps312       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+trakcvg      cartridge   (cart)     .bin
+trs80        cassette    (cass)     .wav
+trs80l2      cassette    (cass)     .wav  .cas
+             quickload   (quik)     .cmd
+             floppydisk1 (flop1)    .dsk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+trs80m16     floppydisk  (flop)     .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+trs80m2      floppydisk  (flop)     .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+trs80m3      cassette    (cass)     .wav  .cas
+             quickload   (quik)     .cmd
+             floppydisk1 (flop1)    .dsk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+trs80m4      cassette    (cass)     .wav  .cas
+             quickload   (quik)     .cmd
+             floppydisk1 (flop1)    .dsk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+trs80m4p     cassette    (cass)     .wav  .cas
+             quickload   (quik)     .cmd
+             floppydisk1 (flop1)    .dsk  .dmk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+trsm100      cassette    (cass)     .wav
+             cartridge   (cart)     .rom  .bin
+tryomvgc     cartridge   (cart)     .bin
+ts1000       cassette    (cass)     .wav  .p    .81
+ts1500       cassette    (cass)     .wav  .p    .81
+ts2068       snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .dck
+tt030        floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+tt030_de     floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+tt030_fr     floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+tt030_pl     floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+tt030_uk     floppydisk  (flop)     .st   .msa  .stx  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+             cartridge   (cart)     .bin  .rom
+tunixha      cartridge   (cart)     .bin
+tutor        cassette    (cass)     .wav
+             cartridge   (cart)     .bin
+tvc4000      quickload   (quik)     .pgm  .tvc
+             cartridge   (cart)     .rom  .bin
+tvc64        cartridge   (cart)     .crt  .rom  .bin
+             cassette    (cass)     .wav  .cas
+             quickload   (quik)     .cas
+tvc64p       cartridge   (cart)     .crt  .rom  .bin
+             cassette    (cass)     .wav  .cas
+             quickload   (quik)     .cas
+tvc64pru     cartridge   (cart)     .crt  .rom  .bin
+             cassette    (cass)     .wav  .cas
+             quickload   (quik)     .cas
+tvg2000      cartridge   (cart)     .bin
+tvlinkp      cartridge   (cart)     .bin  .ws   .sv
+tx0_64kw     punchtape1  (ptap1)    .tap  .rim
+             printer     (prin)     .typ
+             magtape     (magt)     .tap
+tx0_8kw      punchtape1  (ptap1)    .tap  .rim
+             printer     (prin)     .typ
+             magtape     (magt)     .tap
+tx8000       snapshot    (dump)     .vz
+             cassette    (cass)     .wav  .cas
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .dsk
+uk101        cassette    (cass)     .wav
+uk2086       snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .dck
+unitron      floppydisk1 (flop1)    .dsk  .img  .image.dc   .dc42 .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+ut88         cassette    (cass)     .wav  .rku
+ut88mini     cassette    (cass)     .wav  .rku
+uzebox       cartridge   (cart)     .bin  .uze
+v1050        floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+v364         cassette    (cass)     .wav  .tap
+             cartridge1  (cart1)    .rom  .bin
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             quickload   (quik)     .p00  .prg
+v6809        floppydisk  (flop)     .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+vax785       floppydisk1 (flop1)    .img  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+vboy         cartridge   (cart)     .vb   .bin
+vc4000       quickload   (quik)     .pgm  .tvc
+             cartridge   (cart)     .rom  .bin
+vc6000       quickload   (quik)     .pgm  .tvc
+             cartridge   (cart)     .rom  .bin
+vdmaster     cartridge   (cart)     .bin
+vec1200      cassette    (cass)     .wav
+             floppydisk1 (flop1)    .fdd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .emr
+vector06     cassette    (cass)     .wav
+             floppydisk1 (flop1)    .fdd  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .emr
+vector1      floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+vectrex      cartridge   (cart)     .bin  .gam  .vec
+vesta        cassette    (cass)     .wav  .tap  .cas
+vfx          midiin      (min)      .mid
+             midiout     (mout)     .mid
+vfxsd        midiin      (min)      .mid
+             midiout     (mout)     .mid
+             floppydisk  (flop)     .img  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+vg5k         cassette    (cass)     .wav  .k7
+vg8000       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+vg8010       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+vg8010f      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+vg802000     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+vg802020     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+vg8020f      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+vg8230       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+vg8230j      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+vg8235       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+vg8235f      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+vg8240       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+vic10        cassette    (cass)     .wav  .tap
+             cartridge   (cart)     .80   .e0
+vic1001      cassette    (cass)     .wav  .tap
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             quickload   (quik)     .p00  .prg
+             cartridge   (cart)     .20   .40   .60   .70   .a0   .b0   .crt
+vic20        cassette    (cass)     .wav  .tap
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             quickload   (quik)     .p00  .prg
+             cartridge   (cart)     .20   .40   .60   .70   .a0   .b0   .crt
+vic20_se     cassette    (cass)     .wav  .tap
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             quickload   (quik)     .p00  .prg
+             cartridge   (cart)     .20   .40   .60   .70   .a0   .b0   .crt
+vic20p       cassette    (cass)     .wav  .tap
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             quickload   (quik)     .p00  .prg
+             cartridge   (cart)     .20   .40   .60   .70   .a0   .b0   .crt
+victor       cassette    (cass)     .wav  .k7   .cin  .for
+victor9k     floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+vidbrain     cartridge   (cart)     .bin
+videopac     cartridge   (cart)     .bin  .rom
+vii          cartridge   (cart)     .bin
+vip          quickload   (quik)     .bin  .c8   .c8x
+             cassette    (cass)     .wav
+vip64        cassette    (cass)     .wav  .tap
+             floppydisk  (flop)     .g64  .d64  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+             cartridge   (cart)     .80   .a0   .e0   .crt
+             quickload   (quik)     .p00  .prg  .t64
+visicom      cartridge   (cart)     .bin  .rom
+vixen        floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+vmdtbase     quickload   (quik)     .pgm  .tvc
+             cartridge   (cart)     .rom  .bin
+vp111        quickload   (quik)     .bin  .c8   .c8x
+             cassette    (cass)     .wav
+vsaturn      cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+             cartridge   (cart)     .bin
+vsmile       cartridge   (cart)     .bin
+vz200        snapshot    (dump)     .vz
+             cassette    (cass)     .wav  .cas
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .dsk
+vz2000       cassette    (cass)     .wav
+             cartridge   (cart)     .bin  .rom
+vz300        snapshot    (dump)     .vz
+             cassette    (cass)     .wav  .cas
+             cartridge   (cart)     .rom
+             floppydisk1 (flop1)    .dsk
+wangpc       floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+wizzard      cassette    (cass)     .wav
+             cartridge   (cart)     .bin  .rom
+wmbullet     floppydisk  (flop)     .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+wmbulletf    floppydisk  (flop)     .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+wmega        cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+wmegam2      cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+wscolor      cartridge   (cart)     .ws   .wsc  .bin
+wswan        cartridge   (cart)     .ws   .wsc  .bin
+x07          cartridge   (cart)     .rom  .bin
+             cassette    (cass)     .wav  .k7   .lst  .cas
+x1           cartridge   (cart)     .rom
+             cassette    (cass)     .wav  .tap
+             floppydisk1 (flop1)    .2d   .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+x168         floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+x1turbo      cartridge   (cart)     .rom
+             cassette    (cass)     .wav  .tap
+             floppydisk1 (flop1)    .2d   .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+x1turbo40    cartridge   (cart)     .rom
+             cassette    (cass)     .wav  .tap
+             floppydisk1 (flop1)    .2d   .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+x1twin       cartridge   (cart)     .rom
+             cassette    (cass)     .wav  .tap
+             floppydisk1 (flop1)    .2d   .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+x68000       floppydisk1 (flop1)    .xdf  .hdm  .2hd  .dim  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             sasihd      (sasi)     .hdf
+x68030       floppydisk1 (flop1)    .xdf  .hdm  .2hd  .dim  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk1   (hard1)    .chd  .hd
+x68ksupr     floppydisk1 (flop1)    .xdf  .hdm  .2hd  .dim  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk1   (hard1)    .chd  .hd
+x68kxvi      floppydisk1 (flop1)    .xdf  .hdm  .2hd  .dim  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk1   (hard1)    .chd  .hd
+x820         floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+x820ii       floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+xb42639      floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+xb42639a     floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+xb42663      floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+xb42664      floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+xb42664a     floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk    (hard)     .chd  .hd
+xegs         floppydisk1 (flop1)    .atr  .dsk  .xfd
+             cartridge   (cart)     .rom  .bin
+xeye         cdrom       (cdrm)     .chd  .cue  .toc  .nrg  .gdi  .iso  .cdr
+xor100       floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+xtvga        floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+             harddisk1   (hard1)    .chd  .hd
+             midiin      (min)      .mid
+             midiout     (mout)     .mid
+y503iir      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+y503iir2     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+yc64         cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+yis303       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+yis503       cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+yis503f      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+yis503ii     cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+yis503m      cassette    (cass)     .wav  .tap  .cas
+             floppydisk1 (flop1)    .dsk  .fdi  .td0  .imd  .cqm  .d77  .d88  .1dd
+             cartridge1  (cart1)    .mx1  .rom
+z100         floppydisk1 (flop1)    .2d   .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+z1013        cassette    (cass)     .wav
+             snapshot    (dump)     .z80
+z1013a2      cassette    (cass)     .wav
+             snapshot    (dump)     .z80
+z1013k69     cassette    (cass)     .wav
+             snapshot    (dump)     .z80
+z1013k76     cassette    (cass)     .wav
+             snapshot    (dump)     .z80
+z1013s60     cassette    (cass)     .wav
+             snapshot    (dump)     .z80
+z80ne        cassette1   (cass1)    .wav
+z80net       cassette1   (cass1)    .wav
+z80netb      cassette1   (cass1)    .wav
+z80netf      cassette1   (cass1)    .wav
+             floppydisk1 (flop1)    .zmk  .fdi  .td0  .imd  .cqm  .dsk  .d77  .d88  .1dd
+z88          cartridge1  (cart1)    .epr  .bin
+z88ch        cartridge1  (cart1)    .epr  .bin
+z88de        cartridge1  (cart1)    .epr  .bin
+z88dk        cartridge1  (cart1)    .epr  .bin
+z88es        cartridge1  (cart1)    .epr  .bin
+z88fi        cartridge1  (cart1)    .epr  .bin
+z88fr        cartridge1  (cart1)    .epr  .bin
+z88it        cartridge1  (cart1)    .epr  .bin
+z88no        cartridge1  (cart1)    .epr  .bin
+z88se        cartridge1  (cart1)    .epr  .bin
+z88tr        cartridge1  (cart1)    .epr  .bin
+z9001        cassette    (cass)     .wav
+zdsupers     floppydisk1 (flop1)    .dsk  .ima  .img  .ufi  .360  .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+zorba        floppydisk1 (flop1)    .d77  .d88  .1dd  .dfi  .imd  .ipf  .mfi  .mfm  .td0
+zvezda       snapshot    (dump)     .ach  .frz  .plusd.prg  .sem  .sit  .sna  .snp  .snx  .sp   .z80  .zx
+             quickload   (quik)     .raw  .scr
+             cassette    (cass)     .wav  .tzx  .tap  .blk
+             cartridge   (cart)     .rom
+zx80         cassette    (cass)     .wav  .o    .80
+zx81         cassette    (cass)     .wav  .p    .81
+zx97         cassette    (cass)     .wav  .p    .81

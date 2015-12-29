@@ -1,0 +1,3 @@
+[BatchscriptLauncher]
+location=[BSLPTH]
+command=%l %r

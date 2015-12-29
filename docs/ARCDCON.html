@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ARCADE MACHINES</title>
+    <script type="text/javascript" src="web/js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="web/js/jquery.mousewheel.min.js"></script>
+    <script type="text/javascript" src="web/js/distrib.min.js"></script>
+    <link rel="stylesheet" href="web/css/default/easybox.min.css" type="text/css"
+      media="screen">
+    <!-- Bootstrap core CSS -->
+    <link href="web/css/bootstrap.min.css" rel="stylesheet">
+    <!-- SmartMenus jQuery Bootstrap Addon CSS -->
+    <link href="web/css/jquery.smartmenus.bootstrap.css " rel="stylesheet">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries --><!--[if lt IE 9]> <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script> <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script> <![endif]-->
+  </head>
+  <body> <!-- Static navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header"> <button type="button" class="navbar-toggle"
+            data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle
+              navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+            <span class="icon-bar"></span> </button> <a class="navbar-brand">ARCADE</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <!-- Left nav -->
+          <ul class="nav navbar-nav">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="DOWNLOADS.html">Download</a></li>
+            <li><a href="USAGE.html">Help &amp; Docs</a>
+              <ul class="dropdown-menu">
+                <li><a href="QUICKST.html">Quickstart</a></li>
+                <li><a href="USAGE.html">Usage</a></li>
+                <li><a href="KEYMAPPER.html">Keymapper</a></li>
+                <li><a href="QUESTIONS.html">F.A.Q's</a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Documentation</li>
+                <li><a href="EMUPAGE.html">Emulators</a>
+                  <ul class="dropdown-menu">
+                    <li><a href="EMUPAGE.html#">Applications</a></li>
+                    <li><a href="EMUPAGE.html#Drivers">Drivers</a></li>
+                    <li><a href="EMUPAGE.html#BIOS">BIOS files</a></li>
+                    <li><a href="EMUPAGE.html#DWNL">ROMs</a></li>
+                  </ul>
+                </li>
+                <li><a href="CONFIG.html">Configure</a>
+                  <ul class="dropdown-menu">
+                    <li><a href="CONFIG.html"><b>Library</b></a></li>
+                    <li><a href="SORTING.html">Sorting</a></li>
+                    <li><a href="XPADR.html">XPadder</a></li>
+            <li><a href="AMICR.html">antiMicro</a></li>
+                    <li><a href="UTIL.html">Utilities</a></li>
+                    <li><a href="RST.html">Reset</a></li>
+                  </ul>
+                </li>
+                <li><a href="HTPC.html">HTPCs</a>
+                    <ul class="dropdown-menu">
+					  <li><a href="METAD.html">MetaData</a></li>
+                    <li><a href="MEDIAB.html">Mediabrowser</a></li>
+                    <li><a href="EMUST.html">Emulationstation</a></li>
+                    <li><a href="KODI.html">XBMC/KODI</a></li>
+                    <li><a href="OBLY.html">Oblytile</a></li>
+                    <li><a href="CABR.html">Cabrio</a></li>
+                    <li><a href="VALVE.html">Steam</a></li>
+                    <li><a href="MIRROR.html">Mirror+</a></li>
+                    <li><a href="HYPER.html">Hyperspin</a>
+                      
+                    <li><a href="RTFE.html">retroFE</a>
+                    </li>
+                  </ul>
+                </li>
+                <li><a>Systems</a>
+                  <ul class="dropdown-menu">
+                    <li><a href="HOMECON.html">Home Consoles</a></li>
+                    <li><a href="CPUCON.html">Computer Sytstems</a></li>
+                    <li class="active"><a>Arcade Machines</a></li>
+                    <li><a href="PORTCON.html">Handhelds</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          </ul>
+          <!-- Right nav -->
+          <ul class="nav navbar-nav navbar-right">
+          <li><a>MESS</a>
+              <ul class="dropdown-menu">           
+           <li><a>Funtech Super A'can</a></li>
+            <li><a>Adventure Vision</a></li>
+            <li><a>Apple IIgs</a></li>
+            <li><a>Aquarius</a></li>
+            <li><a>APF Imagination Machine</a></li>
+            <li><a>Atari XE</a></li>
+            <li><a>Bally Astrocade</a></li>
+            <li><a>Camputers Lynx</a></li>
+            <li><a>Fairchild Channel F</a></li>
+            <li><a>Casio Loopy</a></li>
+            <li><a>Casio PV-1000</a></li>
+            <li><a>Casio PV-2000</a></li>
+            <li><a>Coleco ADAM</a></li>
+            <li><a>Enterprise 128</a></li>
+            <li><a>Enterprise 64</a></li>
+            <li><a>EXL 100</a></li>
+            <li><a>Dragon 32-64</a></li>
+            <li><a>Game.com</a></li>
+            <li><a>Interact Family Computer</a></li>
+            <li><a>Jupiter Ace</a></li>
+            <li><a>Mega Duck</a></li>
+            <li><a>Microtan 65</a></li>
+            <li><a>Thomson MO5</a></li>
+            <li><a>MTX</a></li>
+            <li><a>MZ-700</a></li>
+            <li><a>MZ-800</a></li>
+            <li><a>Nintendo Satellaview</a></li>
+            <li><a>NEC PC-6001</a></li>
+            <li><a>NEC PC-FX</a></li>
+            <li><a>Odyssey</a></li>
+            <li><a>Odyssey 2</a></li>
+            <li><a>Odyssey 3</a></li>
+            <li><a>PC Jr</a></li>
+            <li><a>Philips PC2000</a></li>
+            <li><a>Philips VG 5000</a></li>
+            <li><a>Philips Videopac 7400</a></li>
+            <li><a>Pocketstation</a></li>
+            <li><a>Tangerine Oric Atmos</a></li>
+            <li><a>Casio PV-1000</a></li>
+            <li><a>Casio PV-1000</a></li>
+            <li><a>RCA Studio II</a></li>
+            <li><a>Super Cassette Vision</a></li>
+            <li><a>Sega SC-3000</a></li>
+            <li><a>Sega SF-7000</a></li>
+            <li><a>Sord M5</a></li>
+            <li><a>Spectravideo</a></li>
+            <li><a>Sega STV</a></li>
+            <li><a>Watara SuperVision</a></li>
+            <li><a>Thomson Mo5</a></li>
+            <li><a>Thomson To7</a></li>
+            <li><a>Thomson To8</a></li>
+            <li><a>Tomy Tutor</a></li>
+            <li><a>Interon VC 4000</a></li>
+            <li><a>Commodore C16</a></li>
+            <li><a>Commodore PET</a></li>
+            <li><a>Commodore MAX</a></li>
+            <li><a>Commodore VIC20</a></li>
+            <li><a>VTech Laser 200</a></li>
+            <li><a>VTech Laser 310</a></li>
+            <li><a>Sinclair QL</a></li>
+            <li><a>Sinclair ZX81</a></li>
+            <li><a>Sinclair ZX Spectrum</a></li>
+            </ul>
+           </li>
+            <li><a href="HOMECON.html">Home Consoles</a>
+              <ul class="dropdown-menu">
+                <li><a href="HOMECON.html#EMARC">Arcadia 2001</a></li>
+                <li><a href="HOMECON.html#AT26">Atari 2600</a></li>
+                <li><a href="HOMECON.html#AT52">Atari 5200</a></li>
+                <li><a href="HOMECON.html#AT78">Atari 7800</a></li>
+                <li><a href="HOMECON.html#JAG">Atari Jaguar</a></li>
+                <li><a href="HOMECON.html#JAGCD">Atari Jaguar CD</a></li>
+                <li><a href="HOMECON.html#COLEC">ColecoVision</a></li>
+                <li><a href="HOMECON.html#AMIG32">Commodore Amiga CD32</a></li>
+                <li><a href="HOMECON.html#INTEL">Intellivision</a></li>
+                <li><a href="HOMECON.html#N64">Nintendo 64</a></li>
+                <li><a href="HOMECON.html#NES">Nintendo Entertainment System</a></li>
+                <li><a href="HOMECON.html#NFAM">Nintendo Famicom</a></li>
+                <li><a href="HOMECON.html#NGC">Nintendo GameCube</a></li>
+                <li><a href="HOMECON.html#WII">Nintendo Wii</a></li>
+                <li><a href="HOMECON.html#P3DO">Panasonic 3DO</a></li>
+                <li><a href="HOMECON.html#SG32X">Sega 32X</a></li>
+                <li><a href="HOMECON.html#SEGCD">Sega CD</a></li>
+                <li><a href="HOMECON.html#SEGDC">Sega Dreamcast</a></li>
+                <li><a href="HOMECON.html#SEGAG">Sega Genesis</a></li>
+                <li><a href="HOMECON.html#SEGAMD">Sega MegaDrive</a></li>
+                <li><a href="HOMECON.html#SEGMS">Sega Master System</a></li>
+                <li><a href="HOMECON.html#SEGAP">Sega Pico</a></li>
+                <li><a href="HOMECON.html#SSAT">Sega Saturn</a></li>
+                <li><a href="HOMECON.html#SEG1K">Sega SG-1000</a></li>
+                <li><a href="HOMECON.html#PS1">Sony Playstation</a></li>
+                <li><a href="HOMECON.html#PS2">Sony Playstation 2</a></li>
+                <li><a href="HOMECON.html#SFAM">Super Famicom</a></li>
+                <li><a href="HOMECON.html#SNES">Super Nintendo</a></li>
+                <li><a href="HOMECON.html#PCENG">PC Engine</a></li>
+                <li><a href="HOMECON.html#PCECD">PC Engine CD</a></li>
+                <li><a href="HOMECON.html#SGFX">SuperGrafx</a></li>
+                <li><a href="HOMECON.html#TG16">TurboGrafx 16</a></li>
+                <li><a href="HOMECON.html#TGCD">TurboGrafx CD</a></li>
+                <li><a href="HOMECON.html#VECTX">Vectrex</a></li>
+              </ul>
+            </li>
+            <li><a href="CPUCON.html">Computer Sytstems</a>
+              <ul class="dropdown-menu">
+                <li><a href="CPUCON.html#ACBBC">Acorn BBC</a></li>
+                <li><a href="CPUCON.html#ACARC">Acorn Archimedes</a></li>
+                <li><a href="CPUCON.html#ACELE">Acorn Electron</a></li>
+                <li><a href="CPUCON.html#AMSTR">Amstrad CPC</a></li>
+                <li><a href="CPUCON.html#APL2E">Apple IIe</a></li>
+                <li><a href="CPUCON.html#APL2GS">Apple IIgs</a></li>
+                <li><a href="CPUCON.html#AT8H">Atari 800</a></li>
+                <li><a href="CPUCON.html#ATST">Atari ST</a></li>
+                <li><a href="CPUCON.html#CM64">Commodore 64</a></li>
+                <li><a href="CPUCON.html#CAMIG">Commodore Amiga</a></li>
+                <li><a href="CPUCON.html#FLASH">Flash Games</a></li>
+                <li><a href="CPUCON.html#FM7">FM-7</a></li>
+                <li><a href="CPUCON.html#FMTOWNS">FM Towns</a></li>
+                <li><a href="CPUCON.html#MSX">MSX</a></li>
+                <li><a href="CPUCON.html#PCFX">NEC PC-FX</a></li>
+                <li><a href="CPUCON.html#PC88">NEC PC88</a></li>
+                <li><a href="CPUCON.html#PC98">NEC PC98</a></li>
+                <li><a href="CPUCON.html#SAMC">Sam Coupe</a></li>
+                <li><a href="CPUCON.html#ZXSP">Sinclair ZX Spectrum</a></li>
+                <li><a href="CPUCON.html#TOUHU">Touhou</a></li>
+                <li><a href="CPUCON.html#WIN32">Windows Games</a></li>
+                <li><a href="CPUCON.html#X68K">X68000</a></li>
+                <li><a href="CPUCON.html#SHRPX1">Sharp X1</a></li>
+              </ul>
+            </li>
+            <li class="active"><a>Arcade Machines</a>
+              <ul class="dropdown-menu">
+                <li><a href="#ARCD">Arcade</a></li>
+                <li><a href="#ATMS">Atomiswave</a></li>
+                <li><a href="#CPS">CPS</a></li>
+                <li><a href="#CPS2">CPS 2</a></li>
+                <li><a href="#CPS3">CPS 3</a></li>
+                <li><a href="#SEGM2">Sega Model 2</a></li>
+                <li><a href="#SEGM3">Sega Model 3</a></li>
+                <li><a href="#NAOMI">Naomi</a></li>
+                <li><a href="#NEOCD">NeoGeo CD</a></li>
+                <li><a href="#NEOGE">NeoGeo MVS</a></li>
+                <li><a href="#TAITX">Taito Type X</a></li>
+              </ul>
+            </li>
+            <li><a href="PORTCON.html">Handhelds</a>
+              <ul class="dropdown-menu">
+                <li><a href="PORTCON.html#LYNX">Atari Lynx</a></li>
+                <li><a href="PORTCON.html#BWS">Bandai Wonder Swan</a></li>
+                <li><a href="PORTCON.html#BWSC">Bandai Wonder Swan Color</a></li>
+                <li><a href="PORTCON.html#NDS">Nintendo DS</a></li>
+                <li><a href="PORTCON.html#NEOPKT">NeoGeo Pocket</a></li>
+                <li><a href="PORTCON.html#NEOPKTC">NeoGeo Pocket Color</a></li>
+                <li><a href="PORTCON.html#NGB">Nintendo Gameboy</a></li>
+                <li><a href="PORTCON.html#NGBA">Nintendo Gameboy Advance</a></li>
+                <li><a href="PORTCON.html#NGBC">Nintendo Gameboy Color</a></li>
+                <li><a href="PORTCON.html#NVB">Nintendo Virtual Boy</a></li>
+                <li><a href="PORTCON.html#SEGG">Sega Game Gear</a></li>
+                <li><a href="PORTCON.html#PSP">Sony PSP</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <!--/.nav-collapse --> </div>
+      <!--/.container --> </div>
+    <div class="container" style="margin-top: 70px;">
+      <div class="page-header">
+        <h1>Arcade Machines</h1>
+        <hr>
+        <h4> Arcade Machines</h4>
+        Defaults to MAME.<br>
+        MAME romsets are zip files which RoM-Jacket groups into a hidden
+        "SOURCE" folder inside the main folder eg:
+        ..\Games\Console\Arcade\SOURCE" All identified games are aliased into
+        the properly named folders using MAME's database. <br>
+        <br><strong>Accepts</strong>:<br>
+        .zip<br>
+        <hr>
+        <h4> CPS (Capcom Play System)</h4>
+         Defaults to Final Burn Alpha.<br>
+          All ROMs are placed in a hidden directory within the "CPS" folder
+          called SOURCE. Though these ROMs use the same naming convention as
+          MAME games, each game must contain all ROMs required. The ROMs are
+          identified and a launcher is created inside each game's properly
+          listed name. <br><br><strong>Accepts</strong>:<br>
+          .zip <br>
+          <hr></h4>
+        <h4> CPS II</h4>
+        Defaults to Final Burn Alpha.<br>
+        All ROMs are placed in a hidden directory within the "CPS 2" folder
+        called SOURCE. Though these ROMs use the same naming convention as MAME
+        games, each game must contain all ROMs required. The ROMs are identified
+        and a launcher is created inside each game's properly listed name.<br>
+        <br><strong>Accepts</strong>:<br>
+        .zip<br>
+        <hr>
+        <h4> CPS III</h4>
+        Defaults to cps3emulator<br>
+        All ROMs are placed in a hidden directory within the "CPS 3" folder
+        called SOURCE. These are not the CHD ROMs used by MAME. Also, though
+        these ROMs use the same naming convention as MAME games, each game must
+        contain all ROMs required. The ROMs are identified and a launcher is
+        created inside each game's properly listed name.<br>
+        <br><strong>Accepts</strong>:<br>
+        .zip<br>
+        <hr>
+        <h4> NeoGeo MVS</h4>
+        Defaults to Final Burn Alpha.<br>
+        All ROMs are placed in a hidden directory within the "Neo Geo MVS"
+        folder called SOURCE. Though these ROMs use the same naming convention
+        as MAME games, each game must contain all ROMs required. Requires a BIOS
+        file. The ROMs are identified and a launcher is created inside each
+        game's properly listed name.<br>
+        <br><strong>Accepts</strong>:<br>
+        .zip<br>
+        <hr>
+        <h4> Sega Model 2</h4>
+        Defaults to m2emulator.<br>
+        All ROMs are placed in a hidden directory within the "Sega Model 2"
+        folder called SOURCE. The ROMs are identified and a launcher is created
+        inside each game's properly listed name.<br>
+        <br><strong>Accepts</strong>: <br>
+        .zip<br>
+        <hr>
+        <h4> Sega Model 3</h4>
+        Defaults to Supermodel.<br>
+        All ROMs are placed in a hidden directory within the "Sega Model 3"
+        folder called SOURCE.<br>
+        The ROMs are identified and a launcher is created inside each game's
+        properly listed name. <br>
+        <br><strong>Accepts</strong>: <br>
+        .zip<br>
+        <hr>
+        <h4> Sega Naomi</h4>
+        Defaults to Demul<br>
+        via a Helper-Applicaion. Requires BIOS files.<br>
+        All ROMs are placed in a hidden directory within the The ROMs are
+        identified and a launcher is created inside each game's properly listed
+        name.<br>
+        <br><strong>Accepts</strong>:<br>
+        .gdi<br>
+        .dat<br>
+        .zip<br>
+        <hr>
+        <h4> Atomiswave</h4>
+        Defaults to Demul via a Helper-Applicaion.<br>
+        Requires BIOS files.<br>
+        The ROMs are identified and a launcher is created inside each game's
+        properly listed name. <br>
+        <br><strong>Accepts</strong>:<br>
+        .zip<br>
+        <hr>
+        <h4> Taito Type X2</h4>
+        Defaults to ArcadePCLoader.<br>
+        These games are complete Windows applications and each has a
+        corresponding (short name) folder inside ArcadePCLoader's "Games"
+        directory. <br>
+        RoM-Jacket will create shortcuts to the executables created by
+        ArcadePCLoader. Common ROMsets (archives) are extracted and then the
+        archives are moved into a hidden folder "..\Taito Type
+        X\SOURCE\EXTRACTED" <br>
+        <br><strong>Accepts</strong>:<br>
+        .lnk </div>
+      <!-- /container --><!-- Bootstrap core JavaScript ================================================== --><!-- Placed at the end of the document so the pages load faster -->
+      <script src="web/js/jquery-1.10.2.min.js"></script>
+      <script src="web/libs/demo-assets/bootstrap/js/bootstrap.min.js"></script><!-- SmartMenus jQuery plugin -->
+      <script type="text/javascript" src="web/jquery.smartmenus.js"></script><!-- SmartMenus jQuery Bootstrap Addon -->
+      <script type="text/javascript" src="web/addons/bootstrap/jquery.smartmenus.bootstrap.js"></script>
+    </div>
+  </body>
+</html>

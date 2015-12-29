@@ -1,0 +1,26 @@
+set ICONM=
+pushd "%GBC%"
+set ICONM=Jacket.ico
+for /f "delims=" %%a in ('type "%GBC%\mkfav.begin.set"') do echo.%%~a>"%GBC%\mkfav.vbs"
+"%GBC%\fart.exe" "%GBC%\mkfav.vbs" [FAV] "%GBG%\%ROMJ%"
+"%GBC%\fart.exe" "%GBC%\mkfav.vbs" [NAM] "~RJ-Sort-Folder~"
+if not exist "%GBG%\%ROMJ%" "%GBG%\%ROMJ%"
+for /f "delims=" %%a in ('type "%GBC%\mkfav.set"') do echo.%%~a>>"%GBC%\mkfav.vbs"
+"%GBC%\fart.exe" "%GBC%\mkfav.vbs" [ICN] "%GBC%\%ICONM%"
+cscript //B "mkfav.vbs"
+set ICONM=Library.ico
+for /f "delims=" %%a in ('type "%GBC%\mkfav.begin.set"') do echo.%%~a>"%GBC%\mkfav.vbs"
+"%GBC%\fart.exe" "%GBC%\mkfav.vbs" [FAV] "%GBG%\%GAM%\%CONS%"
+"%GBC%\fart.exe" "%GBC%\mkfav.vbs" [NAM] "~Consoles~"
+if not exist "%GBG%\%GAM%\%CONS%" "%GBG%\%GAM%\%CONS%"
+for /f "delims=" %%a in ('type "%GBC%\mkfav.set"') do echo.%%~a>>"%GBC%\mkfav.vbs"
+"%GBC%\fart.exe" "%GBC%\mkfav.vbs" [ICN] "%GBC%\%ICONM%"
+cscript //B "mkfav.vbs"
+set ICONM=exec.ico
+for /f "delims=" %%a in ('type "%GBC%\mkfav.begin.set"') do echo.%%~a>"%GBC%\mkfav.vbs"
+"%GBC%\fart.exe" "%GBC%\mkfav.vbs" [FAV] "%GBE%\%EMUZ%"
+"%GBC%\fart.exe" "%GBC%\mkfav.vbs" [NAM] "~Emulators~"
+if not exist "%GBE%\%EMUZ%" mkdir "%GBE%\%EMUZ%"
+for /f "delims=" %%a in ('type "%GBC%\mkfav.set"') do echo.%%~a>>"%GBC%\mkfav.vbs"
+"%GBC%\fart.exe" "%GBC%\mkfav.vbs" [ICN] "%GBC%\%ICONM%"
+cscript //B "mkfav.vbs"

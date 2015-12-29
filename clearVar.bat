@@ -1,0 +1,51 @@
+:CLEARVAR
+set PRVST=
+set EXECRT=
+set CSTEML=
+set REGCON=
+set CSTSUP=
+set CANCELLED=
+set CUSOMEMULATOR=
+set INDVALL=
+SET BYPMG=
+set ARCDPROC=
+set ALLCONSOLES=
+set MANEMU=
+set BOTHOFF=
+set P1JOYTYPE=
+set CONSOLEFOLDER=
+SET NOTEXST=
+set P2JOYTYPE=
+set GGON=
+set GGOFF=
+set CFGALLG=
+SET DLGM=
+set EXTONN=
+set CSTCONS=
+set CSTLNCH=
+set CSTALT=
+set RCALL=
+set XPD1EMU=
+set XPD2EMU=
+set XPDON=
+set XPDOFF=
+set INDVGAME=
+set XPD1BLNK=
+set XPD2BLNK=
+set CUSTCONSPTH=
+set CSTM=
+set CUSTGAMPTH=
+set XPD1CST=
+set XPD1EF=
+SET XPD1ON=
+set XPD2CST=
+set XPD2EF=
+SET XPD2ON=
+set EMUOPT=
+set EMUCFG=
+set OPTIONS=
+set ARGUMENTS=
+SET NIVA=/d
+del /q "%GBC%\rez.ini"
+del /q "%GBC%\mbios.ini"
+del /q "%GBC%\lbios.ini"

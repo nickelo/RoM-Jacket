@@ -1,0 +1,10 @@
+	<system>
+		<name>[CONS]</name>
+		<fullname>[CONS]</fullname>
+		<path>[CONSPATH]</path>
+		<extension>[EXT]</extension>
+		<command>[BATCHL] "%ROM_RAW%"</command>
+        <platform>[ESCONS]</platform>
+		<theme>[CONS]</theme>
+	</system>
+	

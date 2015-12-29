@@ -1,0 +1,1 @@
+for %%a in ("%CUSTGAMPATH%") do SET NEWGAMDIR="%%~a"

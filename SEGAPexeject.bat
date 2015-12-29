@@ -1,0 +1,1 @@
+"%GBC%\fart.exe" "%GBC%\net\%EXECT%\%SEGAP%\%FUSN%.ini" [ROMPTH] "[ROMPTH]"

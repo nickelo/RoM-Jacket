@@ -1,0 +1,268 @@
+3DO\3DO Interactive Multiplayer:%P3DO%
+Acorn\BBC:%ACBBC%
+Acorn\Electron:%ACELE%
+Acorn\Archimedes:%ACARC%
+Acorn\Archimedes\CD:%ACARC%
+Amstrad\CPC:%AMSTR%
+Amstrad\GX4000:%AMSGX%
+APF\Imagination Machine:%APFIM%
+Apple\II:%APL2E%
+Apple\IIGS:%APL2GS%
+Atari\Jaguar:%JAG%
+Atari\Lynx:%LYNX%
+Atari\Jaguar CD:%JAGCD%
+Bandai\WonderSwan Color:%BWSC%
+Bandai\WonderSwan:%BWS%
+Capcom\CP System III:%CPS3%
+Commodore\Amiga\CD:%CAMIG%
+Commodore\Amiga CDTV:%AMIGTV%
+Commodore\Amiga CD32:%AMIG32%
+Atari\2600 & VCS:%AT26%
+Atari\5200:%AT52%
+Atari\7800:%AT78%
+Atari\8bit:%AT8B%
+Atari\ST:%ATST%
+Bally\Professional Arcade & Astrocade:%BALY%
+Casio\Loopy:%CASLOOP%
+Casio\PB-1000:%CAS1K%
+Casio\PV-2000:%CAS2K%
+Coleco\ColecoVision:%COLEC%
+Coleco\ColecoVision ADAM:%COLADAM%
+Commodore\Amiga:%CAMIG%
+Commodore\Amiga CD32:%AMIG32%
+Commodore\C128:%CC128%
+Commodore\C16, C116 & Plus-4:%COM16%
+Commodore\C64DTV:%CM64%
+Commodore\C64:%CM64%
+Commodore\C65:%CMPET%
+Commodore\PET:%CMPET%
+Commodore\VIC20:%VC20%
+Fujitsu\FM Towns:%FMTOWNS%
+Fujitsu\FM-7:%FM7%
+Funtech\Super Acan:%ACAN%
+Game Park\GP32:%GP32%
+GCE\Vectrex:%VECTX%
+Dragon Data\Dragon:%DRAG32%
+Emerson\Arcadia 2001:%EMARC%
+Enterprise\64 & 128:%ENTP64%
+Entex\Adventure Vision:%ADVV%
+Fairchild\VES & Channel F:%CHANF%
+Jupiter Cantab\Jupiter Ace:%JUPACE%
+Magnavox\Odyssey:%ODYS%
+Magnavox\Odyssey2:%ODYS2%
+NEC\PC-FXGA:%PCFX%
+MGT\Sam Coupe:%SAMC%
+Mattel\Aquarius:%AQURS%
+Mattel\Intellivision:%INTL%
+Microsoft\Xbox:%MXBX%
+Microsoft\Xbox 360:%X360%
+Memotech\MTX:%MTX%
+MSX\MSX:%MSX%
+MSX\MSX2:%MSX2%
+MSX\TurboR:%MSXT%
+NEC\PC-Engine & TurboGrafx-16:%TG16%
+NEC\PC-Engine CD & TurboGrafx-16 CD:%TGCD%
+NEC\PC-FX:%PCFX%
+NEC\SuperGrafx:%SGFX%
+Nintendo\3DS:%N3DS%
+Nintendo\Game Boy:%NGB%
+Nintendo\Game Boy Color:%GBC%
+Philips\Videopac+:%PVG74%
+Philips\P2000:%PPC2K%
+Philips\VG 5000:%PV5K%
+Nintendo\64DD:%N64%
+Nintendo\64:%N64%
+Nintendo\DS:%NDS%
+NEC\PC-6001:%PC6K%
+NEC\PC-8001:%PC81%
+NEC\PC-8801:%PC88%
+NEC\PC-88VA:%PC88VA%
+NEC\PC-9801:%PC98%
+NEC\PC-9821:%PC982%
+Nintendo\Famicom Disk System:%NFAM%
+Nintendo\Famicom & Entertainment System:%NES%
+Nintendo\Game Boy Advance:%NGBA%
+Nintendo\Super Famicom & Super Entertainment System:%SNES%
+Nintendo\Virtual Boy:%NVB%
+Nintendo\Wii:%WII%
+Nintendo\Wii U:%WIIU%
+Philips\CD-i:%CDI%
+Sega\32X:%SG32X%
+Sega\32X\CD:%SG32X%
+Sega\Super Control Station:%SF7K%
+Sega\Computer 3000:%SEG3K%
+Sega\Dreamcast:%SEGDC%
+Sega\Game Gear:%SEGG%
+Sega\Game 1000:%SEG1K%
+Sega Mark III & Master System:%SEGMS%
+Sega\Mega Drive & Genesis:$SEGAG%
+Sega\Mega-CD & Sega CD:%SEGCD%
+Sega\Mega-CD & Sega CD\CD:%SEGCD%
+Creatronic\Mega Duck & Cougar Boy:%MDUC%
+Sega\Pico:%PICO%
+Sega\NAOMI\GD:%NAOMI%
+Sega\NAOMI 2\GD:%NAOMI%
+Sega\Saturn:%SSAT%
+Sinclair\ZX Spectrum:%ZXSP%
+Sinclair\ZX81:%ZX81%
+SNK\Neo-Geo AES:%NEOGE%
+SNK\Neo-Geo Pocket:%NEOPKT%
+SNK\Neo-Geo Pocket Color:%NEOPKTC%
+Sony\PocketStation:%POCKS%
+Sord\M5:%SORD%
+Sharp\X68000:%X68K%
+Sinclair\QL:%SNQL%
+Tangerine\Microtan 65:%MITAN%
+Sony\Playstation:%PS1%
+Sony\Playstation 2:%PS2%
+Sony\Playstation 3:%PS3%
+Sony\Playstation 4:%PS4%
+Thomson\TO8:%TO8%
+Thomson\MO5:%MO5%
+Tangerine\Oric-1 & Oric Atmos:%ORIC%
+Tiger\Game.com:%GAMECOM%
+VTech\Laser 200:%VLAS2%
+VTech\Laser 310:%VLAS3%
+VTech\Laser 2001 & CreatiVision:%VCRV%
+IBM\PCjr:%PCJR%
+Watara\Supervision:%SVIS%
+Tomy\Tutor & Pyuuta:%TOMYT%
+RCA\Stuio II:%RCAS2%
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Apple\1:
+Apple\III:
+Apple\Macintosh\CD:
+Apple\Macintosh:
+Apple\Lisa:
+Applied Technology\MicroBee:
+Altos Computer Systems\ACS-186, 586 & 986:
+Bandai\Playdia:
+Bandai\Playdia:
+Bondwell\12:
+Cybiko\Cybiko:
+DEC\PDP-1:
+DEC\PDP-7:
+DEC\PDP-8:
+DEC\PDP-9:
+Tesla\PMD 85:
+Hewlett-Packard HP48:
+Hewlett-Packard HP49:
+DEC\PDP-10:
+DEC\PDP-11:
+DEC\PDP-12:
+Elektronika\BK-0010-0011M:
+Elektronika\BK-0011-411:
+Elektronska Industrija Nis\PECOM 32 & 64:
+Commodore\MAX Machine & VIC10:
+Front Fareast\Magic Drive:
+Tatung\Einstein TC-01:
+Fuji Photo Film\Magic Drive:
+Fuji Photo Film\FUJIC:
+Canon\Cat:
+Bondwell\2:
+Camputers\Lynx:
+Galaksija\Galaksija:
+Dick Smith\System 80:
+EACA\EG2000 Colour Genie:
+ETL\Mark II:
+ETL\Mark IV:
+Kaypro\II:
+Infocom\Z-Machine:
+Interact\Family Computer:
+Exelvision\Exeltel:
+Exelvision\EXL100:
+Keio University\K-1:
+Incredible Technologies\Eagle\CD:
+Konami\Bemani System 573:
+Konami\Bemani System 573 Analog:
+Konami\Bemani System 573 Digital:
+Exidy\Sorcerer:
+Epson\PX-8, HC-88 & Geneva:
+Franklin\ACE 100:
+HomeLab\BraiLab:
+HomeLab\HomeLab:
+Hewlett-Packard\HP48
+IBM\PC Compatibles:
+iQue\Player:
+Luxor\ABC 80:
+Kaypro:
+Altos Computer Systems ACS-186, 586 & 986:
+Spectravideo\SVI-318 & SVI-328:
+Tandy Radio Shack\TRS-80 Color Computer:
+Tandy Radio Shack\TRS-80 Color Computer:
+Technosys\Aamber Pegasus:
+Altos Computer Systems\Series 5:
+Texas Instruments\TI-73:
+Texas Instruments\TI-80:
+Texas Instruments\TI-82:
+Texas Instruments\TI-83:
+Texas Instruments\TI-86:
+Texas Instruments\TI-89:
+Texas Instruments\TI-92:
+Texas Instruments\TI-99:
+Altos Computer Systems\ACS-8000:
+Texas Instruments\TI-99 4A:
+University of Cambridge\EDSAC:
+VTech\V.Flash Home Edutainment System:
+Tiki Data\Kontiki-100 & Tiki-100:
+Tsukuda Original\Othello Multivision:
+University of Tokyo\PC-1:
+Tiki Data\Kontiki-100 & Tiki-100:
+Thomson\TO9+:
+Wang\VS:
+Videoton\TV-Computer:
+Tomy\KISS-Site:
+VM Labs\Nuon:
+ZAPiT Games\Game Wave Family Entertainment System:
+Matsushita\National JR 200:
+Matsushita\National JR-100:
+Mattel\HyperScan:
+Memorex\Video Information System:
+Microkey\Primo:
+MITS\Altair 8800:
+Multi-format:
+Luxor\ABC 800:
+Matra Hachette\Alice 32:
+Nascom\I & II:
+Nintendo\Pokemon Mini:
+OCC\Osborne 1 & Osborne Executive:
+PTC\Sol Terminal Computer SOL-20:
+OpenPandora\Pandora:
+PEL Varazdin\Orao:
+Sega\WonderMega:
+Sega\WonderMega\CD:
+Sharp\X1:%SHRPX1%
+Sharp\MZ-700:
+Sharp\MZ-00:
+SNK\Hyper Neo-Geo 64\CD:%NEO64%
+Sega\Visual Memory System:
+Radio-86RK:
+RCA\Chip-8:
+RM\Nimbus PC:
+Robotron\HC900, KC85 2, KC85 3 & KC85 4:
+Robotron\KC Compact:
+Robotron\Z1013:
+Robotron\Z9001 & KC85 1:
+Visual Technology\Visual 1050:
+SABA\Videoplay:
+Prologica:
+NCR\Decision Mate V:
+PTC\Sol Terminal Computer SOL-20:
+Luxor\Video Entertainment System:
+Casio\CFX-9850:
+Radio-86RK\Mikro-80:
+Radica\Arcade Legends & Play TV Legends:
+Radio-86RK\Apogej BK-01:
+Radio-86RK\YuT-88:
+Radio-86RK\Radio-86RK:
+Cybiko\Xtreme:
+RCA\Superchip:
+Luxor\backdrops Entertainment System:
+Pioneer\LaserActive:
+Radio-86RK\Mikrosha:
+Radio-86RK\Partner-01.01:
+Sharp\MZ-800 & MZ-1500:
+Altos Computer Systems\ACS-8000:
+Altos Computer Systems\Series 5:

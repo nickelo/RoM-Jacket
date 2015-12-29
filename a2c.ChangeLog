@@ -1,0 +1,70 @@
+commit d2a171b2cba5c1a720bc70748b868feb4f554639
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2013-03-24
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2013-03-24
+
+    Bump up version number to 1.16.5
+
+commit 0e99d9fe1512ec5630f008f1eaa9a556a204ac85
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2013-03-24
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2013-03-24
+
+    Update NEWS
+
+commit 763ca925d7aa376e3bbfaf67e82dc11707825cba
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2013-03-24
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2013-03-24
+
+    Add note for android NDK toolchain installation for x86_64 Linux host
+
+commit 15b19f7baf0929566982cbec024d8111a6566413
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2013-03-21
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2013-03-21
+
+    Add timeout when receiving Multicast packet in LpdMessageDispatcherTest
+
+commit 0309d67aab778cea6d9d0017c69cc81a9c3af929
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2013-03-18
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2013-03-18
+
+    Echo CC, CXX and CPP at the end of configure
+
+commit 5e4029a355641ec101ea7024cc69e3d3e84df227
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2013-03-18
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2013-03-18
+
+    Fix unit test HttpRequestTest.cc
+
+commit 5535ed5f958c8d04f561352c4d52360e122fee77
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2013-03-18
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2013-03-18
+
+    Code cleanup
+
+commit d88e8150334418cff509f9707b0bbf75e7e3c05c
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2013-03-18
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2013-03-18
+
+    Fix bug that invalid range error when requesting range starting 0
+    
+    Since the change b782a56b, we use endOffsetOverride_ as the return
+    value of getEndByte(). But aria2 does not send Range header field when
+    range starts 0 (this is because some server returns error if it
+    received Range: 0-), and the HttpRequest::isRangeSatisfied() checks
+    the equality of getEndByte() and the end byte in response header and
+    fails. The fix is send Range header if getEndByte() is set.

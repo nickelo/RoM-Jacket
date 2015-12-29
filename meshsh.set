@@ -1,0 +1,4 @@
+:ICHO
+echo.:%CRCVAL%>>[;]%GBC%\hashing\%CSTCONS%_%DATNUM%.cmd[;]
+echo.[;]for /f [,][FLDRING][,] [x1] in ([,]%ROMRNM%:%ROMFLDR%[,]) do (SET ROMRNM=[y1]&SET ROMFLDR=%%~b)[;]>>[;]%GBC%\hashing\%CSTCONS%_%DATNUM%.cmd[;]
+echo.exit /b>>[;]%GBC%\hashing\%CSTCONS%_%DATNUM%.cmd[;]

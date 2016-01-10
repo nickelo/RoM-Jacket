@@ -88,6 +88,8 @@ if "%HYPCONDIR%"=="%SEGM3%" goto :SPECIAL
 if "%HYPCONDIR%"=="%SEGM2%" goto :SPECIAL
 if "%HYPCONDIR%"=="%NEOGE%" goto :SPECIAL
 if "%HYPCONDIR%"=="%NAOMI%" goto :SPECIAL
+if "%HYPCONDIR%"=="%HIKARU%" goto :SPECIAL
+if "%HYPCONDIR%"=="%GALCO%" goto :SPECIAL
 if "%HYPCONDIR%"=="%ATMS%" goto :SPECIAL
 if "%HYPCONDIR%"=="%CPS%" goto :SPECIAL
 if "%HYPCONDIR%"=="%CPS2%" goto :SPECIAL

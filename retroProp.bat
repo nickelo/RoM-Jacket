@@ -4,8 +4,10 @@ if %ERRORLEVEL%==1 goto :RTROAJOY
 if %ERRORLEVEL%==2 goto :RTROAOTH
 goto :QUITOUT
 :RTROAJOY
-for /f "delims=" %%a in ('%GBC%\Wfile.exe "SET SOURCECFG=" "%GBG%\%GAM%\%CONS%\retroarch.cfg" "Select Configured retroarch.cfg" /noquote') do %%a
+pushd "%GBC%"
+for /f "delims=" %%a in ('Wfile.exe "SET SOURCECFG=" "%GBG%\%GAM%\%CONS%\retroarch.cfg" "Select Configured retroarch.cfg" /noquote') do %%a
 if %errorlevel%==0 exit /b
+popd
 for /f "delims=" %%a in ("%SOURCECFG%") do set SOURCELOC=%%~dpa
 call :SELECTSYS
 pushd "%SOURCELOC%"

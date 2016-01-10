@@ -1,4 +1,4 @@
-set CORECFG=.retroarch-core-options
+set CORECFG=retroarch-core-options
 REM set CORECFG=%RATYPE%
 "%GBC%\fart.exe" "retroarch.cfg" [INPUTD] "dinput"
 "%GBC%\fart.exe" "retroarch.cfg" "[EMUDLL]" "cores\%RACORE%"
@@ -31,10 +31,6 @@ if "%ARPOP%"=="32" "%GBC%\fart.exe" "retroarch.cfg" "[THREAD]" false
 "%GBC%\fart.exe" "%CORECFG%.cfg" [ACCUR] high
 "%GBC%\fart.exe" "%CORECFG%.cfg" [GFXPLUG] auto
 "%GBC%\fart.exe" "%CORECFG%.cfg" [SNDPLUG] auto
-"%GBC%\fart.exe" "%CORECFG%.cfg" [N64REZ] 640x480
-"%GBC%\fart.exe" "%CORECFG%.cfg" [N64FILT] auto
-"%GBC%\fart.exe" "%CORECFG%.cfg" [N64SPEED] 1500
-"%GBC%\fart.exe" "%CORECFG%.cfg" [N64FRAMER] original
 "%GBC%\fart.exe" "%CORECFG%.cfg" [PCESPRL] true
 "%GBC%\fart.exe" "%CORECFG%.cfg" [GENXPAD] auto
 "%GBC%\fart.exe" "%CORECFG%.cfg" [GENXFILT] rgb
@@ -77,3 +73,5 @@ if "%ARPOP%"=="32" "%GBC%\fart.exe" "retroarch.cfg" "[THREAD]" false
 "%GBC%\fart.exe" "%CORECFG%.cfg" [PICOPAD1] "6 Button"
 "%GBC%\fart.exe" "%CORECFG%.cfg" [PICOPAD2] "6 Button"
 "%GBC%\fart.exe" "%CORECFG%.cfg" [PICOSPRL] "enabled"
+"%GBC%\fart.exe" "%CORECFG%.cfg" [DCREZ] "640x480"
+"%GBC%\fart.exe" "%CORECFG%.cfg" [DCWIDE] "disabled"

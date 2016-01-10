@@ -29,6 +29,8 @@ copy /Y "f355bios.zip" "%GBE%\%EMUZ%\%DMUL%\roms"
 copy /Y "hod2bios.zip" "%GBE%\%EMUZ%\%DMUL%\roms"
 copy /Y "airlbios.zip" "%GBE%\%EMUZ%\%DMUL%\roms"
 copy /Y "awbios.zip" "%GBE%\%EMUZ%\%DMUL%\roms"
+copy /Y "hikaru.zip" "%GBE%\%EMUZ%\%DMUL%\roms"
+copy /Y "galeco.zip" "%GBE%\%EMUZ%\%DMUL%\roms"
 copy /Y "dc.zip" "%GBE%\%EMUZ%\%DMUL%\roms"
 exit /b
 

@@ -1,3 +1,4 @@
+set CSTSUP=
 SET CEMU=Default
 if /i "%CSTCONS%"=="Windows Games" set CEMU=%BATCHL%
 if /i "%CSTCONS%"=="MS D-O-S" set CEMU=%MSBOX%
@@ -24,8 +25,8 @@ if /i "%CSTCONS%"=="Nintendo Gameboy Color" set CEMU=%MEDN%
 if /i "%CSTCONS%"=="Nintendo Gameboy Advance" set CEMU=%VGBA%
 if /i "%CSTCONS%"=="Nintendo Entertainment System" set CEMU=%MEDN%
 if /i "%CSTCONS%"=="Nintendo Famicom" set CEMU=%MEDN%
-if /i "%CSTCONS%"=="Super Nintendo" set CEMU=%MEDN%
-if /i "%CSTCONS%"=="Super Famicom" set CEMU=%MEDN%
+if /i "%CSTCONS%"=="Super Nintendo" set CEMU=%SN9X%
+if /i "%CSTCONS%"=="Super Famicom" set CEMU=%SN9X%
 if /i "%CSTCONS%"=="Sega Pico" set CEMU=%FUSN%
 if /i "%CSTCONS%"=="Sega Genesis" set CEMU=%FUSN%
 if /i "%CSTCONS%"=="Sega MegaDrive" set CEMU=%FUSN%
@@ -83,6 +84,8 @@ if /i "%CSTCONS%"=="MSX" set CEMU=%BMSX%
 if /i "%CSTCONS%"=="Atari 8Bit" set CEMU=%ALTRA%
 if /i "%CSTCONS%"=="Atari 800" set CEMU=%ALTRA%
 if /i "%CSTCONS%"=="Vectrex" set CEMU=%PJVE%
+if /i "%CSTCONS%"=="Hikaru" set CEMU=%DMUL%
+if /i "%CSTCONS%"=="Galeco" set CEMU=%DMUL%
 if /i "%CSTCONS%"=="Atomiswave" set CEMU=%DMUL%
 if /i "%CSTCONS%"=="Touhou" set CEMU=%ANEX%
 if /i "%CSTCONS%"=="Naomi" set CEMU=%DMUL%

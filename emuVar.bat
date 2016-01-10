@@ -24,6 +24,8 @@ if "%CSTCONS%"=="%SEG1K%" set CVAREMU=%FUSN%
 if "%CSTCONS%"=="%SG32X%" set CVAREMU=%FUSN%
 if "%CSTCONS%"=="%SEGCD%" set CVAREMU=%FUSN%
 if "%CSTCONS%"=="%P3DO%" set CVAREMU=%FOURDO%
+if "%CSTCONS%"=="%MSXT%" set CVAREMU=%BMSX%
+if "%CSTCONS%"=="%MSX2%" set CVAREMU=%BMSX%
 if "%CSTCONS%"=="%MSX%" set CVAREMU=%BMSX%
 if "%CSTCONS%"=="%COLEC%" set CVAREMU=%BMSX%
 if "%CSTCONS%"=="%FMTOWNS%" set CVAREMU=%FMUNZ%
@@ -46,8 +48,8 @@ if "%CSTCONS%"=="%ACBBC%" set CVAREMU=%BEEBEM%
 if "%CSTCONS%"=="%ACELE%" set CVAREMU=%ELECEM%
 if "%CSTCONS%"=="%PC88%" set CVAREMU=%M88%
 if "%CSTCONS%"=="%PC98%" set CVAREMU=%NEKO%
-if "%CSTCONS%"=="%SNES%" set CVAREMU=%MEDN%
-if "%CSTCONS%"=="%SFAM%" set CVAREMU=%MEDN%
+if "%CSTCONS%"=="%SNES%" set CVAREMU=%SN9X%
+if "%CSTCONS%"=="%SFAM%" set CVAREMU=%SN9X%
 if "%CSTCONS%"=="%NGBA%" set CVAREMU=%VGBA%
 if "%CSTCONS%"=="%NDS%" set CVAREMU=%DESMUME%
 if "%CSTCONS%"=="%TRIF%" set CVAREMU=%DOLPH%
@@ -78,6 +80,8 @@ if "%CSTCONS%"=="%ZXSP%" set CVAREMU=%ZXSPIN%
 if "%CSTCONS%"=="%SEGM3%" set CVAREMU=%SPRM3%
 if "%CSTCONS%"=="%SEGM2%" set CVAREMU=%M2EMU%
 if "%CSTCONS%"=="%NAOMI%" set CVAREMU=%DMUL%
+if "%CSTCONS%"=="%GALCO%" set CVAREMU=%DMUL%
+if "%CSTCONS%"=="%HIKARU%" set CVAREMU=%DMUL%
 if "%CSTCONS%"=="%ATMS%" set CVAREMU=%DMUL%
 if "%CSTCONS%"=="%TAITX%" set CVAREMU=%APCL%
 if "%CSTCONS%"=="%WIN32%" exit /b

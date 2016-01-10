@@ -4,6 +4,8 @@ if "%CSTCONS%"=="%AMSTR%" set ESRMP=amstradcpc
 if "%CSTCONS%"=="%APL2E%" set ESRMP=apple2
 if "%CSTCONS%"=="%CPS%" set ESRMP=arcade
 if "%CSTCONS%"=="%CPS2%" set ESRMP=arcade
+if "%CSTCONS%"=="%GALCO%" set ESRMP=arcade
+if "%CSTCONS%"=="%HIKARU%" set ESRMP=arcade
 if "%CSTCONS%"=="%ATMS%" set ESRMP=arcade
 if "%CSTCONS%"=="%NAOMI%" set ESRMP=arcade
 if "%CSTCONS%"=="%TAITX%" set ESRMP=arcade

@@ -54,8 +54,8 @@ set CEMU=SNESGT
 SET EMUNUM=50
 call "%GBC%\getemu.bat">>"%GBC%\logs\%CEMU%getemu.log"
 call "%GBC%\instemu.bat">>"%GBC%\logs\%CEMU%instemu.log"
-set CEMU=SNES9X
-SET EMUNUM=114
+set CEMU=snes9x
+SET EMUNUM=113
 call "%GBC%\getemu.bat">>"%GBC%\logs\%CEMU%getemu.log"
 call "%GBC%\instemu.bat">>"%GBC%\logs\%CEMU%instemu.log"
 set CEMU=Zsnes

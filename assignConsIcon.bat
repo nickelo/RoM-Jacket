@@ -60,8 +60,8 @@ del /q rjf.vbs
 
 copy /y mod.set rjf.vbs
 
-for %%A in ("%GBC%\Bios.ico") do set ICON=%%~A
-SET NAME=Bios-Folder.lnk
+for %%A in ("%GBC%\RIConfig.ico") do set ICON=%%~A
+SET NAME=RIConfig.lnk
 "%GBC%\fart.exe" rjf.vbs "[ICON]" "%ICON%"
 "%GBC%\fart.exe" rjf.vbs "[NAME]" "%NAME%"
 cmd /c cscript //B rjf.vbs

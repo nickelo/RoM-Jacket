@@ -139,10 +139,15 @@ HISTORY
 12/14/2015: fixed the emulator downloader and updated the mega repository
 =========================================
 12/22/2015: frontend updates
-
 =========================================
 12/22/2015: demul-dc fixes
 =========================================
 12/27/2015: demul upgrade.  retroarch changes.  
 =========================================
 12/28/2015: antimicro fixed.  searching for repositories
+=========================================
+12/29/2015: launcher updates. joystick profile fixes
+=========================================
+12/30/2015: Snes9x set as default emulator for snes/sfc.  Bugfixes.
+=========================================
+01/04/2016: ''indvidual game'' configuration fixes. snes9x start button for kb fixed. ra updates

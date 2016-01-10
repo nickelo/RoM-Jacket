@@ -263,7 +263,7 @@ goto :FRAMETEXTYPE
 if %errorlevel%==1 goto :NOFBE
 if %errorlevel%==2 goto :MINFBE
 if %errorlevel%==3 goto :STDFBE
-if %errorlevel%==2 goto :SOFTFBE
+if %errorlevel%==4 goto :SOFTFBE
 goto :QUITOUT
 
 :NOFBE

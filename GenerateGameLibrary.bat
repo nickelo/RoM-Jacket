@@ -54,6 +54,8 @@ if "%LDR%"=="%SEGM2%" CALL "%GBC%\model2Alias.bat">>"%GBC%\logs\model2Alias.log"
 if "%LDR%"=="%SEGM3%" CALL "%GBC%\model3Alias.bat">>"%GBC%\logs\model3Alias.log"
 if "%LDR%"=="%NAOMI%" CALL "%GBC%\naomiAlias.bat">>"%GBC%\logs\naomiAlias.log"
 if "%LDR%"=="%ATMS%" CALL "%GBC%\atomisAlias.bat">>"%GBC%\logs\atomisAlias.log"
+if "%LDR%"=="%HIKARU%" CALL "%GBC%\hikaruAlias.bat">>"%GBC%\logs\hikaruAlias.log"
+if "%LDR%"=="%GALCO%" CALL "%GBC%\galecoAlias.bat">>"%GBC%\logs\galecoAlias.log"
 if "%LDR%"=="%SEGAMD%" CALL "%GBC%\megaDriveAlias.bat">>"%GBC%\logs\megaDriveAlias.log"
 if "%LDR%"=="%SEGAG%" CALL "%GBC%\megaDriveAlias.bat">>"%GBC%\logs\megaDriveAlias.log"
 if "%DLM%"=="1" call :hidemeta

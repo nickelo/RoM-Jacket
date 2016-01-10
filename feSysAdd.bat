@@ -98,6 +98,8 @@ if "%%~a"=="%CPS3%" echo."%%~a">>"%GBC%\list.ini"
 if "%%~a"=="%NEOGE%" echo."%%~a">>"%GBC%\list.ini"
 if "%%~a"=="%SEGM2%" echo."%%~a">>"%GBC%\list.ini"
 if "%%~a"=="%NAOMI%" echo."%%~a">>"%GBC%\list.ini"
+if "%%~a"=="%GALCO%" echo."%%~a">>"%GBC%\list.ini"
+if "%%~a"=="%HIKARU%" echo."%%~a">>"%GBC%\list.ini"
 if "%%~a"=="%ATMS%" echo."%%~a">>"%GBC%\list.ini"
 if "%%~a"=="%SSTV%" echo."%%~a">>"%GBC%\list.ini"
 )

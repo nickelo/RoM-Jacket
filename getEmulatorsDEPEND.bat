@@ -262,6 +262,11 @@ SET EMUNUM=50
 call "%GBC%\getemu.bat">>"%GBC%\logs\%CEMU%getemu.log"
 call "%GBC%\instemu.bat">>"%GBC%\logs\%CEMU%instemu.log"
 exit /b
+:wget_snes9x
+SET EMUNUM=113
+if "%HAVEARC%"=="" call "%GBC%\getemu.bat"
+call "%GBC%\instemu.bat">>"%GBC%\logs\%CEMU%instemu.log"
+exit /b
 :wget_Zsnes
 SET EMUNUM=9
 call "%GBC%\getemu.bat">>"%GBC%\logs\%CEMU%getemu.log"

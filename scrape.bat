@@ -157,6 +157,8 @@ if "%CSTCONS%"=="%NEOGE%" set CSTSCRP=%ARCD%
 if "%CSTCONS%"=="%SEGM2%" set CSTSCRP=%ARCD%
 if "%CSTCONS%"=="%SSTV%" set CSTSCRP=%ARCD%
 if "%CSTCONS%"=="%NAOMI%" set CSTSCRP=%ARCD%
+if "%CSTCONS%"=="%HIKARU%" set CSTSCRP=%ARCD%
+if "%CSTCONS%"=="%GALCO%" set CSTSCRP=%ARCD%
 if "%CSTCONS%"=="%ATMS%" set CSTSCRP=%ARCD%
 
 call "%GBC%\hashing\scrape\%CSTSCRP%.bat">>"%GBC%\logs\scrape%CSTCONS%.log"

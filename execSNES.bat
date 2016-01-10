@@ -5,7 +5,8 @@ pushd "%GBC%\net\%EXECT%\%SNES%"
 "%GBC%\fart.exe" "zsnesw.cfg" [EMUL] "[EMUPTH]"
 "%GBC%\fart.exe" "zsnesw.cfg" "[EMUPTH]"
 "%GBC%\fart.exe" "snesgt.ini" "[EMUPTH]\snesgt.ini"
-call "%GBC%\mednInj.bat">>"%GBC%\logs\%CSTCONS%mednInj.log"
+if "%CEMU%"=="%SN9X%" call "%GBC%\sn9xInj.bat">>"%GBC%\logs\%CSTCONS%sn9xInj.log"
+if "%CEMU%"=="%MEDN%" call "%GBC%\mednInj.bat">>"%GBC%\logs\%CSTCONS%mednInj.log"
 popd
 for /d %%g IN ("%CSTM%") DO (
 set CSTM=%%~g

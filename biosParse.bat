@@ -43,16 +43,18 @@ for /f "delims=" %%i in ('dir /b/a-d "*pcfx*.bin"') do copy /Y "%%~i" "%GBE%\%EM
 for /f "delims=" %%i in ('dir /b/a-d "*pcfx*.rom"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%RTROA%\system\pcfx.rom" 
 for /f "delims=" %%i in ('dir /b/a-d "disksys.rom"') do copy /y "%%~i" "%GBE%\%EMUZ%\%RTROA%\system\disksys.rom"
 for /f "delims=" %%i in ('dir /b /a-d "lynx*"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%RTROA%\system"
-for /f "delims=" %%i in ('dir /b/a-d "SCPH5500.BIN"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%RTROA%\"
-for /f "delims=" %%i in ('dir /b/a-d "SCPH5501.BIN"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%RTROA%"
-for /f "delims=" %%i in ('dir /b/a-d "Scph5502.bin"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%RTROA%"
-for /f "delims=" %%i in ('dir /b/a-d "Kick*1.3*"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%RTROA%\kick.rom"
-for /f "delims=" %%i in ('dir /b /a-d "*eu_mcd*"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%RTROA%\bios_CD_E.bin"
-for /f "delims=" %%i in ('dir /b /a-d "*eu_megacd*"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%RTROA%\bios_CD_E.bin"
-for /f "delims=" %%i in ('dir /b /a-d "*jp_mcd*"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%RTROA%\bios_CD_J.bin"
-for /f "delims=" %%i in ('dir /b /a-d "*jp_megacd*"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%RTROA%\bios_CD_J.bin"
-for /f "delims=" %%i in ('dir /b /a-d "*us_scd*"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%RTROA%\bios_CD_U.bin"
-for /f "delims=" %%i in ('dir /b /a-d "*us_segacd*"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%RTROA%\bios_CD_U.bin"
+for /f "delims=" %%i in ('dir /b/a-d "SCPH5500.BIN"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%RTROA%\system\"
+for /f "delims=" %%i in ('dir /b/a-d "SCPH5501.BIN"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%RTROA%\system\"
+for /f "delims=" %%i in ('dir /b/a-d "Scph5502.bin"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%RTROA%system\"
+for /f "delims=" %%i in ('dir /b/a-d "Kick*1.3*"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%RTROA%\system\kick.rom"
+for /f "delims=" %%i in ('dir /b /a-d "*eu_mcd*"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%RTROA%\system\bios_CD_E.bin"
+for /f "delims=" %%i in ('dir /b /a-d "*eu_megacd*"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%RTROA%\system\bios_CD_E.bin"
+for /f "delims=" %%i in ('dir /b /a-d "*jp_mcd*"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%RTROA%\system\bios_CD_J.bin"
+for /f "delims=" %%i in ('dir /b /a-d "*jp_megacd*"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%RTROA%\system\bios_CD_J.bin"
+for /f "delims=" %%i in ('dir /b /a-d "*us_scd*"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%RTROA%\system\bios_CD_U.bin"
+for /f "delims=" %%i in ('dir /b /a-d "*us_segacd*"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%RTROA%\system\bios_CD_U.bin"
+for /f "delims=" %%i in ('dir /b /a-d "dc_bios.bin"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%RTROA%\system\dc\dc_bios.bin"
+for /f "delims=" %%i in ('dir /b /a-d "dc_flash.bin"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%RTROA%\system\dc\dc_flash.bin"
 exit /b
 
 :KEGS
@@ -181,6 +183,8 @@ for /f "delims=" %%i in ('dir /b /a-d "MSX2PEXT.ROM"') do copy /y "%GBE%\%EMUZ%\
 exit /b
 
 :DMUL
+for /f "delims=" %%i in ('dir /b /a-d "hikaru.zip"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%DMUL%\"
+for /f "delims=" %%i in ('dir /b /a-d "galeco.zip"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%DMUL%\"
 for /f "delims=" %%i in ('dir /b /a-d "dc.zip"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%DMUL%\"
 for /f "delims=" %%i in ('dir /b /a-d "*NAOMI*"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%DMUL%\"
 for /f "delims=" %%i in ('dir /b /a-d "f355bios.zip"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%DMUL%\"

@@ -1280,7 +1280,21 @@ goto :QUITOUT
 goto :DCWIDE
 	
 :SELRCREZ
-call "%GBC%\resolutiontest.bat">>"%GBC%\logs\resolutionTest.log"
+set DCREZ=
+echo.640x480>"%GBC%\dcrez.ini"
+echo.1280x960>>"%GBC%\dcrez.ini"
+echo.1920x1440>>"%GBC%\dcrez.ini"
+echo.2560x1920>>"%GBC%\dcrez.ini"
+echo.3840x2880>>"%GBC%\dcrez.ini"
+echo.4480x3360>>"%GBC%\dcrez.ini"
+"%GBC%\Wselect.exe" "%GBC%\dcrez.ini" "Select a resolution" "set DCREZ=$item" > "%GBC%\sel.cmd"
+call "%GBC%\sel.cmd"
+for /f "tokens=1,2 delims=x" %%a in ("%DCREZ%") do (
+set REZX=%%~a
+set REZY=%%~b
+)
+if "%DCREZ%"=="" set REZX=640
+if "%DCREZ%"=="" set REZY=480
 "%GBC%\fart.exe" "retroarch-core-options.cfg" [DCREZ] "%REZX%x%REZY%"
 goto :DCWIDE
 

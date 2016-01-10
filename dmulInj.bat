@@ -1,5 +1,7 @@
 if "%CSTCONS%"=="%SEGDC%" goto :SEGDC
 if "%CSTCONS%"=="%ATMS%" goto :ATOM
+if "%CSTCONS%"=="%HIKARU%" goto :ATOM
+if "%CSTCONS%"=="%GALCO%" goto :ATOM
 if "%CSTCONS%"=="%NAOMI%" goto :NAOMI
 goto :REZTST
 
@@ -48,6 +50,20 @@ if "%P1JOYTYPE%"=="JOY" call "%GBC%\atmsJoy1.bat">>"%GBC%\logs\atmsJoy1.log"
 if "%P2JOYTYPE%"=="JOY" call "%GBC%\atmsJoy2.bat">>"%GBC%\logs\atmsJoy2.log"
 if "%P1JOYTYPE%"=="KB" call "%GBC%\atmsKB1.bat">>"%GBC%\logs\atmsKB1.log"
 if "%P2JOYTYPE%"=="KB" call "%GBC%\atmsKB2.bat">>"%GBC%\logs\atmsKB2.log"
+goto :REZTST
+
+:GALCO
+if "%P1JOYTYPE%"=="JOY" call "%GBC%\galcoJoy1.bat">>"%GBC%\logs\galcoJoy1.log"
+if "%P2JOYTYPE%"=="JOY" call "%GBC%\galcoJoy2.bat">>"%GBC%\logs\galcoJoy2.log"
+if "%P1JOYTYPE%"=="KB" call "%GBC%\galcoKB1.bat">>"%GBC%\logs\galcoKB1.log"
+if "%P2JOYTYPE%"=="KB" call "%GBC%\galcoKB2.bat">>"%GBC%\logs\galcoKB2.log"
+goto :REZTST
+
+:HIKARU
+if "%P1JOYTYPE%"=="JOY" call "%GBC%\hikaruJoy1.bat">>"%GBC%\logs\hikaruJoy1.log"
+if "%P2JOYTYPE%"=="JOY" call "%GBC%\hikaruJoy2.bat">>"%GBC%\logs\hikaruJoy2.log"
+if "%P1JOYTYPE%"=="KB" call "%GBC%\hikaruKB1.bat">>"%GBC%\logs\hikaruKB1.log"
+if "%P2JOYTYPE%"=="KB" call "%GBC%\hikaruKB2.bat">>"%GBC%\logs\hikaruKB2.log"
 goto :REZTST
 
 :NAOMI

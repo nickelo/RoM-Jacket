@@ -63,6 +63,11 @@ SET BEXT=dc_boot.bin
 call :CRCCHECK
 SET BEXT=dc_flash.bin
 call :CRCCHECK
+for %%a in ("%GBE%\%EMUZ%\%RTROA%\system\dc") do SET EMUPTH=%%~a
+SET BEXT=dc_boot.bin
+call :CRCCHECK
+SET BEXT=dc_flash.bin
+call :CRCCHECK
 exit /b
 
 :SEGCD
@@ -85,6 +90,15 @@ mkdir "%EMUPTH%"
 SET BEXT=us_scd2_9306.bin
 call :CRCCHECK
 
+
+:HIKARU
+del /q "%GBC%\crc.ini"
+for %%a in (" B4015DF2") do echo.%%~a>>"%GBC%\crc.ini"
+for %%a in ("%GBE%\%EMUZ%\%DMUL%") do SET EMUPTH=%%~a
+mkdir "%EMUPTH%\roms"
+SET BEXT=hikaru.zip
+call :CRCCHECK
+exit /b
 
 :ATMS
 del /q "%GBC%\crc.ini"

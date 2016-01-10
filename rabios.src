@@ -1,0 +1,28 @@
+dc_bios.bin:89F2B1A1
+dc_flash.bin:C611B498
+bios_CD_U.bin:9F6F6276
+7800 BIOS (U).rom:5D13730C
+disksys.rom:5E607DCF
+eu_mcd1_9210.bin:529AC15A
+gba_bios.bin:81977335
+japan-j3.bin:DFF6D41F
+jp_mcd1_9112.bin:550F30BB
+lynxboot.img:0D973C9D
+neo-epo.bin:D27A71F1
+neo-po.bin:16D0C132
+neodebug.bin:698EBB7D
+o2rom.bin:8016A315
+panafz10.bin:58242CEE
+pcfx.bios:76FFB97A
+ProSystem.dat:9402D164
+scph5500.bin:FF3EEB8C
+scph5501.bin:8D8CB7E4
+scph5502.bin:D786F0B9
+sgb.boot.rom:EC8A83B9
+SS - BIOS (E).bin:4AFCF0FA
+SS - BIOS (U).bin:4AFCF0FA
+SS - BIOS V1.00.bin:2ABA43C2
+SS - BIOS V1.01.bin:224B752C
+syscard3.pce:64F78E3C
+usa_2slt.bin:E72943DE
+us_scd1_9210.bin:C6D10268

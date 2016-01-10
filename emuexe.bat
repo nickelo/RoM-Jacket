@@ -8,6 +8,7 @@ if /i "%CEMU%"=="%ELECEM%" set EMEXE=Electron
 if /i "%CSTCONS%"=="%NGBA%" set EMEXE=%VGBA%-M
 if /i "%CSTCONS%"=="%ATST%" set EMEXE=Steemz
 if /i "%CEMU%"=="%STEEM%" set EMEXE=Steemz
+if /i "%CEMU%"=="%DMUL%" set EMEXE=Helper
 if /i "%CEMU%"=="%VICE%" set EMEXE=x64
 if /i "%CEMU%"=="%INTV%" set EMEXE=%INTV%32
 if /i "%CEMU%"=="%VSVH%" set EMEXE=%VSVH%.Win

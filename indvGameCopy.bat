@@ -15,6 +15,7 @@ CALL :COPYMVROM
 goto :extensionchk
 
 :COPYMVROM
+del /q "%CUSTGAMPATH%\*.bat"
 copy /Y "%GBC%\net\%LNCH%\%CSTLNCH%\zz.bat" "%CUSTGAMPATH%"
 copy /Y "%CUSTGAMPATH%\zz.bat" "%CUSTGAMPATH%"
 move /Y "%CUSTGAMPATH%\zz.bat" "%CUSTGAMPATH%\%GAMT%.bat"

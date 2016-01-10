@@ -68,7 +68,7 @@ if /i "%CVAREMU%"=="ProjectTempest" set SHRTE=PTMPS
 if /i "%CVAREMU%"=="raine" set SHRTE=RAINE
 if /i "%CVAREMU%"=="ScummVM" set SHRTE=SCMVM
 if /i "%CVAREMU%"=="SimCoupe" set SHRTE=SIMC
-if /i "%CVAREMU%"=="snes9x" set SHRTE=SNES9X
+if /i "%CVAREMU%"=="snes9x" set SHRTE=SN9X
 if /i "%CVAREMU%"=="bgb" set SHRTE=BGB
 if /i "%CVAREMU%"=="SNESGT" set SHRTE=SNESGT
 if /i "%CVAREMU%"=="Supermodel" set SHRTE=SPRM3

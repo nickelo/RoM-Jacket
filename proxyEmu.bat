@@ -2,7 +2,9 @@ if "%CSTCONS%"=="%N64%" call :N64CHK
 if "%CSTCONS%"=="%PS1%" call :PS1CHK
 if "%CSTCONS%"=="%CPS3%" call :CPS3CHK
 if "%CSTCONS%"=="%SEGDC%" call :SEGDCCHK
+if "%CSTCONS%"=="%NFAM%" call :NESCHK
 if "%CSTCONS%"=="%NES%" call :NESCHK
+if "%CSTCONS%"=="%SNES%" call :SNESCHK
 if "%CSTCONS%"=="%SNES%" call :SNESCHK
 if "%CSTCONS%"=="%NDS%" call :NDSCHK
 if "%CSTCONS%"=="%NEOCD%" call :NEOCDCHK
@@ -24,8 +26,9 @@ exit /b
 if /i "%CEMU%"=="%MUPEN%" copy /y "%GBC%\net\%LNCH%\%NES%\%MUPEN%.bat" "%GBC%\net\%LNCH%\%CSTLNCH%\zz.bat"
 exit /b
 :SNESCHK
-if /i "%CEMU%"=="zsnes" copy /y "%GBC%\net\%LNCH%\%NES%\znes.bat" "%GBC%\net\%LNCH%\%CSTLNCH%\zz.bat"
-if /i "%CEMU%"=="snesgt" copy /y "%GBC%\net\%LNCH%\%NES%\snesgt.bat" "%GBC%\net\%LNCH%\%CSTLNCH%\zz.bat"
+if /i "%CEMU%"=="%MEDN%" copy /y "%GBC%\net\%LNCH%\%SNES%\mednzz.bat" "%GBC%\net\%LNCH%\%CSTLNCH%\zz.bat"
+if /i "%CEMU%"=="zsnes" copy /y "%GBC%\net\%LNCH%\%SNES%\znes.bat" "%GBC%\net\%LNCH%\%CSTLNCH%\zz.bat"
+if /i "%CEMU%"=="snesgt" copy /y "%GBC%\net\%LNCH%\%SNES%\snesgt.bat" "%GBC%\net\%LNCH%\%CSTLNCH%\zz.bat"
 exit /b
 :NDSCHK
 exit /b

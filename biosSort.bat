@@ -208,8 +208,8 @@ for /f "delims=" %%i in ('dir /b /a-d "32X_S*"') do SET 32XS=%%i
 for /f "delims=" %%i in ('dir /b /a-d "32X_G*"') do SET 32XG=%%i
 
 :DreamcastGUESS
-if exist "%GBE%\%EMUZ%\%NULLDC%" (goto :DC)
-if exist "%GBG%\%GAM%\%CONS%\%SEGDC%" (goto :DC)
+if exist "%GBE%\%EMUZ%\%NULLDC%" (call :DC)
+if exist "%GBE%\%EMUZ%\%NULLDC%" (call :DC2)
 goto :PCFXGUESS
 
 :BMSX
@@ -224,6 +224,13 @@ for /f "delims=" %%i in ('dir /b /a-d "MSX2.ROM"') do copy /y "%GBE%\%EMUZ%\%BMS
 for /f "delims=" %%i in ('dir /b /a-d "MSX2P.ROM"') do copy /y "%GBE%\%EMUZ%\%BMSX%"
 for /f "delims=" %%i in ('dir /b /a-d "MSX2PEXT.ROM"') do copy /y "%GBE%\%EMUZ%\%BMSX%"
 
+
+:DC2
+set EMUZN=SEGDC
+if not exist "%GBE%\%EMUZ%\%DMUL%" (SET emuExists=1)
+for /f "delims=" %%i in ('dir /b /a-d "dc.zip"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%DMUL%\roms"
+exit /b
+
 :DC
 set EMUZN=SEGDC
 REM CALL "%GBC%\BiosCRC.bat">>"%GBC%\logs\BiosCRC.log"
@@ -234,6 +241,7 @@ for /f "delims=" %%i in ('dir /b /a-d "DC - Utopia CD Loader V1.1*"') do copy /Y
 for /f "delims=" %%i in ('dir /b /a-d "DC - VMS BIOS (Full)*"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%NULLDC%\data"
 for /f "delims=" %%i in ('dir /b /a-d "dc_*"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%NULLDC%\data"
 if exist "%GBE%\%EMUZ%\%RTROA%\%RTROA%.exe" for /f "delims=" %%a in ('dir /b/a-d "*dc_*") do copy /Y "%%~a" "%GBE%\%EMUZ%\%RTROA%\system\dc\%%~a" 
+exit /b
 
 :PCFXGUESS
 if exist "%GBE%\%EMUZ%\%OOTK%" (goto :PCFX)
@@ -262,10 +270,23 @@ if exist "%GBG%\%GAM%\%CONS%\%NAOMI%" (goto :NAOMI) ELSE (goto :ATMSGUESS)
 set EMUZN=NAOMI
 REM CALL "%GBC%\BiosCRC.bat">>"%GBC%\logs\BiosCRC.log"
 if not exist "%GBE%\%EMUZ%\%DMUL%" (SET emuExists=1)
-for /f "delims=" %%i in ('dir /b /a-d "*NAOMI*"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%DMUL%\"
-for /f "delims=" %%i in ('dir /b /a-d "f355bios.zip"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%DMUL%\"
-for /f "delims=" %%i in ('dir /b /a-d "hod2bios.zip"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%DMUL%\"
-for /f "delims=" %%i in ('dir /b /a-d "airlbios.zip"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%DMUL%\"
+for /f "delims=" %%i in ('dir /b /a-d "*NAOMI*"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%DMUL%\roms\"
+for /f "delims=" %%i in ('dir /b /a-d "f355bios.zip"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%DMUL%\roms\"
+for /f "delims=" %%i in ('dir /b /a-d "hod2bios.zip"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%DMUL%\roms\"
+for /f "delims=" %%i in ('dir /b /a-d "airlbios.zip"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%DMUL%\roms\"
+
+
+:HIKARUGUESS
+if exist "%GBE%\%EMUZ%\%DMUL%" (goto :HIKARU)
+if exist "%GBG%\%GAM%\%CONS%\%HIKARU%" (goto :HIKARU)
+goto :X68KGUESS
+
+:HIKARU
+set EMUZN=HIKARU
+REM CALL "%GBC%\BiosCRC.bat">>"%GBC%\logs\BiosCRC.log"
+if not exist "%GBE%\%EMUZ%\%DMUL%" (SET emuExists=1)
+for /f "delims=" %%i in ('dir /b /a-d "*%HIKARU%*"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%DMUL%\roms\"
+for /f "delims=" %%i in ('dir /b /a-d "hikaru.zip"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%DMUL%\roms\"
 
 
 :ATMSGUESS
@@ -277,8 +298,8 @@ goto :X68KGUESS
 set EMUZN=ATMS
 REM CALL "%GBC%\BiosCRC.bat">>"%GBC%\logs\BiosCRC.log"
 if not exist "%GBE%\%EMUZ%\%DMUL%" (SET emuExists=1)
-for /f "delims=" %%i in ('dir /b /a-d "*%ATMS%*"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%DMUL%"
-for /f "delims=" %%i in ('dir /b /a-d "awbios.zip"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%DMUL%"
+for /f "delims=" %%i in ('dir /b /a-d "*%ATMS%*"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%DMUL%\roms"
+for /f "delims=" %%i in ('dir /b /a-d "awbios.zip"') do copy /Y "%%~i" "%GBE%\%EMUZ%\%DMUL%\roms"
 
 
 :X68KGUESS

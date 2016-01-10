@@ -11,6 +11,8 @@ if /i "%CSTCONS%"=="%MSDS%" goto :AFTER
 if /i "%CSTCONS%"=="%ARCD%" goto :KEEP
 if /i "%CSTCONS%"=="%NEOGE%" goto :KEEP
 if /i "%CSTCONS%"=="%NAOMI%" goto :KEEP
+if /i "%CSTCONS%"=="%HIKARU%" goto :KEEP
+if /i "%CSTCONS%"=="%GALCO%" goto :KEEP
 if /i "%CSTCONS%"=="%ATMS%" goto :KEEP
 if /i "%CSTCONS%"=="%SEGM2%" goto :KEEP
 if /i "%CSTCONS%"=="%SEGM3%" goto :KEEP
@@ -261,6 +263,8 @@ if /i "%CSTCONS%"=="%SEGM2%" CALL "%GBC%\model2Alias.bat">>"%GBC%\logs\model2Ali
 if /i "%CSTCONS%"=="%SEGM3%" CALL "%GBC%\model3Alias.bat">>"%GBC%\logs\model3Alias.log"
 if /i "%CSTCONS%"=="%NAOMI%" CALL "%GBC%\naomiAlias.bat">>"%GBC%\logs\naomiAlias.log"
 if /i "%CSTCONS%"=="%ATMS%" CALL "%GBC%\atomisAlias.bat">>"%GBC%\logs\atomisAlias.log"
+if /i "%CSTCONS%"=="%HIKARU%" CALL "%GBC%\hikaruAlias.bat">>"%GBC%\logs\hikaruAlias.log"
+if /i "%CSTCONS%"=="%GALECO%" CALL "%GBC%\galecoAlias.bat">>"%GBC%\logs\galecoAlias.log"
 if /i "%CSTCONS%"=="%SEGAMD%" CALL "%GBC%\megaDriveAlias.bat">>"%GBC%\logs\megaDriveAlias.log"
 if /i "%CSTCONS%"=="%TAITX%" CALL "%GBC%\TAITXAlias.bat">>"%GBC%\logs\TAITXAlias.log"
 

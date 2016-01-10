@@ -68,8 +68,8 @@ if "%CONSA%"=="%ACBBC%" set EMUT=%BEEBEM%
 if "%CONSA%"=="%ACELE%" set EMUT=%ELECEM%
 if "%CONSA%"=="%PC88%" set EMUT=%M88%
 if "%CONSA%"=="%PC98%" set EMUT=%NEKO%
-if "%CONSA%"=="%SNES%" set EMUT=%MEDN%
-if "%CONSA%"=="%SFAM%" set EMUT=%MEDN%
+if "%CONSA%"=="%SNES%" set EMUT=%SN9X%
+if "%CONSA%"=="%SFAM%" set EMUT=%SN9X%
 if "%CONSA%"=="%NGBA%" set EMUT=%VGBA%
 if "%CONSA%"=="%NDS%" set EMUT=%DESMUME%
 if "%CONSA%"=="%TRIF%" set EMUT=%DOLPH%
@@ -101,6 +101,8 @@ if "%CONSA%"=="%SEGM3%" set EMUT=%SPRM3%
 if "%CONSA%"=="%SEGM2%" set EMUT=%M2EMU%
 if "%CONSA%"=="%NAOMI%" set EMUT=%DMUL%
 if "%CONSA%"=="%ATMS%" set EMUT=%DMUL%
+if "%CONSA%"=="%HIKARU%" set EMUT=%DMUL%
+if "%CONSA%"=="%GALCO%" set EMUT=%DMUL%
 if "%CONSA%"=="%TAITX%" set EMUT=%APCL%
 if "%CONSA%"=="%WIN32%" exit /b
 exit /b

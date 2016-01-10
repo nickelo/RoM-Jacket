@@ -17,6 +17,8 @@ goto :MONITORS
 
 :MONITORS
 set DB=2
+if /i "%CSTCONS%"=="%HIKRU%" goto :MMONON
+if /i "%CSTCONS%"=="%GALCO%" goto :MMONON
 if /i "%CSTCONS%"=="%ATMS%" goto :MMONON
 if /i "%CSTCONS%"=="%NAOMI%" goto :MMONON
 if /i "%GBM%"=="1" set DB=1
@@ -134,12 +136,12 @@ if "%DAMVAR%" NEQ "[DMT]" set DB=3
 set DFLTBTN=3
 REM if "%JOYVAR%"=="" set DFLTBTN=4
 if "%JOYVAR%"=="" goto :%PREFIX%2OFF
-"%GBC%\wbox.exe" "RJ_GUI" "#%CSTCONS%#^###PLAYER 2###^^-KEYBOARD-^   Default profiles with ''KEYBOARD'' keys are created^^-BLANK-^   This turns Xpadder on but loads an emtpy profile.^^-JOY-^   Emulator configuration files use ''JOYSTICK'' input.^Xpadder profiles have ''Universal Functionality'' ONLY^^-DISABLE-^   Disable Xpadder" "Keyboard;Blank;Joy;Disable" /DB=%DFLTBTN%
+"%GBC%\wbox.exe" "RJ_GUI" "#%CSTCONS%#^###PLAYER 2###^^-KEYBOARD-^   Default profiles with ''KEYBOARD'' keys are created^^-BLANK-^   This turns Xpadder on but loads an emtpy profile.^^-JOY-^   Emulator configuration files use ''JOYSTICK'' input.^Xpadder profiles have ''Universal Functionality'' ONLY^" "Keyboard;Blank;Joy" /DB=%DFLTBTN%
 if %ERRORLEVEL%==1 goto :%PREFIX%2ON
 if %ERRORLEVEL%==2 goto :%PREFIX%2BLNK
 if %ERRORLEVEL%==3 goto :%PREFIX%2EMU
-if %ERRORLEVEL%==4 goto :%PREFIX%2OFF
-if %ERRORLEVEL%==5 goto :HELP2
+REM if %ERRORLEVEL%==4 goto :%PREFIX%2OFF
+if %ERRORLEVEL%==4 goto :HELP2
 goto :INDVCONT
 
 :HELP2
@@ -211,7 +213,6 @@ goto :reprocess
 set DTCST=0
 SET DTOFF=1
 
-
 :reprocess
 if "%INDVGAME%"=="1" goto :INDVOUT
 "%GBC%\wbox.exe" "RJ_GUI" "#%CSTCONS%#^### LAUNCHER CREATION ###^^-INITIALIZE-^   Will delete and recreate all launchers.^^-UPDATE	-^   Will only create launchers for games without one." "Initialize;Update" /DB=2
@@ -265,7 +266,3 @@ goto :INDVOUT
 set CANCELLED=1
 
 :INDVOUT
-	
-	
-	
-	

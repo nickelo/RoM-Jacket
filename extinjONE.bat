@@ -39,6 +39,7 @@ if /I "%ALLEXT%"==".smc" "%GBC%\fart.exe" "*.bat" [EXT] smc
 if /I "%ALLEXT%"==".sfc" "%GBC%\fart.exe" "*.bat" [EXT] sfc
 if /I "%ALLEXT%"==".pbp" "%GBC%\fart.exe" "*.bat" [EXT] pbp
 if /I "%ALLEXT%"==".cdi" "%GBC%\fart.exe" "*.bat" [EXT] cdi
+if /I "%ALLEXT%"==".gdi" "%GBC%\fart.exe" "*.bat" [EXT] gdi
 if /I "%ALLEXT%"==".td0" "%GBC%\fart.exe" "*.bat" [EXT] td0
 if /I "%ALLEXT%"==".sdf" "%GBC%\fart.exe" "*.bat" [EXT] sdf
 if /I "%ALLEXT%"==".pgm" "%GBC%\fart.exe" "*.bat" [EXT] pgm

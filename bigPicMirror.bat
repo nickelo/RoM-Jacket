@@ -80,6 +80,8 @@ if "%CSTCONS%"=="%SEGM3%" goto :SPECIAL
 if "%CSTCONS%"=="%SEGM2%" goto :SPECIAL
 if "%CSTCONS%"=="%NEOGE%" goto :SPECIAL
 if "%CSTCONS%"=="%NAOMI%" goto :SPECIAL
+if "%CSTCONS%"=="%GALCO%" goto :SPECIAL
+if "%CSTCONS%"=="%HIKARU%" goto :SPECIAL
 if "%CSTCONS%"=="%ATMS%" goto :SPECIAL
 if "%CSTCONS%"=="%CPS%" goto :SPECIAL
 if "%CSTCONS%"=="%CPS2%" goto :SPECIAL

@@ -394,6 +394,7 @@ exit /b
 for /f "delims=%" %%a ("dc.zip") do SET ROMRNM=%%~a
 exit /b
 :C0162017
+:B4015DF2
 for /f "delims=%" %%a ("hikaru.zip") do SET ROMRNM=%%~a
 exit /b
 :39BFF762

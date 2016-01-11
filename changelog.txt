@@ -151,3 +151,5 @@ HISTORY
 12/30/2015: Snes9x set as default emulator for snes/sfc.  Bugfixes.
 =========================================
 01/04/2016: ''indvidual game'' configuration fixes. snes9x start button for kb fixed. ra updates
+=========================================
+01/10/2016: mirror updates

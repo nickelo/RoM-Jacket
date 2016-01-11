@@ -1,7 +1,7 @@
 Fusion\Fusion.7z:60eeb5381321a8334f8d0a7a0f011930
 Fusion\vt.txt:5c234ee4aebe7a73303d379703a04b59
-antimicro\antimicro-32.7z:bfeaabe421f9b1ef76d5a2c11855a1d4
-antimicro\antimicro-64.7z:f568c2e9a8304c664a369f894598a813
+antimicro\antimicro-32.7z:c75e00a1efd316445e869c747c2d980b
+antimicro\antimicro-64.7z:b911232112cd6762ccf65c9003ead14f
 antimicro\vt.txt:291171214f6e98b4dca2fa7717f4ab9b
 Mednafen\Mednafen-32.7z:5d784e711f8bebde35596f0634543329
 Mednafen\Mednafen-64.7z:e0f20ffa09b6d7a85a5ee645c28b3968
@@ -220,8 +220,6 @@ Xpadder\vt.txt:e3da99fe1a87d0352829c8ae35df5f74
 Xpadder\Xpadder.7z:1ece97d5a3161232f17f7fb816d89604
 retroArch\retroArch-32.7z:d02f45a2d08c6b8d413487b5977e70e7
 retroArch\retroArch-64.7z:a4c71afd8e9bc3d55693fc7fabbf449e
-retroArch\retroArch-64.DEL:42c3e4ed68ec6c2e863687c28283369f
-retroArch\vt.txt:1e2cda5fc1c8e1d55558d9afff76a14c
 retroFE\retroFE.7z:a22fb859096bc8e5713c876ce9e9c9d1
 retroFE\vt.txt:afb745ffca040a9183dfa45d84c22c42
 Backdrop\Backdrop.zip:a4c350411583216cca24c7b29cce3eef
@@ -241,8 +239,8 @@ PS3Driver\PS3Driver.7z:584f960cd44697998f42bd6bb61fd675
 PS3Driver\vt.txt:62f7d59560e6144dd3d80b790df22612
 cps3emulator\cps3emulator.7z:86416235af56eb01c28e89e884ac7ad3
 cps3emulator\vt.txt:f5ec8078a820cd493623080925fd7b3b
-snes9x\snes9x-32.7z:abbacd9a6f0a6640c21c6c8cfca901e7
-snes9x\snes9x-64.7z:0955fd5b0b815304409269c75435fbfa
+snes9x\snes9x-32.7z:705b5d8203d87043cc94719d137cb557
+snes9x\snes9x-64.7z:270a43a397af6b5ff8873186ea891941
 snes9x\vt.txt:39bc45a0023bc0f87d65943eca0e799c
 pcsxr\pcsxr.7z:6f824dc9a4c8f209916c41b9e5d4670d
 pcsxr\vt+.txt:f9204da4e253bf54ca7b8af58aee8dec

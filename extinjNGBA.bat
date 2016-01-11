@@ -32,9 +32,11 @@ if "%CEMU%"=="%VGBA%" "%GBC%\fart.exe" "vbam.ini" [NGBABIOS] "%NGBABIOS%"
 popd
 
 if "%CANCELLED%"=="1" exit /b
+if "%CEMU%"=="%VGBA%" set CFGPR=vbam.ini
+if "%CEMU%"=="%MGBA%" set CFGPR=*.ini
 for %NIVA% %%g IN (%NEWGAMDIR%) DO (
 if "%CEMU%"=="%MEDN%" "%GBC%\fart.exe" "%MEDN%*.cfg" [GBABIOS] "%NGBABIOS%"
-if "%RECONF%"=="1" %COPYTYPE% "%GBC%\net\%LNCH%\%NGBA%\vbam.ini" "%%~g\vbam.ini"
+if "%RECONF%"=="1" %COPYTYPE% "%GBC%\net\%LNCH%\%NGBA%\%CFGPR%" "%%~g"
 if "%CEMU%"=="%MEDN%" copy /Y "%GBC%\net\%LNCH%\%NGBA%\%MEDN%.cfg" "%%~g"
 set CSTM=%%~g
 if "%INDVGAME%"=="1" set CSTM=%%~nxg

@@ -214,7 +214,7 @@ goto :INITGUI
 :INICHK
 del /q "%GBC%\updatelist.ini"
 %BSTRT% "%WBUSY%" "RJ_GUI" "Checking for updates" /marquee
-%WSTRT% "%WGET%" --no-check-certificate -t 1 -N -w 1 "http://dl.dropbox.com/u/413403/updatelist.ini" -P "%GBC%"
+%WSTRT% "%WGET%" --no-check-certificate -t 1 -N -w 1 "https://raw.githubusercontent.com/romjacket/RoM-Jacket/master/updatelist.ini" -P "%GBC%"
 pushd "%GBC%"
 for /f "tokens=1 delims=/ " %%a in ('fciv.exe -sha1 "%GBC%\updatelist.ini"') do if "%%~a" NEQ "File" set UPDATESTAMP=%%~a
 for /f "tokens=1 delims=/ " %%a in ('fciv.exe -sha1 "%GBC%\currentversion.set"') do if "%%~a" NEQ "File" set CURRENTSTAMP=%%~a
@@ -223,7 +223,7 @@ if "%UPDATESTAMP%" NEQ "%CURRENTSTAMP%" set UPDCHK=UPD
 if "%UPDATESTAMP%" NEQ "%CURRENTSTAMP%" set UPDAR=####Update Available####
 del /q "%GBC%\updaterepo.ini"
 pushd "%GBC%"
-%WSTRT% "%WGET%" --no-check-certificate -t 1 -N -w 1 "http://dl.dropbox.com/u/413403/updaterepo.ini" -P "%GBC%"
+%WSTRT% "%WGET%" --no-check-certificate -t 1 -N -w 1 "https://raw.githubusercontent.com/romjacket/RoM-Jacket/master/updaterepo.ini" -P "%GBC%"
 for /f "tokens=1 delims=/" %%a in ('fciv.exe -sha1 "%GBC%\updaterepo.ini"') do if "%%~a" NEQ "File" set UPDATESTAMP=%%~a
 for /f "tokens=1 delims=/" %%a in ('fciv.exe -sha1 "%GBC%\currentArchive.set"') do if "%%~a" NEQ "File" set CURRENTSTAMP=%%~a 	
 popd
@@ -282,7 +282,7 @@ goto :INITIALMENU
 
 :CHK
 if exist "%GBC%\updatelist.ini" del /q "%GBC%\updatelist.ini"
-%WSTRT% "%WGET%" --no-check-certificate -t 1 -N -w 1 "http://dl.dropbox.com/u/413403/updatelist.ini" -P "%GBC%"
+%WSTRT% "%WGET%" --no-check-certificate -t 1 -N -w 1 "https://raw.githubusercontent.com/romjacket/RoM-Jacket/master/updatelist.ini" -P "%GBC%"
 if not exist "%GBC%\updatelist.ini" goto :INITIALMENU
 pushd "%GBC%"
 for /f "tokens=1 delims=/ " %%a in ('fciv.exe -sha1 "%GBC%\updatelist.ini"') do if "%%~a" NEQ "File" set UPDATESTAMP=%%~a
@@ -684,7 +684,7 @@ call "%GBC%\setupXPD.bat">>"%GBC%\logs\setupXPD.log"
 goto :INSMENU
 
 :GETARC
-if "%UPDTBUTTON%"=="Check;Menu" if "%UPDATEREPO%"=="1" %WSTRT% "%WGET%" --no-check-certificate -t 1 -N -w 1 "http://dl.dropbox.com/u/413403/updaterepo.ini" -P "%GBC%"
+if "%UPDTBUTTON%"=="Check;Menu" if "%UPDATEREPO%"=="1" %WSTRT% "%WGET%" --no-check-certificate -t 1 -N -w 1 "https://raw.githubusercontent.com/romjacket/RoM-Jacket/master/updaterepo.ini" -P "%GBC%"
 call "%GBC%\repoUpdate.bat">>"%GBC%\logs\repoUpdate.log"
 goto :INSOPTIONS
 

@@ -10,7 +10,8 @@ for /f "delims=" %%a in ('dir /b/l/a "*.zip"') do (
 SET ROM=%%~nxa
 call :"%%~a"
 )
-move /y "awbios.zip" "%GBE%\%EMUZ%\%DMUL%"
+move /y "hikaru.zip" "%GBE%\%EMUZ%\%DMUL%\roms\hikaru.zip"
+move /y "mie.zip" "%GBE%\%EMUZ%\%DMUL%\roms\mie.zip"
 exit /b
 
 :"airtrix.zip"

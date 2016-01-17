@@ -14,28 +14,38 @@ call "%GBC%\cfgFileInj.bat">>"%GBC%\logs\cfgFileInj.log"
 if "%CEMU%"=="%MEDN%" "%GBC%\fart.exe" "%MEDN%*.cfg" [EMUPTH] "%GBE%\%EMUZ%\%MEDN%"
 if "%CEMU%"=="%MEDN%" call "%GBC%\mednafenJoy.bat">>"%GBC%\logs\%CSTCONS%mednafenjoy.log"
 if "%CEMU%"=="%MEDN%" call "%GBC%\mednInj.bat">>"%GBC%\logs\%CSTCONS%mednInj.log"
+
 if "%CEMU%"=="%VGBA%" call "%GBC%\vbaInj.bat">>"%GBC%\logs\%CSTCONS%vbaInj.log"
+
 if "%CEMU%"=="%MGBA%" call "%GBC%\mgbaInj.bat">>"%GBC%\logs\%CSTCONS%mgbaInj.log"
-for /f "delims=" %%a in ('dir /b/a-d-h "%GBE%\%EMUZ%\%MEDN%\GBA*.rom") do set NGBABIOS=%%~a
-for /f "delims=" %%a in ('dir /b/a-d-h "%GBE%\%EMUZ%\%MEDN%\GBA*.bin") do set NGBABIOS=%%~a
-for /f "delims=" %%a in ('dir /b/a-d-h "%GBE%\%EMUZ%\%VGBA%\GBA*.rom") do set NGBABIOS=%%~a
-for /f "delims=" %%a in ('dir /b/a-d-h "%GBE%\%EMUZ%\%VGBA%\GBA*.bin") do set NGBABIOS=%%~a
+
+if "%CEMU%"=="%MGBA%" for /f "delims=" %%a in ('dir /b/a-d-h "%GBE%\%EMUZ%\%MGBA%\GBA*.rom") do set NGBABIOS=%%~a
+if "%CEMU%"=="%MGBA%" for /f "delims=" %%a in ('dir /b/a-d-h "%GBE%\%EMUZ%\%MGBA%\GBA*.bin") do set NGBABIOS=%%~a
+if "%CEMU%"=="%MEDN%" for /f "delims=" %%a in ('dir /b/a-d-h "%GBE%\%EMUZ%\%MEDN%\GBA*.rom") do set NGBABIOS=%%~a
+if "%CEMU%"=="%MEDN%" for /f "delims=" %%a in ('dir /b/a-d-h "%GBE%\%EMUZ%\%MEDN%\GBA*.bin") do set NGBABIOS=%%~a
+if "%CEMU%"=="%VGBA%" for /f "delims=" %%a in ('dir /b/a-d-h "%GBE%\%EMUZ%\%VGBA%\GBA*.rom") do set NGBABIOS=%%~a
+if "%CEMU%"=="%VGBA%" for /f "delims=" %%a in ('dir /b/a-d-h "%GBE%\%EMUZ%\%VGBA%\GBA*.bin") do set NGBABIOS=%%~a
+
 if "%GGOFF%"=="1" "%GBC%\inifile.exe" "vbam.ini" [preferences] batteryDir==
 if "%GGOFF%"=="1" "%GBC%\inifile.exe" "vbam.ini" [preferences] saveDir==
 if "%GGOFF%"=="1" "%GBC%\inifile.exe" "vbam.ini" [preferences] captureDir==
 if "%GGOFF%"=="1" "%GBC%\inifile.exe" "vbam.ini" [preferences] aviRecordDir==
 if "%GGOFF%"=="1" "%GBC%\inifile.exe" "vbam.ini" [preferences] movieRecordDir==
 if "%GGOFF%"=="1" "%GBC%\inifile.exe" "vbam.ini" [preferences] soundRecordDir==
+
 if "%CEMU%"=="%MGBA%" "%GBC%\fart.exe" "config.ini" [EMUPTH] "%GBE%\%EMUZ%\%MGBA%"
+if "%CEMU%"=="%MGBA%" "%GBC%\fart.exe" "config.ini" [GBABIOS] "%NGBABIOS%"
+
 if "%CEMU%"=="%VGBA%" "%GBC%\fart.exe" "vbam.ini" [EMUPTH] "%GBE%\%EMUZ%\%VGBA%"
 if "%CEMU%"=="%VGBA%" "%GBC%\fart.exe" "vbam.ini" [NGBABIOS] "%NGBABIOS%"
+
+if "%CEMU%"=="%MEDN%" "%GBC%\fart.exe" "%MEDN%*.cfg" [GBABIOS] "%NGBABIOS%"
 popd
 
 if "%CANCELLED%"=="1" exit /b
 if "%CEMU%"=="%VGBA%" set CFGPR=vbam.ini
 if "%CEMU%"=="%MGBA%" set CFGPR=*.ini
 for %NIVA% %%g IN (%NEWGAMDIR%) DO (
-if "%CEMU%"=="%MEDN%" "%GBC%\fart.exe" "%MEDN%*.cfg" [GBABIOS] "%NGBABIOS%"
 if "%RECONF%"=="1" %COPYTYPE% "%GBC%\net\%LNCH%\%NGBA%\%CFGPR%" "%%~g"
 if "%CEMU%"=="%MEDN%" copy /Y "%GBC%\net\%LNCH%\%NGBA%\%MEDN%.cfg" "%%~g"
 set CSTM=%%~g

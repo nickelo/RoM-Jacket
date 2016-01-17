@@ -10,16 +10,14 @@ for /f "delims=" %%a in ('dir /b/l/a "*.zip"') do (
 SET ROM=%%~nxa
 call :"%%~a"
 )
-move /Y dc.zip "%GBE%\%EMUZ%\%DMUL%"
-move /Y naomi2.zip "%GBE%\%EMUZ%\%DMUL%"
-move /Y naomi.zip "%GBE%\%EMUZ%\%DMUL%"
-move /Y naomigd.zip "%GBE%\%EMUZ%\%DMUL%"
-move /Y awbios.zip "%GBE%\%EMUZ%\%DMUL%"
-move /Y ngdup23a.zip "%GBE%\%EMUZ%\%DMUL%"
-move /Y ngdup23c.zip "%GBE%\%EMUZ%\%DMUL%"
-move /Y ngdup23e.zip "%GBE%\%EMUZ%\%DMUL%"
-move /Y ngdup42a.zip "%GBE%\%EMUZ%\%DMUL%"
-move /Y mie.zip "%GBE%\%EMUZ%\%DMUL%"
+move /Y naomi2.zip "%GBE%\%EMUZ%\%DMUL%\roms\naomi2.zip"
+move /Y naomi.zip "%GBE%\%EMUZ%\%DMUL%\roms\naomi.zip"
+move /Y naomigd.zip "%GBE%\%EMUZ%\%DMUL%\roms\naomigd.zip"
+move /Y ngdup23a.zip "%GBE%\%EMUZ%\%DMUL%\roms\ngdup23a.zip"
+move /Y ngdup23c.zip "%GBE%\%EMUZ%\%DMUL%\roms\ngdup23c.zip"
+move /Y ngdup23e.zip "%GBE%\%EMUZ%\%DMUL%\roms\ngdup23e.zip"
+move /Y ngdup42a.zip "%GBE%\%EMUZ%\%DMUL%\roms\ngdup42a.zip"
+move /Y mie.zip "%GBE%\%EMUZ%\%DMUL%\roms\mie.zip"
 exit /b
 
 :"18wheelr.zip"

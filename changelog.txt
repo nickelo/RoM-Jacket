@@ -153,3 +153,9 @@ HISTORY
 01/04/2016: ''indvidual game'' configuration fixes. snes9x start button for kb fixed. ra updates
 =========================================
 01/10/2016: mirror updates
+=========================================
+01/13/2016: Dropbox mirrors depreciated
+=========================================
+01/13/2016: demul fixes
+=========================================
+01/16/2016: Moving to github

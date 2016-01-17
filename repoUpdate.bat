@@ -6,7 +6,7 @@ if exist "%GBC%\updaterepo.ini" goto :SELSOME
 
 
 %BSTRT% "%WBUSY%" "RJ_GUI" "Retrieving update list." /marquee
-%WSTRT% "%WGET%" --no-check-certificate -t 2 -N -w 1 "http://dl.dropbox.com/u/413403/updaterepo.ini" -P "%GBC%"
+%WSTRT% "%WGET%" --no-check-certificate -t 2 -N -w 1 "https://raw.githubusercontent.com/romjacket/RoM-Jacket/masterupdater/repo.ini" -P "%GBC%"
 
 
 :SELSOME

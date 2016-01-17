@@ -19,6 +19,8 @@ if "%INDVGAME%"=="1" set CSTM=%%~nxg
 if "%RECONF%"=="1" %COPYTYPE% "%GBC%\net\%LNCH%\%SEGDC%\%NULLDC%.cfg" "%%~g"
 if "%RECONF%"=="1" %COPYTYPE% "%GBC%\net\%LNCH%\%SEGDC%\*.ini" "%%~g"
 pushd "%%~g"
+mkdir ".scache"
+attrib +H ".scache"
 call :injext
 )
 
@@ -58,6 +60,8 @@ if /I "%%~xa"==".cue" SET DCIMG=1
 if "%DCIMG%" NEQ "" CALL "%GBC%\Segdcinject.bat"
 if "%DCIMG%" NEQ "" popd
 if "%DCIMG%" NEQ "" exit /b
+
+if "%CEMU%"=="%DMUL%" move /y "dc.zip" "%GBE%\%EMUZ%\%DMUL%\roms\dc.zip"
 
 for /f "delims=" %%a in ('dir /b/a-d-h "*.cdi" "*.mdf" "*.nrg" "*.gdi" "*.iso"') do (
 set DCROM=%%~a

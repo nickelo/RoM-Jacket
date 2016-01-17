@@ -1,10 +1,12 @@
 set CFGFILE=blueMSX Default.config
+
 if "%P1JOYTYPE%"=="JOY" call "%GBC%\bmsxJoy1.bat">>"%GBC%\logs\bmsxJoy1.log"
 REM if "%P2JOYTYPE%"=="JOY" call "%GBC%\bmsxJoy2.bat">>"%GBC%\logs\bmsxJoy2.log"
 if "%P1JOYTYPE%"=="KB" call "%GBC%\bmsxkb1.bat">>"%GBC%\logs\bmsxkb1.log"
 REM if "%P2JOYTYPE%"=="KB" call "%GBC%\bmsxkb2.bat">>"%GBC%\logs\bmsxkb2.log"
 call "%GBC%\cfgfileinj.bat">>"%GBC%\logs\cfgfileinj.log"
 if "%PRVST%"=="1" goto :PRESETS
+
 :NOPRESET
 if "%ALLCONSOLES%"=="" goto :QUERY
 "%GBC%\fart.exe" "%BMSX%.ini" [REZX] "%DREZX%"

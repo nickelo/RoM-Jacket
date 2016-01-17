@@ -4,7 +4,7 @@ popd
 del /q "%GBC%\update.vbs"
 del /q "%GBC%\download.ini"
 del /q "%GBC%\updatelist.ini"
-%WSTRT% "%WGET%" --no-check-certificate -t 2 -N -w 1 "http://dl.dropbox.com/u/413403/updatelist.ini" -P "%GBC%"
+%WSTRT% "%WGET%" --no-check-certificate -t 2 -N -w 1 "https://raw.githubusercontent.com/romjacket/RoM-Jacket/master/updatelist.ini" -P "%GBC%"
 copy /y "%GBC%\update.set" "%GBC%\update.vbs"
 "%GBC%\fart.exe" "%GBC%\update.vbs" [CURRENTVERSION] "%GBC%\currentversion.set"
 "%GBC%\fart.exe" "%GBC%\update.vbs" [UPDATEFILE] "%GBC%\updatelist.ini"
@@ -21,6 +21,7 @@ popd
 if "%DWNLNUM%"=="" del /q "%GBC%\download.ini"
 :UPDATE
 if not exist "%GBC%\download.ini" goto :NOUPDATES
+goto :GITREPO
 for /f "tokens=1 delims=#" %%a in ('type "%GBC%\download.ini"') do (
 SET TRANSF=%%~nxa
 SET TRANSG=%%~a
@@ -34,13 +35,18 @@ for %%a in ("%TRANSG:\=/%") do set URIP=%%~a
 for %%a in ("%%TRANSG:%TRANSF%=%%") do call set TRANSPATH=%%~a
 for %%a in ("%GBC%\%TRANSPATH%") do set TRANSTMP=%%~a
 for %%a in ("%TRANSTMP:~0,-1%") do set TRANSP=%%~a
-%WSTRT% "%WGET%" --no-check-certificate -t 2 -N -w 1 "%MIR7%/SOURCE/%URIP%" -P "%TRANSP%"
+%WSTRT% "%WGET%" --no-check-certificate -t 2 -N -w 1 "%GITREPO%\%URIP%" -P "%TRANSP%"
 exit /b
 
+:GITREPO
+%BSTRT% "%WFINS%" "RJ_GUI" "NOTIFICATION"  /Stop /timeout:3
+"%GBC%\wbox.exe" "RJ_GUI" "Live-Updates can be found at http://github.com/romjacket/RoM-Jacket/^Git option here soon^" "Great!" /BW=200 /DB=1 /TM=3
+if %errorlevel%==1 goto :COMPLETE
+goto :QUITOUT
 
 :NOUPDATES
 "%GBC%\wbox.exe" "RJ_GUI" "There are no updates at this time" "Okay" /TM=1
 :COMPLETE
 pushd "%GBC%"
-%BSTRT% "%WFINS%" "RJ_GUI" "Complete"  /Stop /timeout:3
+REM %BSTRT% "%WFINS%" "RJ_GUI" "Complete"  /Stop /timeout:3
 popd

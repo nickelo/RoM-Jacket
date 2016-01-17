@@ -567,6 +567,16 @@ if "%CFGNUM%"=="12" "%GBC%\fart.exe" "%CFGFILE%" [CLOCKFAST] "%CFGVAL%"
 if "%CFGNUM%"=="13" "%GBC%\fart.exe" "%CFGFILE%" [X86TYPE] "%CFGVAL%"
 if "%CFGNUM%"=="14" "%GBC%\fart.exe" "%CFGFILE%" [PADTYPE] "%CFGVAL%"
 exit /b
+:MGBA
+set CFGFILE=config.ini
+if "%CFGNUM%"=="1" "%GBC%\fart.exe" "%CFGFILE%" [USEBIOS] "%CFGVAL%"
+if "%CFGNUM%"=="2" "%GBC%\fart.exe" "%CFGFILE%" [LOCKASPECT] "%CFGVAL%"
+if "%CFGNUM%"=="3" "%GBC%\fart.exe" "%CFGFILE%" [SYNCSND] "%CFGVAL%"
+if "%CFGNUM%"=="4" "%GBC%\fart.exe" "%CFGFILE%" [SYNCVID] "%CFGVAL%"
+if "%CFGNUM%"=="5" "%GBC%\fart.exe" "%CFGFILE%" [RESAMPVID] "%CFGVAL%"
+if "%CFGNUM%"=="6" "%GBC%\fart.exe" "%CFGFILE%" [REWENABLE] "%CFGVAL%"
+if "%CFGNUM%"=="7" "%GBC%\fart.exe" "qt.ini" [DISPDRV] "%CFGVAL%"
+exit /b
 :VBA
 set CFGFILE=vbam.ini
 if "%CFGNUM%"=="1" "%GBC%\fart.exe" "%CFGFILE%" [REZX] "%CFGVAL%"

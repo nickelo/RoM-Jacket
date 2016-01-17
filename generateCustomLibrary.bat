@@ -58,6 +58,8 @@ goto :QUITOUT
 mkdir "%GBG%\%ROMJ%\SORTED ARCHIVES"
 mkdir "%GBG%\%ROMJ%\SORTED ARCHIVES\RARs"
 mkdir "%GBG%\%ROMJ%\SORTED ARCHIVES\ZIPs"
+mkdir "%GBG%\%ROMJ%\SORTED ARCHIVES\RARs\%CSTCONS%"
+mkdir "%GBG%\%ROMJ%\SORTED ARCHIVES\ZIPs\%CSTCONS% "
 attrib +H "%GBG%\%ROMJ%\SORTED ARCHIVES"
 attrib +H "%GBG%\%ROMJ%\SORTED ARCHIVES\ZIPs"
 attrib +H "%GBG%\%ROMJ%\SORTED ARCHIVES\RARs"
@@ -65,10 +67,10 @@ attrib +H "%GBG%\%ROMJ%\SORTED ARCHIVES\RARs"
 pushd "%GBG%\%GAM%\%CONS%\%CSTCONS%"
 for /f "delims=" %%a in ('dir /b/a-d-h "*.zip" "*.7z" "*.001" "*.rar"') do (
 set ARCFN=%%~a
-if "%%~xa"==".rar" call :RARF
-if "%%~xa"==".zip" call :ZIPF
-if "%%~xa"==".7z" call :ZIPF
-if "%%~xa"==".001" call :ZIPF
+if /i "%%~xa"==".rar" call :RARF
+if /i "%%~xa"==".zip" call :ZIPF
+if /i "%%~xa"==".7z" call :ZIPF
+if /i "%%~xa"==".001" call :ZIPF
 )
 popd
 %BSTRT% "%WFINS%" "RJ_GUI" "Extractions Complete" /Stop /timeout:1
@@ -80,18 +82,18 @@ mkdir "%GBG%\%ROMJ%\SORTED ARCHIVES"
 attrib +H "%GBG%\%ROMJ%\SORTED ARCHIVES"
 for /f "delims=" %%a in ('dir /b/a-d-h "*.zip" "*.7z" "*.001" "*.rar"') do (
 set ARCFN=%%~a
-if "%%~xa"==".rar" call :RARF
-if "%%~xa"==".zip" call :ZIPF
-if "%%~xa"==".7z" call :ZIPF
-if "%%~xa"==".001" call :ZIPF
+if /i "%%~xa"==".rar" call :RARF
+if /i "%%~xa"==".zip" call :ZIPF
+if /i "%%~xa"==".7z" call :ZIPF
+if /i "%%~xa"==".001" call :ZIPF
 )
 exit /b
 
 :RARF
-"%UNRAR%" %EXTYP% -y -o+ "%ARCFN%" "%CD%" && MOVE /Y "%ARCFN%" "%GBG%\%ROMJ%\SORTED ARCHIVES\RARs\%ARCFN%"
+"%UNRAR%" %EXTYP% -y -o+ "%ARCFN%" "%CD%" && MOVE /Y "%ARCFN%" "%GBG%\%ROMJ%\SORTED ARCHIVES\RARs\%CSTCONS%\%ARCFN%"
 exit /b
 :ZIPF
-"%SEVENZIP%" %EXTYP% -y "%ARCFN%" -o"%CD%" && MOVE /Y "%ARCFN%" "%GBG%\%ROMJ%\SORTED ARCHIVES\ZIPs\%ARCFN%"
+"%SEVENZIP%" %EXTYP% -y "%ARCFN%" -o"%CD%" && MOVE /Y "%ARCFN%" "%GBG%\%ROMJ%\SORTED ARCHIVES\ZIPs\%CSTCONS%\%ARCFN%"
 exit /b
 
 
@@ -264,7 +266,7 @@ if /i "%CSTCONS%"=="%SEGM3%" CALL "%GBC%\model3Alias.bat">>"%GBC%\logs\model3Ali
 if /i "%CSTCONS%"=="%NAOMI%" CALL "%GBC%\naomiAlias.bat">>"%GBC%\logs\naomiAlias.log"
 if /i "%CSTCONS%"=="%ATMS%" CALL "%GBC%\atomisAlias.bat">>"%GBC%\logs\atomisAlias.log"
 if /i "%CSTCONS%"=="%HIKARU%" CALL "%GBC%\hikaruAlias.bat">>"%GBC%\logs\hikaruAlias.log"
-if /i "%CSTCONS%"=="%GALECO%" CALL "%GBC%\galecoAlias.bat">>"%GBC%\logs\galecoAlias.log"
+if /i "%CSTCONS%"=="%GALCO%" CALL "%GBC%\galecoAlias.bat">>"%GBC%\logs\galecoAlias.log"
 if /i "%CSTCONS%"=="%SEGAMD%" CALL "%GBC%\megaDriveAlias.bat">>"%GBC%\logs\megaDriveAlias.log"
 if /i "%CSTCONS%"=="%TAITX%" CALL "%GBC%\TAITXAlias.bat">>"%GBC%\logs\TAITXAlias.log"
 

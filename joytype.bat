@@ -75,7 +75,7 @@ set DB=1
 set DFLTBTN=1
 if "%JOYVAR%"=="" goto :%PREFIX%1OFF
 REM if "%JOYVAR%"=="" set DFLTBTN=4
-"%GBC%\wbox.exe" "RJ_GUI" "###PLAYER 2###^^-KEYBOARD-^   Default profiles with ''KEYBOARD'' keys are created^^-BLANK-^   This turns Xpadder on but loads an emtpy profile.^^-JOY-^   Emulator configuration files use ''JOYSTICK'' input.^Xpadder profiles have ''Universal Functionality'' ONLY^" "Keyboard;Blank;Joy" /DB=%DFLTBTN%
+"%GBC%\wbox.exe" "RJ_GUI" "###PLAYER 2###^^-KEYBOARD-^   Default profiles with ''KEYBOARD'' keys are created^^-JOY-^   Emulator configuration files use ''JOYSTICK'' input.^Xpadder profiles have ''Universal Functionality'' ONLY^" "Keyboard;Blank;Joy" /DB=%DFLTBTN%
 if %ERRORLEVEL%==1 goto :%PREFIX%2ON
 if %ERRORLEVEL%==2 goto :%PREFIX%2BLNK
 if %ERRORLEVEL%==3 goto :%PREFIX%2EMU

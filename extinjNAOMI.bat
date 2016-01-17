@@ -20,6 +20,8 @@ SET EXT=
 set CSTM=%%~g
 if "%INDVGAME%"=="1" set CSTM=%%~nxg
 Pushd "%%~g"
+mkdir ".scache"
+attrib +H ".scache"
 if "%RECONF%"=="" CALL :ROBOCOPY
 call :injext
 )

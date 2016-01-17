@@ -65,7 +65,7 @@ if /i "%CSTCONS%"=="%MACINT%" set SHRTN=MACINT
 if /i "%CSTCONS%"=="%MTX%" set SHRTN=MTX
 if /i "%CSTCONS%"=="%MSX%" set SHRTN=MSX
 if /i "%CSTCONS%"=="%MSX2%" set SHRTN=MSX2
-if /i "%CSTCONS%"=="%MSXTR%" set SHRTN=MSXTR
+if /i "%CSTCONS%"=="%MSXT%" set SHRTN=MSXT
 if /i "%CSTCONS%"=="%MZ7%" set SHRTN=MZ7
 if /i "%CSTCONS%"=="%MZ8%" set SHRTN=MZ8
 if /i "%CSTCONS%"=="%N64%" set SHRTN=N64

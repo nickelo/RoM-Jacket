@@ -21,6 +21,8 @@ SET NAROM=
 SET EXT=
 if "%INDVGAME%"=="1" set CSTM=%%~nxg
 Pushd "%%~g"
+mkdir "scache"
+attrib +H "scache"
 call :injext
 )
 exit /b

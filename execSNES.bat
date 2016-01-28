@@ -1,13 +1,16 @@
 pushd "%GBC%\net\%EXECT%\%SNES%"
+
 "%GBC%\fart.exe" "snesgt.ini" [REZX] %DREZX%
 "%GBC%\fart.exe" "snesgt.ini" [REZY] %DREZY%
 "%GBC%\fart.exe" "%MEDN%*.cfg" [EMUL] "[EMUPTH]"
 "%GBC%\fart.exe" "zsnesw.cfg" [EMUL] "[EMUPTH]"
 "%GBC%\fart.exe" "zsnesw.cfg" "[EMUPTH]"
 "%GBC%\fart.exe" "snesgt.ini" "[EMUPTH]\snesgt.ini"
+
 if "%CEMU%"=="%SN9X%" call "%GBC%\sn9xInj.bat">>"%GBC%\logs\%CSTCONS%sn9xInj.log"
 if "%CEMU%"=="%MEDN%" call "%GBC%\mednInj.bat">>"%GBC%\logs\%CSTCONS%mednInj.log"
 popd
+
 for /d %%g IN ("%CSTM%") DO (
 set CSTM=%%~g
 set /A ADDTO=0
@@ -25,6 +28,7 @@ if /I "%%~xa"==".zip" call :addto && "%GBC%\fart.exe" "%GBC%\net\%EXECT%\%CSTCON
 popd
 )
 exit /b
+
 :addto
 SET /A ADDTO+=1
 if %ADDTO% GEQ 2 set FNDMORE=1

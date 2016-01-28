@@ -2,11 +2,12 @@ call "%GBC%\steamprep.bat">>"%GBC%\logs\steamprep.log"
 if "%UNPREP%"=="1" exit /b
 if "%STEAMICE%"=="" goto :RJSTEAM
 
-call "%GBC%\steamice.bat">>"%GBC%\logs\steamice.log"
+call "%GBC%\steamice.bat"
 exit /b
 
 :RJSTEAM
 copy /y "%GBC%\net\STEAM\compile.set" "%GBC%\net\STEAM\compile.ini"
+
 :SELECTCONSOLE
 del /q "%GBC%\list.ini"
 del /q "%GBC%\curlist.ini"
@@ -23,10 +24,19 @@ set CSTCONS=%%~a
 call :BEGIN
 )
 call :FINISH
-
 %BSTRT% "%WFINS%" "RJ_GUI" "ALL Games Added" /STOP /TIMEOUT:1
 exit /b
 
+:ADDALL
+for /f "delims=" %%a in ('dir /s/b/a-d-h "%GBG%\%GAM%\%LOCMIR%\%CSTCONS%"') do (
+set ROMF=%%~nxa
+set ROMNAME=%%~na
+set ROMFULL=%%~a
+set ROMP=%%~dpa
+CALL :COMP
+call :COMPILE
+)
+exit /b
 
 :BEGIN
 set ICONUM=0
@@ -66,10 +76,10 @@ set REMAIN=
 for /f "delims=" %%a in ('dir /b/a-d-h "%GBC%\net\STEAM\%CSTCONS%\*.fzq"') do set /a REMAIN+=1
 for /f "delims=" %%a in ('dir /b/a-d-h "%GBC%\net\STEAM\%CSTCONS%\*.fzq"') do (
 set FZQN=%%~a
-if "%FZQNUM%"=="" call "%GBC%\tmpdel.cmd">>"%GBC%\logs\tmpdel.log"
+if "%FZQNUM%"=="" call "%GBC%\tmpdel.cmd"
 echo.del /q "%GBC%\net\STEAM\%CSTCONS%\%%~a">>"%GBC%\tmpdel.cmd"
 set /a FZQNUM+=1
-set /a REMAIN=-1
+set /a REMAIN+=-1
 call :FZQCOMP
 )
 
@@ -77,10 +87,10 @@ echo|set /p=" "[STMPTH]\Z.tot" ">>"%GBC%\net\STEAM\addenum.ini"
 "%GBC%\fart.exe" "%GBC%\net\STEAM\addenum.ini" [STMPTH] "%GBC%\net\STEAM\%CSTCONS%"
 del /q "%GBC%\net\STEAM\addenum.cmd"
 rename "%GBC%\net\STEAM\addenum.ini" "addenum.cmd"
-call "%GBC%\net\STEAM\addenum.cmd">>"%GBC%\logs\%CSTCONS%%FZQTOT%.log"
+call "%GBC%\net\STEAM\addenum.cmd"
 copy /y "%GBC%\net\STEAM\addenum.set" "%GBC%\net\STEAM\addenum.ini"
-call "%GBC%\tmpdel.cmd">>"%GBC%\logs\tmpdel.log"
-echo --------------->>"%GBC%\logs\tmpdel.log"
+call "%GBC%\tmpdel.cmd"
+echo ---------------
 del /q "%GBC%\tmpdel.cmd"
 goto :FZQCONT
 
@@ -99,10 +109,10 @@ echo|set /p=" "[STMPTH]\%FZQTOT%.tot" ">>"%GBC%\net\STEAM\addenum.ini"
 "%GBC%\fart.exe" "%GBC%\net\STEAM\addenum.ini" [STMPTH] "%GBC%\net\STEAM\%CSTCONS%"
 del /q "%GBC%\net\STEAM\addenum.cmd"
 rename "%GBC%\net\STEAM\addenum.ini" "addenum.cmd"
-call "%GBC%\net\STEAM\addenum.cmd">>"%GBC%\logs\%CSTCONS%%FZQTOT%.log"
+call "%GBC%\net\STEAM\addenum.cmd"
 copy /y "%GBC%\net\STEAM\addenum.set" "%GBC%\net\STEAM\addenum.ini"
-call "%GBC%\tmpdel.cmd">>"%GBC%\logs\tmpdel.log"
-echo --------------->>"%GBC%\logs\tmpdel.log"
+call "%GBC%\tmpdel.cmd"
+echo ---------------
 del /q "%GBC%\tmpdel.cmd"
 exit /b
 
@@ -132,6 +142,7 @@ if "%ICONUM%"=="1" goto :SKP
 if "%ICONUM%"=="0" goto :SKP
 rename "%GBC%\net\STEAM\%CSTCONS%\Z.tot" "Z.del"
 copy /b "%GBC%\net\STEAM\%CSTCONS%\Z.del" + "%GBC%\net\STEAM\SYSN.vdf"%ICONTMP% + "%GBC%\net\STEAM\SETEND.vdf" "%GBC%\net\STEAM\%CSTCONS%\Z.tot"
+
 :SKP
 if "%ADDALL%"=="1" exit /b
 goto :SELECTCONSOLE
@@ -149,6 +160,7 @@ exit /b
 set ICNEXST=
 if "%STEAMICON%"=="" goto :COMPTIN
 if exist "%HPN%\Media\%CSTCONS%\Wheel\%ROMNAME%.png" set ICNEXST=1
+
 :COMPTIN
 for %%a in ("%ROMP:~0,-1%") do set ROMPTH=%%~a
 for %%a in ("%ROMPTH%") do set SYSNAME=%%~na

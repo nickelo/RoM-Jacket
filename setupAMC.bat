@@ -258,7 +258,7 @@ if "%AMCNAM2%"=="EMU\" for %%a in ("Player 2 is a Joystick^") do set XPMEN2=%%~a
 if "%AMCNAM2%"=="Blank" for %%a in ("Player 2 is Blank^") do set XPMEN2=%%~a
 if "%ANTMIC%"=="DISABLED" (set AMCT=Enable) ELSE (set AMCT=Disable)
 if "%ANTMIC%"=="DISABLED" SET XPUPDT=
-"%GBC%\wbox.exe" "RJ_GUI" "^^##########^antiMicro Menu^%MARKAMC%%XPMEN1%%XPMEN2%##########^^  Install^    Download, Install or locate and enable antiMicro.^^  Initialize^     Create antiMicro profiles for your front-ends.^^  Re/Generate^     Create and update profiles for a Console.^^  %OVERVERT%^     Override/Reinstate the annoying dialoge box Windows UAC generates when using antimicro.^^  Disable^     Disable antiMicro^^" "Configure;Initialize;Re/Generate;Disable;MainMenu"
+"%GBC%\wbox.exe" "RJ_GUI" "^^##########^antiMicro Menu^%MARKAMC%%XPMEN1%%XPMEN2%##########^^  Install^    Download, Install or locate and enable antiMicro.^^  Initialize^     Create antiMicro profiles for your front-ends.^^  Re/Generate^     Create and update profiles for a Console.^^  Disable^     Disable antiMicro^^" "Configure;Initialize;Re/Generate;Disable;MainMenu"
 if %ERRORLEVEL%==1 goto :instantiMicro
 if %ERRORLEVEL%==2 goto :initialization
 if %ERRORLEVEL%==3 goto :extracting_profiles

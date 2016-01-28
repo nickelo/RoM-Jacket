@@ -39,12 +39,9 @@ for /f "delims=" %%a in ("%CD%\Folder.ico") do set ICONFLDR=%%~a
 if exist "%ICONFLDR%" goto :ICONSET
 for /f "delims=" %%a in ("%CD%\Folder.ico") do set ICONFLDR=%%~a
 
-
 :ICONSET
 if "%DESTNZ%"=="" xxmklink.exe "%CD%\%ROMN%.lnk" "%CD%\%ROMN%.bat" "" "%CD%" GameExecutable 7 "%CD%\Folder.ico"
-
 if "%DESTNZ%" NEQ "" xxmklink.exe "%DESKTOPDIR%\%ROMN%\%ROMN%.lnk" "%DESTNZ%\%ROMN%\%ROMN%.bat" "" "%DESTNZ%\%ROMN%" GameExecutable 7 "%DESTNZ%\%ROMN%\Folder.ico"
-
 exit /b
 
 :CANCELLED

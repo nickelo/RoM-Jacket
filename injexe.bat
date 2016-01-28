@@ -8,7 +8,8 @@ REM if "%XPADDER%"=="[XPD]" "%GBC%\fart.exe" "*.bat" [XPT] "REM [XPT]"
 REM if "%XPADDER%"=="" "%GBC%\fart.exe" "*.bat" [XPT] "REM [XPT]" 
 REM if "%XPADDER%"=="[XPD]" "%GBC%\fart.exe" "*.bat" [XPT] --remove 
 REM "%GBC%\fart.exe" "*.bat" [XPT] --remove 
-if "%JOYVAL%"=="DISABLED" "%GBC%\fart.exe" "*.bat" [XPT] "REM [XPT]"
+if "%JOYVAL%" NEQ "XPADDER" "%GBC%\fart.exe" "*.bat" [XPT] "REM [XPT]"
+if "%JOYVAL%"=="ANTIMIC" "%GBC%\fart.exe" "*.bat" [XPLT] "1"
 if "%JOYVAL%"=="XPADDER" "%GBC%\fart.exe" "*.bat" [JYZ] --remove
 if "%JOYVAL%"=="ANTIMIC" "%GBC%\fart.exe" "*.bat" [JYZ] --remove
 "%GBC%\fart.exe" "*.bat" [XPD] --remove

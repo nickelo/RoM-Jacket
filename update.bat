@@ -39,8 +39,8 @@ for %%a in ("%TRANSTMP:~0,-1%") do set TRANSP=%%~a
 exit /b
 
 :GITREPO
-%BSTRT% "%WFINS%" "RJ_GUI" "NOTIFICATION"  /Stop /timeout:3
-"%GBC%\wbox.exe" "RJ_GUI" "Live-Updates can be found at http://github.com/romjacket/RoM-Jacket/^Git option here soon^" "Great!" /BW=200 /DB=1 /TM=3
+%BSTRT% "%WFINS%" "RJ_GUI" "NOTIFICATION" "UPDATE FOUND" /Stop /timeout:1
+"%GBC%\wbox.exe" "RJ_GUI" "Latest updates can be found at http://github.com/romjacket/RoM-Jacket/^^Git options here soon^" "Great!" /BW=280 /DB=1 /TM=10
 if %errorlevel%==1 goto :COMPLETE
 goto :QUITOUT
 
